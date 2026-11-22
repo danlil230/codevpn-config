@@ -1,0 +1,43 @@
+# Обновлено скриптом: 22.11.2026 18:06:02 · Серверов: 0
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+
+proxies:
+
+proxy-groups:
+  - name: "Режим"
+    type: select
+    proxies: ["Автовыбор", "Ручной", "Режим БС", "DIRECT"]
+  - name: "Ручной"
+    type: select
+    proxies:
+      - "DIRECT"
+      - "DIRECT"
+  - name: "Автовыбор"
+    type: url-test
+    url: "http://cp.cloudflare.com/generate_204"
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "DIRECT"
+  - name: "Режим БС"
+    type: select
+    proxies: ["Автоматический", "Ручной БС", "DIRECT"]
+  - name: "Ручной БС"
+    type: select
+    proxies:
+      - "DIRECT"
+      - "DIRECT"
+  - name: "Автоматический"
+    type: url-test
+    url: "http://cp.cloudflare.com/generate_204"
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "DIRECT"
+
+rules:
+  - MATCH,Режим
