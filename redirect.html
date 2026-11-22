@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>code VPN 3.0 — Перенаправление на подписку</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; background: #0f172a; color: #f8fafc; display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; padding: 20px; }
+    .card { max-width: 520px; width: 100%; background: #1e293b; border-radius: 16px; padding: 24px; box-shadow: 0 12px 30px rgba(0,0,0,.35); }
+    h1 { margin: 0 0 8px; font-size: 20px; }
+    p { color: #cbd5e1; line-height: 1.5; font-size: 14px; }
+    a.btn { display: block; text-align: center; text-decoration: none; font-weight: 600; padding: 12px 16px; border-radius: 10px; margin-top: 10px; }
+    .yaml { background: #0d9488; color: #fff; }
+    .txt { background: #2563eb; color: #fff; }
+    .meta { margin-top: 14px; font-size: 12px; color: #94a3b8; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🚀 code VPN 3.0 — LinkStation</h1>
+    <p>Выбери нужный формат актуальной конфигурации (если задан параметр <code>?mode=yaml</code> или <code>?mode=txt</code>, переход произойдёт автоматически):</p>
+    <a class="btn yaml" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml">⚙️ Открыть Mihomo YAML (рекомендуется)</a>
+    <a class="btn txt" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt">📄 Открыть TXT-подписку (sub.txt)</a>
+    <div class="meta">Обновлено: 22.11.2026 21:23:53</div>
+  </div>
+  <script>
+    (function() {
+      const TXT_URL = "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt";
+      const YAML_URL = "https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml";
+      const params = new URLSearchParams(window.location.search);
+      const mode = (params.get("mode") || params.get("target") || "").toLowerCase();
+      if (mode === "yaml" || mode === "mihomo") {
+        window.location.replace(YAML_URL);
+      } else if (mode === "txt" || mode === "sub") {
+        window.location.replace(TXT_URL);
+      }
+    })();
+  </script>
+</body>
+</html>
