@@ -1,4 +1,4 @@
-# Обновлено скриптом: 22.11.2026 18:11:40 · Серверов: 205
+# Обновлено скриптом: 22.11.2026 19:46:56 · Серверов: 219
 mixed-port: 7890
 allow-lan: false
 mode: rule
@@ -6,211 +6,225 @@ log-level: info
 external-controller: 127.0.0.1:9090
 
 proxies:
-  - {"name": "🇦🇪 ОАЭ · main", "type": "vless", "server": "217.60.66.9", "port": 443, "uuid": "b7049a06-1e51-4e2d-854a-7f81b0d0b35f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "gnl7847.maxleshax.icu", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "SUhJ4k2qX791MtexRs-RYx8VkNbIZQoh_2S-j1qRsgA", "short-id": "58116b824e4487d0"}}
-  - {"name": "🇯🇵 Япония · main (172.64.190.13:443)", "type": "vless", "server": "172.64.190.13", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "android", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
-  - {"name": "🇺🇸 США · main (104.19.28.32:443)", "type": "vless", "server": "104.19.28.32", "port": 443, "uuid": "8344360f-0349-4784-a19f-33fd92e89389", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "chrome", "servername": "sync.2ml.bid"}
-  - {"name": "🇺🇸 США · main (104.18.53.172:8443)", "type": "vless", "server": "104.18.53.172", "port": 8443, "uuid": "8344360f-0349-4784-a19f-33fd92e89389", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "sync.2ml.bid"}
-  - {"name": "🇺🇸 США · main (104.18.220.84:8443)", "type": "vless", "server": "104.18.220.84", "port": 8443, "uuid": "0d46fdf1-0dc5-4a71-8dfc-8f68ff6aab66", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "worker3.reviso4655.workers.dev", "ws-opts": {"path": "/", "headers": {"Host": "worker3.reviso4655.workers.dev"}}}
-  - {"name": "🇺🇸 США · main (104.21.76.96:443)", "type": "vless", "server": "104.21.76.96", "port": 443, "uuid": "8344360f-0349-4784-a19f-33fd92e89389", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "sync.2ml.bid"}
-  - {"name": "🇯🇵 Япония · main (104.21.34.106:443)", "type": "vless", "server": "104.21.34.106", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
-  - {"name": "🇺🇸 США · main (104.16.251.179:443)", "type": "vless", "server": "104.16.251.179", "port": 443, "uuid": "fceb3200-2516-47d2-8e28-d04ecde9427a", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "ws-opts": {"path": "/", "headers": {}}}
-  - {"name": "🇳🇱 Нидерланды · main (31.56.184.113:443)", "type": "vless", "server": "31.56.184.113", "port": 443, "uuid": "620f9e6e-72a5-43f0-83a4-25654869a531", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "niake.ddoijtt3.cfd", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ci79SnAKQ91b6SXtRZYw9a5umCCX9aCobQkZz7ShwFU", "short-id": ""}}
-  - {"name": "🇺🇸 США · main (172.64.80.1:443)", "type": "vless", "server": "172.64.80.1", "port": 443, "uuid": "8344360f-0349-4784-a19f-33fd92e89389", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "sync.2ml.bid"}
+  - {"name": "🇳🇱 Нидерланды · main (152.234.248.107:8443)", "type": "vless", "server": "152.234.248.107", "port": 8443, "uuid": "b4eac4df-51e3-419b-8323-e45e6a2dd200", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "node149.overcdn.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs", "short-id": "a20d3ed244c76426"}}
   - {"name": "🇳🇱 Нидерланды · main (93.152.215.186:443)", "type": "vless", "server": "93.152.215.186", "port": 443, "uuid": "be14c829-54ae-44e9-bd06-26f1a936b32c", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "edge", "servername": "nl7.maxleshax.icu", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "HRTDbh1GG7HDFV_VD3j2d_Nwue2h69sos56jvn5tTxo", "short-id": "4e08e2d6115f4a3f"}}
-  - {"name": "🇩🇪 Германия · main (188.114.98.0:443)", "type": "vless", "server": "188.114.98.0", "port": 443, "uuid": "88e79aa6-f431-4453-8dcc-652a0c747198", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "edge", "servername": "o685y.save-node.com", "ws-opts": {"path": "/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p", "headers": {"Host": "o685y.save-node.com"}}}
-  - {"name": "🇳🇱 Нидерланды · main (31.77.28.241:443)", "type": "vless", "server": "31.77.28.241", "port": 443, "uuid": "cd1ac04c-3dea-450b-b57b-2aa00f357353", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "home.syoknew.biz", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "GIe8sesUIyAz8Kq7t9B7tcPgrhYcRGPuGas9SRqMLTI", "short-id": "1c52d1ee7a01fee0"}}
-  - {"name": "🇺🇸 США · main (104.17.177.160:8443)", "type": "vless", "server": "104.17.177.160", "port": 8443, "uuid": "fceb3200-2516-47d2-8e28-d04ecde9427a", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "ws-opts": {"path": "/", "headers": {}}}
-  - {"name": "🇪🇺 EU · main", "type": "vless", "server": "141.193.213.20", "port": 8443, "uuid": "4d8d9640-7cc7-4c55-ba54-6ce0d1709541", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "matrix.learnpodedu.com", "ws-opts": {"path": "/", "headers": {"Host": "matrix.learnpodedu.com"}}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (143.203.216.187:443)", "type": "vless", "server": "143.203.216.187", "port": 443, "uuid": "6db6b948-655f-4f68-a9e7-865050e05b31", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "remote.propaint.cl", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "o7R9liafUMmCf4Sr14gLaB-gZ7mo_axffMCT176tuHw", "short-id": "672cfc"}}
-  - {"name": "🇨🇦 Канада · main", "type": "vless", "server": "104.17.169.7", "port": 2096, "uuid": "51a0af77-a60c-4d9b-81a4-f50e1b38d90b", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "ws-opts": {"path": "/", "headers": {}}}
-  - {"name": "🇯🇵 Япония · main (104.17.50.227:443)", "type": "vless", "server": "104.17.50.227", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "android", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
-  - {"name": "🇬🇧 Великобритания · main (172.64.155.209:8443)", "type": "vless", "server": "172.64.155.209", "port": 8443, "uuid": "e88c423d-9f23-4d25-aef0-940571858d58", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "sinavm2.soft10.ir"}
-  - {"name": "🇫🇮 Финляндия · main (154.197.64.252:443)", "type": "vless", "server": "154.197.64.252", "port": 443, "uuid": "6b9abde8-3909-4705-9408-a445af4143cc", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "ws-opts": {"path": "/", "headers": {}}}
-  - {"name": "🇯🇵 Япония · main (104.16.0.1:443)", "type": "vless", "server": "104.16.0.1", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "jp3.yohototo.top", "ws-opts": {"path": "%2Ftyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
-  - {"name": "🇺🇸 США · main (104.19.39.229:443)", "type": "vless", "server": "104.19.39.229", "port": 443, "uuid": "51a0af77-a60c-4d9b-81a4-f50e1b38d90b", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "ws-opts": {"path": "/", "headers": {}}}
-  - {"name": "🇳🇱 Нидерланды · main (51.158.206.96:23576)", "type": "vless", "server": "51.158.206.96", "port": 23576, "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "fuck.rkn", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s", "short-id": "01"}}
-  - {"name": "🇯🇵 Япония · main (104.16.10.84:443)", "type": "vless", "server": "104.16.10.84", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "qq", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
-  - {"name": "🇩🇪 Германия · main (177.1.187.188:443)", "type": "vless", "server": "177.1.187.188", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
-  - {"name": "🇯🇵 Япония · main (104.16.10.135:443)", "type": "vless", "server": "104.16.10.135", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "android", "servername": "jp3.yohototo.top", "ws-opts": {"path": "%2Ftyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
-  - {"name": "🇺🇸 США · main (saas.sin.fan:2053)", "type": "vless", "server": "saas.sin.fan", "port": 2053, "uuid": "5d7b401c-78fa-4254-872e-6d42bf7e75ec", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "vp11.1145678.xyz", "ws-opts": {"path": "/videos/forum", "headers": {"Host": "vp11.1145678.xyz"}}}
-  - {"name": "🇪🇺 EU · main (199.68.156.123:443)", "type": "vless", "server": "199.68.156.123", "port": 443, "uuid": "1d16c6e0-1bbe-435b-b661-90043fee999c", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "notls.lukongtou.eu.org", "ws-opts": {"path": "/", "headers": {"Host": "notls.lukongtou.eu.org"}}}
-  - {"name": "🇳🇱 Нидерланды · main (79.182.39.135:443)", "type": "vless", "server": "79.182.39.135", "port": 443, "uuid": "cda0862a-0f87-4be9-8ed8-1d0c9e382839", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "15b171g.nl7.h1clayd.click", "reality-opts": {"public-key": "zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE", "short-id": "50a749f0eccb628c"}}
-  - {"name": "🇺🇸 США · main (172.64.153.205:2087)", "type": "vless", "server": "172.64.153.205", "port": 2087, "uuid": "51a0af77-a60c-4d9b-81a4-f50e1b38d90b", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "ws-opts": {"path": "/", "headers": {}}}
-  - {"name": "🇸🇬 Сингапур · main", "type": "vless", "server": "104.17.3.81", "port": 80, "uuid": "fdd8f4d0-4500-11ef-8227-1577c1651679", "udp": true, "tls": false, "network": "ws", "client-fingerprint": "firefox", "ws-opts": {"path": "/", "headers": {}}}
-  - {"name": "🇯🇵 Япония · main (172.67.217.240:443)", "type": "vless", "server": "172.67.217.240", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
-  - {"name": "🇩🇪 Германия · main", "type": "vless", "server": "144.31.62.22", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
+  - {"name": "🇯🇵 Япония · main #12", "type": "vless", "server": "172.64.190.13", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "safari", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇬🇧 Великобритания · main #2", "type": "vless", "server": "172.64.155.209", "port": 8443, "uuid": "a20ea704-ec9d-4c5d-9b12-fa760cdf2290", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "sinavm2.soft10.ir"}
+  - {"name": "🇫🇷 Франция · main (185.16.110.71:443)", "type": "vless", "server": "185.16.110.71", "port": 443, "uuid": "b538377e-c372-414d-bd02-becfed21852f", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "shazam.wbciran.com", "ws-opts": {"path": "/jpyBT7v", "headers": {"Host": "shazam.wbciran.com"}}}
+  - {"name": "🇯🇵 Япония · main (104.19.164.155:443)", "type": "vless", "server": "104.19.164.155", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇯🇵 Япония · main #14", "type": "vless", "server": "172.67.217.240", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "jp3.yohototo.top", "ws-opts": {"path": "tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇸🇬 Сингапур · main (141.193.213.21:8443)", "type": "vless", "server": "141.193.213.21", "port": 8443, "uuid": "4d8d9640-7cc7-4c55-ba54-6ce0d1709541", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "matrix.learnpodedu.com", "ws-opts": {"path": "/", "headers": {"Host": "matrix.learnpodedu.com"}}}
+  - {"name": "🇺🇸 США · main #4", "type": "vless", "server": "tachu37.top", "port": 443, "uuid": "65c21703-ae89-4eed-ae87-8bec8a4c000c", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "tachu37.top", "ws-opts": {"path": "/js", "headers": {"Host": "tachu37.top"}}}
+  - {"name": "🇯🇵 Япония · main #10", "type": "vless", "server": "104.21.70.228", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "jp3.yohototo.top", "ws-opts": {"path": "tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇸🇬 Сингапур · main (141.193.213.20:8443)", "type": "vless", "server": "141.193.213.20", "port": 8443, "uuid": "4d8d9640-7cc7-4c55-ba54-6ce0d1709541", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "matrix.learnpodedu.com", "ws-opts": {"path": "/", "headers": {"Host": "matrix.learnpodedu.com"}}}
+  - {"name": "🇳🇱 Нидерланды · main (217.60.66.9:443)", "type": "vless", "server": "217.60.66.9", "port": 443, "uuid": "b7049a06-1e51-4e2d-854a-7f81b0d0b35f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "gnl7847.maxleshax.icu", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "SUhJ4k2qX791MtexRs-RYx8VkNbIZQoh_2S-j1qRsgA", "short-id": "58116b824e4487d0"}}
+  - {"name": "🇩🇪 Германия · main (104.17.70.206:8443)", "type": "vless", "server": "104.17.70.206", "port": 8443, "uuid": "3692de53-42e6-4aed-a522-40ec355dcd2f", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "edge", "servername": "free.sahanwickramasinghe.com", "ws-opts": {"path": "/", "headers": {"Host": "free.sahanwickramasinghe.com"}}}
+  - {"name": "🇳🇱 Нидерланды · main #5", "type": "vless", "server": "fr-free.fastestrelay.com", "port": 443, "uuid": "364D2D52-E61E-4E52-80EC-2BC6BDF15349", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "fr-free.fastestrelay.com", "ws-opts": {"path": "/700gvl", "headers": {"Host": "fr-free.fastestrelay.com"}}}
+  - {"name": "🇯🇵 Япония · main (104.18.37.127:443)", "type": "vless", "server": "104.18.37.127", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "ios", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
   - {"name": "🇳🇱 Нидерланды — обход БС (2.26.96.185:443)", "type": "vless", "server": "2.26.96.185", "port": 443, "uuid": "1503b88d-1ab7-4c84-b5a2-508404690dc1", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "main-bloger.luepinecorp.org", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "8ANGWQ6nUqJDHJZJT5aydECs5szj3FJOBICvkgMrMAo", "short-id": "91b7c3a4e6d2f058"}}
-  - {"name": "🇺🇸 США — обход БС", "type": "vless", "server": "179.253.150.201", "port": 443, "uuid": "00418fb9-023f-47fd-96ef-1ab5c1b42135", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "status-eu-central.homepic.org", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "TkuZvhr3gm6AI1gzSpVKJl5v1xEjS_0jV5R-FEHxm0E", "short-id": "70e825af92e75a1d"}}
-  - {"name": "🇩🇪 Германия · main (179.254.166.170:443)", "type": "vless", "server": "179.254.166.170", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (hammer.676767676767.ru:443)", "type": "vless", "server": "hammer.676767676767.ru", "port": 443, "uuid": "d8c6c5bc-66ee-45c6-94fd-fa16f486e771", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "hammer.676767676767.ru", "reality-opts": {"public-key": "RX2VQ6FZarV3PhICXIggqLTJ6GcEOJcZJLfCu8hwuRo", "short-id": ""}}
-  - {"name": "🇯🇵 Япония · main (104.21.0.87:443)", "type": "vless", "server": "104.21.0.87", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
-  - {"name": "🇩🇪 Германия · main #2", "type": "vless", "server": "64.188.106.170", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
-  - {"name": "🇩🇪 Германия · main (179.254.166.167:443)", "type": "vless", "server": "179.254.166.167", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
-  - {"name": "🇩🇪 Германия · main (179.254.166.169:443)", "type": "vless", "server": "179.254.166.169", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
+  - {"name": "🇩🇪 Германия · main #29", "type": "vless", "server": "188.114.98.0", "port": 443, "uuid": "88e79aa6-f431-4453-8dcc-652a0c747198", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "o685y.save-node.com", "ws-opts": {"path": "/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p", "headers": {"Host": "o685y.save-node.com"}}}
+  - {"name": "🇯🇵 Япония · main (104.27.46.35:443)", "type": "vless", "server": "104.27.46.35", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "safari", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇯🇵 Япония · main #6", "type": "vless", "server": "104.16.0.1", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "jp3.yohototo.top", "ws-opts": {"path": "%2Ftyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇳🇱 Нидерланды · main (31.56.184.113:443)", "type": "vless", "server": "31.56.184.113", "port": 443, "uuid": "620f9e6e-72a5-43f0-83a4-25654869a531", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "niake.ddoijtt3.cfd", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ci79SnAKQ91b6SXtRZYw9a5umCCX9aCobQkZz7ShwFU", "short-id": ""}}
+  - {"name": "🇯🇵 Япония · main (104.18.153.10:443)", "type": "vless", "server": "104.18.153.10", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "safari", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇳🇱 Нидерланды · main (187.52.44.79:443)", "type": "vless", "server": "187.52.44.79", "port": 443, "uuid": "3267ad95-f505-4f08-a852-6febd5af09ff", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "cvetidamam.growmart.site", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "LW0B4oSrkCd3atsq6Lr3M2dDReW8dVtodLsau4qlxWM", "short-id": "05a874ff16cfe500"}}
   - {"name": "🇳🇱 Нидерланды · main (195.206.235.139:443)", "type": "vless", "server": "195.206.235.139", "port": 443, "uuid": "cda0862a-0f87-4be9-8ed8-1d0c9e382839", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "717252g.nl8.h1clayd.click", "reality-opts": {"public-key": "PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU", "short-id": "d3bd772514c87d28"}}
-  - {"name": "🇺🇸 США · main (172.67.192.112:443)", "type": "vless", "server": "172.67.192.112", "port": 443, "uuid": "8344360f-0349-4784-a19f-33fd92e89389", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "sync.2ml.bid"}
+  - {"name": "🇯🇵 Япония · main #3", "type": "vless", "server": "104.17.50.227", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇺🇸 США · main (172.64.154.113:8443)", "type": "vless", "server": "172.64.154.113", "port": 8443, "uuid": "53bbdad4-2f4e-45db-8df4-fa491a6a7227", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "freeceshi6.frii.site", "ws-opts": {"path": "/proxyip=ProxyIP.JP.CMLiussss.netfp=chrome", "headers": {"Host": "freeceshi6.frii.site"}}}
+  - {"name": "🇯🇵 Япония · main (104.21.70.21:443)", "type": "vless", "server": "104.21.70.21", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "edge", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇯🇵 Япония · main (104.16.10.135:443)", "type": "vless", "server": "104.16.10.135", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "android", "servername": "jp3.yohototo.top", "ws-opts": {"path": "%2Ftyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (31.77.114.101:443)", "type": "vless", "server": "31.77.114.101", "port": 443, "uuid": "5233b59b-fb2a-4a95-9036-9f33ada47afa", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "nlee.hurricanew.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "5a_6k1IpDBLUytAT5zgAhntcLtMzDGPMxCcftnq3-CQ", "short-id": "825d392c67e4"}}
+  - {"name": "🇩🇪 Германия · main (78.17.215.141:443)", "type": "vless", "server": "78.17.215.141", "port": 443, "uuid": "a346c521-7a7f-452b-9356-a4893feb5982", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "de15-r.bankai.party", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0", "short-id": "457fab2ac885dbe0"}}
+  - {"name": "🇩🇪 Германия · main (104.27.97.42:8443)", "type": "vless", "server": "104.27.97.42", "port": 8443, "uuid": "3692de53-42e6-4aed-a522-40ec355dcd2f", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "edge", "servername": "free.sahanwickramasinghe.com", "ws-opts": {"path": "/", "headers": {"Host": "free.sahanwickramasinghe.com"}}}
+  - {"name": "🇺🇸 США · main (104.19.39.229:443)", "type": "vless", "server": "104.19.39.229", "port": 443, "uuid": "51a0af77-a60c-4d9b-81a4-f50e1b38d90b", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "ws-opts": {"path": "/", "headers": {}}}
   - {"name": "🇩🇪 Германия · main (79.182.70.192:443)", "type": "vless", "server": "79.182.70.192", "port": 443, "uuid": "26843758-24de-4f76-b5d0-624038e353c4", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "15d7fft.nl11.h1clayd.click", "reality-opts": {"public-key": "xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4", "short-id": "c71118d9399fb8c2"}}
-  - {"name": "🇩🇪 Германия · main #3", "type": "vless", "server": "177.1.187.186", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
-  - {"name": "🇩🇪 Германия — обход БС", "type": "vless", "server": "57.129.84.119", "port": 443, "uuid": "fbfd5cd2-3aec-4a97-8a39-72ff08c1b6cc", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "net.gb.lolkemp.art", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U", "short-id": "6aa2d2e950441a9a"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (sw1c.voxicheck.com:443)", "type": "vless", "server": "sw1c.voxicheck.com", "port": 443, "uuid": "f3b18716-8aa2-4d9a-9bcc-f3a458f46f5b", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "sw1c.voxicheck.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4", "short-id": "abcd1234"}}
-  - {"name": "🇩🇪 Германия · main (179.254.166.168:443)", "type": "vless", "server": "179.254.166.168", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
-  - {"name": "🇩🇪 Германия · main (217.60.179.166:443)", "type": "vless", "server": "217.60.179.166", "port": 443, "uuid": "976f82d9-0e6b-40ed-9c09-cafd06c4bc98", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de166.mech-pro.online", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI", "short-id": "16e0f049"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (macbook.plus-hit.ru:443)", "type": "vless", "server": "macbook.plus-hit.ru", "port": 443, "uuid": "1de11cc2-3afc-40a9-b24a-819db2a60738", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "macbook.plus-hit.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA", "short-id": "7c8e3d4a9b1f26d3"}}
-  - {"name": "🇩🇪 Германия · main (31.56.18.208:443)", "type": "vless", "server": "31.56.18.208", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "gerb1.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
-  - {"name": "🇺🇸 США · main (191.217.215.228:2096)", "type": "vless", "server": "191.217.215.228", "port": 2096, "uuid": "fbe22815-0718-4eae-816f-e91c67d15b54", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "st3b6e5.rumedia-cdn.com", "ws-opts": {"path": "/cdn/v3/live", "headers": {"Host": "st3b6e5.rumedia-cdn.com"}}}
-  - {"name": "🇫🇷 Франция — обход БС (82.47.1.240:443)", "type": "vless", "server": "82.47.1.240", "port": 443, "uuid": "850a3eb8-064d-417a-87c9-770cab0ddf97", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "demo-us-east.livemusic.ac", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "CUfIHVvZtTD1RlJabgO3S-G-6Gyp_jZc8CE1gQd8YyE", "short-id": "b0d86cfde3454d28"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (94.183.164.48:443)", "type": "vless", "server": "94.183.164.48", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "turtle1.mcufa.pro", "reality-opts": {"public-key": "uR0Y9XXnLCHMDvBV99JPvY1l-ftxzjZ8iRLc04SKyw4", "short-id": "0123456789abcdef"}}
-  - {"name": "🇩🇪 Германия — обход БС (de-tube-01.cccpbot.fuck-rkn.xyz:443)", "type": "vless", "server": "de-tube-01.cccpbot.fuck-rkn.xyz", "port": 443, "uuid": "1d538e49-251a-4ea2-bb38-59f4349d8cdb", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.ussr.party", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc", "short-id": ""}}
-  - {"name": "🇪🇺 EU · main (91.107.188.129:2083)", "type": "vless", "server": "91.107.188.129", "port": 2083, "uuid": "bd6c11e0-0233-4fb1-ba97-8d5f16d7155f", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "site.check-looks.space", "ws-opts": {"path": "/", "headers": {"Host": "site.check-looks.space"}}}
-  - {"name": "🇺🇸 США · main (191.217.253.12:443)", "type": "vless", "server": "191.217.253.12", "port": 443, "uuid": "6dd17e9f-5b7c-466d-a53a-7c30f5dc8338", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "191.217.253.12", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI", "short-id": "db04ce8bdb8900f1"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (niake.ddoijtt3.cfd:443)", "type": "vless", "server": "niake.ddoijtt3.cfd", "port": 443, "uuid": "8fcca8fb-ee2b-4478-a26f-0c33c7cbf5db", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "niake.ddoijtt3.cfd", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ci79SnAKQ91b6SXtRZYw9a5umCCX9aCobQkZz7ShwFU", "short-id": ""}}
-  - {"name": "🇳🇱 Нидерланды · main (94.183.164.68:443)", "type": "vless", "server": "94.183.164.68", "port": 443, "uuid": "4f2de292-cafe-4a5a-80cc-742a957ca43c", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "dogklinik.growmart.site", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ju1YyCfbO_sLy_LZK6G7DbHpR8hhmSc4SaOLLbjuGSE", "short-id": "cd9c321977831739"}}
-  - {"name": "🇵🇱 Польша — обход БС (144.31.0.153:443)", "type": "vless", "server": "144.31.0.153", "port": 443, "uuid": "a086c8e2-7a2f-4265-9518-6d7529106b80", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "pool.recrent-sell.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "V5RcrDt9UjqudnN7aRlOfgV-Ue9ZDwW6TprFyntzkCI", "short-id": ""}}
-  - {"name": "🇵🇱 Польша — обход БС (177.3.252.240:8443)", "type": "vless", "server": "177.3.252.240", "port": 8443, "uuid": "b1dde8e4-9f7c-4468-93cf-53c64d933b54", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "safari", "servername": "hub.zadonat.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "SL9omNDVpeF6vWnbTPI5mN6ATl1L1eiMIKYx9XF7IVI", "short-id": "a1ab5a56bccba12e"}}
-  - {"name": "🇵🇱 Польша · main (144.31.171.37:443)", "type": "vless", "server": "144.31.171.37", "port": 443, "uuid": "873767a0-9b4a-470c-85f8-7449cd7a561c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "hellverser.mult-fandom.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Z-v1tBIQpFBfedRUOeHovEVL6Y22KmrBrDWY23cgtAI", "short-id": "4bd5aa582ceabfdd"}}
-  - {"name": "🇩🇪 Германия — обход БС (img-80hd5d8k.tetsuo.ink:443)", "type": "vless", "server": "img-80hd5d8k.tetsuo.ink", "port": 443, "uuid": "1152dfa2-ff12-46fc-a90b-6beab511d378", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "img-80hd5d8k.tetsuo.ink", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "5sNteqZ0LMnrc-Us7kUB5m4aKmEK4u85XIpFnmSstHI", "short-id": "a5592f6b1a145e4a"}}
-  - {"name": "🇸🇬 Сингапур · main (77.221.150.238:50443)", "type": "vless", "server": "77.221.150.238", "port": 50443, "uuid": "2056afb7-6649-49dc-944a-1a17a02f9d9d", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "cdn-5ebce1.at.tidalframe.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ", "short-id": ""}}
-  - {"name": "🇸🇬 Сингапур · main (191.44.19.24:443)", "type": "vless", "server": "191.44.19.24", "port": 443, "uuid": "e0f67e0a-6323-4ecb-9c1c-ca9ee4e48cf9", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "920afc50f23e.cdn.cachefleet.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "LcxpMyEhHOnoLDsGE8eY8ucHbZ2oByGihDGBnYpH_yo", "short-id": "43e3261006bf44b2"}}
-  - {"name": "🇬🇧 Великобритания · main", "type": "vless", "server": "5.104.74.48", "port": 8443, "uuid": "b4738e59-2113-48a1-9ca5-c7c83b56378c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "forum-nl-p1.ovchinkasp.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "kJsnrk06lPN3juIX5zXm1Sc_LUQcM5ueZ0l2HC6HEjI", "short-id": "9ae55c76092c774a"}}
-  - {"name": "🇩🇪 Германия · main (178.248.236.229:443)", "type": "vless", "server": "178.248.236.229", "port": 443, "uuid": "a71d6c6d-c95e-4ec1-a892-22e21733bf09", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "144.hexdey.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0", "short-id": "d05a120d3506d2cc"}}
-  - {"name": "🇺🇸 США · main #3", "type": "vless", "server": "tachu37.top", "port": 443, "uuid": "65c21703-ae89-4eed-ae87-8bec8a4c000c", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "tachu37.top", "ws-opts": {"path": "/js", "headers": {"Host": "tachu37.top"}}}
-  - {"name": "🇵🇱 Польша · main", "type": "vless", "server": "217.60.25.207", "port": 443, "uuid": "b7049a06-1e51-4e2d-854a-7f81b0d0b35f", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "gpl7843.maxleshax.icu", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "gas4N7hhyZ98hLF7vA5VvHD6GcnKuTI0ngKJtoS1BXg", "short-id": "242cbf3ac942c4fd"}}
-  - {"name": "🇵🇱 Польша · main (144.31.5.137:443)", "type": "vless", "server": "144.31.5.137", "port": 443, "uuid": "78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "se.dataroute.biz", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Jg9VG2d5YKA_b6b2oVT8_QaIEHyww04U050ahEPhZlU", "short-id": ""}}
-  - {"name": "🇸🇪 Швеция · main (88.216.129.84:443)", "type": "vless", "server": "88.216.129.84", "port": 443, "uuid": "9986b4e5-58dd-4360-8c58-d6b9c86584e2", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "edge", "servername": "reeltiles.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "0MrhgrveImRyxFaC9Q11Mm4-oN38uFlFFt4UnmGrxRo", "short-id": "041a595c72d82db0"}}
-  - {"name": "🇩🇪 Германия · main (162.19.175.14:443)", "type": "vless", "server": "162.19.175.14", "port": 443, "uuid": "9192ae0a-8a0f-47ac-950b-de7410f2fdf0", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "use-213566.riseapps.uk", "reality-opts": {"public-key": "Qdd1F_i_qBf1ytcmWK84u5flveCGJ5-_W-vusgXCJ2M", "short-id": "90d63689a4eebd03"}}
-  - {"name": "🇩🇪 Германия — обход БС (177.1.187.225:8443)", "type": "vless", "server": "177.1.187.225", "port": 8443, "uuid": "a640afc4-9267-4490-8c5c-7a82cc8c777d", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "sun3-16.userapi.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "fF67iKHu3Lji8KHktHOZvd6Rr45Fl0m3vay7y8Atlxg", "short-id": ""}}
-  - {"name": "🇩🇪 Германия · main (13.143.160.31:443)", "type": "vless", "server": "13.143.160.31", "port": 443, "uuid": "1f2463e4-545e-4fdf-bd09-303973bb53c7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "hermani.loknietotop.digital", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE", "short-id": "ff776ff77be48b88"}}
-  - {"name": "🇸🇪 Швеция · main", "type": "vless", "server": "swe.srv.hiddenmedia.pw", "port": 443, "uuid": "e54fc748-c657-4820-b593-87d333e8d137", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "swe.srv.hiddenmedia.pw", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "T-qDypPpfavzWteKpx1KjpW1USCjkBvNc6mzpRglw00", "short-id": "e496f788cd4b7402"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (cvetidamam.growmart.site:443)", "type": "vless", "server": "cvetidamam.growmart.site", "port": 443, "uuid": "3267ad95-f505-4f08-a852-6febd5af09ff", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "cvetidamam.growmart.site", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "LW0B4oSrkCd3atsq6Lr3M2dDReW8dVtodLsau4qlxWM", "short-id": "05a874ff16cfe500"}}
-  - {"name": "🇩🇪 Германия · main (178.214.125.2:443)", "type": "vless", "server": "178.214.125.2", "port": 443, "uuid": "da8972f9-770f-4012-ab46-5de2711a718b", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "conf.emaar.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ZxCwJxbsZWJYYCPzeWj7_fxJMVhwh4XGfpvjmEIQjHY", "short-id": "6172ba9cffe9c22f"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС", "type": "vless", "server": "grcn11.mncdn.ru", "port": 443, "uuid": "170da597-160b-4808-a964-b6edf0c5cab8", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "grcn11.mncdn.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "xY3I1qfhzIRPMEvAWdhGIjn5vk3Zf3juZwxaNzf5AyA", "short-id": "2f8a1c9e4b7d35"}}
-  - {"name": "🇵🇱 Польша — обход БС (78.17.171.175:443)", "type": "vless", "server": "78.17.171.175", "port": 443, "uuid": "a637b630-e425-11f1-84a2-52540030ba36", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "www.wp.pl", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ", "short-id": ""}}
-  - {"name": "🇺🇸 США · main (chess.com:443)", "type": "vless", "server": "chess.com", "port": 443, "uuid": "ddffa8f4-e108-43ef-a324-a823f535120e", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "edge", "servername": "nor.mouse-moj.site"}
-  - {"name": "🇱🇹 Литва · main (85.209.231.48:443)", "type": "vless", "server": "85.209.231.48", "port": 443, "uuid": "0eb6f3e6-65bf-4e73-bc27-787fcc702d90", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "fi.hy2.saturnix.fun", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "cLGdKVSj3dexWEP9n499V65F2DS16avbd8Rx5IxrJVo", "short-id": "0123456789abcdef"}}
-  - {"name": "🇩🇪 Германия · main (185.255.115.6:443)", "type": "vless", "server": "185.255.115.6", "port": 443, "uuid": "f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "0ef47cx.se4.h1clayd.click", "reality-opts": {"public-key": "LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4", "short-id": "356cc54d885a4036"}}
-  - {"name": "🇩🇪 Германия · main (45.144.52.205:4243)", "type": "vless", "server": "45.144.52.205", "port": 4243, "uuid": "78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "fi.convert-cloud.guru", "reality-opts": {"public-key": "vCHucdoD_m-TKVHS7si1akKgP6r4dvTLUX8y1TTZQG4", "short-id": ""}}
-  - {"name": "🇫🇮 Финляндия · main (179.254.169.116:8443)", "type": "vless", "server": "179.254.169.116", "port": 8443, "uuid": "c53ea5e9-ed8b-4990-805d-7f1d6451426c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "durov.sky-vault.top", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI", "short-id": "3cbc3d737fb9c4af"}}
-  - {"name": "🇩🇪 Германия · main (45.144.52.205:443)", "type": "vless", "server": "45.144.52.205", "port": 443, "uuid": "78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "fi.convert-cloud.guru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "9kQGK7IuVFWU9xCb4g9ygL1CEv87QmVZJzWLz74pTSc", "short-id": ""}}
-  - {"name": "🇮🇹 Италия · main", "type": "vless", "server": "82.118.16.187", "port": 443, "uuid": "dc2259c4-388e-4285-ba18-df619b6672b6", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "chrome", "servername": "www.cloudflare.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU", "short-id": "cd6065902eea7a02"}}
-  - {"name": "🇫🇮 Финляндия · main", "type": "vless", "server": "200.96.109.194", "port": 14443, "uuid": "936ef8c6-fd6c-4b6c-bc74-7c88ded9aa50", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "kiwi-logistic.ru", "reality-opts": {"public-key": "DFBCTsJbKYbaZGWGi_bKgIjrkoUmDaAha7iEe9fKWgo", "short-id": "d9662905"}}
-  - {"name": "🇱🇹 Литва · main", "type": "vless", "server": "176.118.198.122", "port": 4443, "uuid": "75cdbf9c-a207-41a7-9b93-0aee6e91d8fc", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "litenergy.xanka.best", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "u-atgxyh-vMFdvkypqgHKnJWNVpfBzBv9p_D5SjINm0", "short-id": "3dc224b3"}}
-  - {"name": "🇫🇮 Финляндия · main (144.31.128.220:14443)", "type": "vless", "server": "144.31.128.220", "port": 14443, "uuid": "936ef8c6-fd6c-4b6c-bc74-7c88ded9aa50", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "cosmo-convert.ru", "reality-opts": {"public-key": "TBvwkxwgTGYba7Jl3f2WcNBFvcKJ8uYHjYYdiyZTYCg", "short-id": "d9662905"}}
-  - {"name": "🇪🇸 Испания · main", "type": "vless", "server": "196.196.149.80", "port": 443, "uuid": "4201786b-d99b-4147-a5f0-20d47acddb81", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "7aa271t.es1.h1clayd.click", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE", "short-id": "42426c882c5fcd41"}}
-  - {"name": "🇸🇪 Швеция — обход БС (sw.webfree.icu:443)", "type": "vless", "server": "sw.webfree.icu", "port": 443, "uuid": "5233b59b-fb2a-4a95-9036-9f33ada47afa", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "sw.webfree.icu", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "zb1esVBjrdlitl7Z_YkRi44kC0NXVvF5U17LAXW6fDQ", "short-id": "825d392c67e4"}}
-  - {"name": "🇸🇪 Швеция — обход БС", "type": "vless", "server": "185.134.201.58", "port": 443, "uuid": "158586a0-7900-43ac-bb7f-8130463ae63a", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "185-134-201-58.sslip.io", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "rrJbi6Woop0oE-w2UJ_BrqghT2dmqTdxtgm0XPalHHY", "short-id": "2655142967e38cfa"}}
-  - {"name": "🇳🇱 Нидерланды · main (94.183.164.101:443)", "type": "vless", "server": "94.183.164.101", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "obger5.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
-  - {"name": "🇷🇺 Россия · main (5.183.253.25:443)", "type": "vless", "server": "5.183.253.25", "port": 443, "uuid": "f2341274-8dd8-4b80-95fd-780641f6f2da", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "web.poezdkafun.ru", "reality-opts": {"public-key": "aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ", "short-id": "0858af97f4e7324d"}}
-  - {"name": "🇺🇸 США · main (www.speedtest.net:443)", "type": "vless", "server": "www.speedtest.net", "port": 443, "uuid": "85550ebf-fd43-42dd-9801-bda528fea2fc", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "wallweb5.pages.dev", "ws-opts": {"path": "/", "headers": {"Host": "wallweb5.pages.dev"}}}
-  - {"name": "🇩🇪 Германия · main (45.86.158.53:443)", "type": "vless", "server": "45.86.158.53", "port": 443, "uuid": "082ff568-e0f1-42af-ad7c-2c46adde1273", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "4c980ft.fi15.h1clayd.click", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk", "short-id": "597e1c279d224774"}}
-  - {"name": "🇷🇺 Россия · main (46.243.142.2:443)", "type": "vless", "server": "46.243.142.2", "port": 443, "uuid": "4ea900c8-b0ed-4766-90bc-504ee4e4807e", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "api.floweroom.vip", "ws-opts": {"path": "/account/refresh/yVr9KTE0xTBC", "headers": {"Host": "api.floweroom.vip"}}}
-  - {"name": "🇪🇪 Эстония · main (109.206.241.143:8443)", "type": "vless", "server": "109.206.241.143", "port": 8443, "uuid": "f2650b14-ff3d-486d-9b7c-5f109a1e51f9", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "exton.xanka.best", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "6pZWjiFTUUuL3tjB8ls0cnyXTMbRbSdQ9Y31xi5NhEI", "short-id": "5be9fe01"}}
-  - {"name": "🇨🇳 Китай · main", "type": "vless", "server": "31.58.191.93", "port": 443, "uuid": "86420b69-84f9-4726-ab17-fb0a7bc05d8f", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "n4.fernstatic.com", "reality-opts": {"public-key": "0MSoevDfxrS1SB5IVdzFT2sMmicWY3Q1FjgZWbqsvXo", "short-id": "3b1a6acf74e481e7"}}
-  - {"name": "🇸🇪 Швеция — обход БС (se-edge.airlinesvpn.com:8450)", "type": "vless", "server": "se-edge.airlinesvpn.com", "port": 8450, "uuid": "43b0f054-ab3b-40eb-b744-a8ae3b7f0ccc", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "se-edge.airlinesvpn.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Q7sxkYZI8_spO92K6SQ1uRRhol1jsKLGGEH8I3n1dGk", "short-id": "dfcaa73fff344242"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (player6.cdnguard.org:443)", "type": "vless", "server": "player6.cdnguard.org", "port": 443, "uuid": "6f9a6cb2-be3b-49dd-9710-82e533c142d8", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "player6.cdnguard.org", "reality-opts": {"public-key": "ht-_OKQJiOaZ61qZNLAj7ZmNgDrqM4g64Q-BVssJCQ0", "short-id": "4560540ea7479206"}}
-  - {"name": "🇳🇱 Нидерланды · main (94.183.164.13:443)", "type": "vless", "server": "94.183.164.13", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "obger4.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
-  - {"name": "🇱🇻 Латвия · main", "type": "vless", "server": "193.163.203.6", "port": 16012, "uuid": "72522396-5408-4767-b134-70ca09cdfe36", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "chrome", "servername": "ronaldo.foxprox.uk", "reality-opts": {"public-key": "RS7fg9l3ALKws4NQv9jCl6l7uIG3Rq_PpXNnNCVUnSY", "short-id": "f0f1"}}
-  - {"name": "🇷🇺 Россия · main (185.31.114.251:443)", "type": "vless", "server": "185.31.114.251", "port": 443, "uuid": "17b0043a-d58c-4906-aefa-cb344e7d7cc0", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "lukafajooponi.begetcdn.cloud"}
-  - {"name": "🇺🇸 США · main (91.196.35.143:443)", "type": "vless", "server": "91.196.35.143", "port": 443, "uuid": "1f2836d7-e9ef-47d7-a9c4-1037077ae8d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "ru1.videoharpaeva.online", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "oaQaO3c-odwB8j4O2HHcvd8t5Bs73dlxTcv8CmW9C2Y", "short-id": "2d573e637e6b94be"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (212.192.3.113:9543)", "type": "vless", "server": "212.192.3.113", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇺🇸 США · main (saas.sin.fan:443)", "type": "vless", "server": "saas.sin.fan", "port": 443, "uuid": "5d7b401c-78fa-4254-872e-6d42bf7e75ec", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "safari", "servername": "vp12.1145678.xyz", "ws-opts": {"path": "/torrent/documents/photos", "headers": {"Host": "vp12.1145678.xyz"}}}
-  - {"name": "🇩🇪 Германия · main (hermani.loknietotop.digital:443)", "type": "vless", "server": "hermani.loknietotop.digital", "port": 443, "uuid": "1f2463e4-545e-4fdf-bd09-303973bb53c7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "hermani.loknietotop.digital", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE", "short-id": "ff776ff77be48b88"}}
-  - {"name": "🇷🇺 Россия · main (37.139.42.37:443)", "type": "vless", "server": "37.139.42.37", "port": 443, "uuid": "a77d6228-85a9-000d-b600-ccf4018230eb", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "rf.stich.my", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "H9fcn9PYzwPVE1egy37sbK04CCXE0dn4goOfiFFsIEs", "short-id": "acc22b7b5ba9dbf2"}}
-  - {"name": "🇫🇮 Финляндия — обход БС (rusea1.riseservice.me:443)", "type": "vless", "server": "rusea1.riseservice.me", "port": 443, "uuid": "9192ae0a-8a0f-47ac-950b-de7410f2fdf0", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "rusea1.riseservice.me", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "CycyTZTNdYiHpn7IBAr-jiNZ5F-NtiHccwbRef9opGY", "short-id": "3e73d18b32b6052c"}}
-  - {"name": "🇩🇪 Германия — обход БС (146.103.43.124:9543)", "type": "vless", "server": "146.103.43.124", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇸🇪 Швеция — обход БС (se02.kubservice.icu:443)", "type": "vless", "server": "se02.kubservice.icu", "port": 443, "uuid": "dca8faef-2366-4fc6-8f81-749a702ac77a", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "se02.kubservice.icu", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "AisbcoZfyF4z3iBBwTjVOV--ldDuON91tQtKBJ3lNzQ", "short-id": ""}}
-  - {"name": "🇷🇺 Россия · main (168.113.254.217:443)", "type": "vless", "server": "168.113.254.217", "port": 443, "uuid": "ef5a57c7-84d5-4f86-b99c-875a16da485f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "safari", "servername": "sbmicro690.alexdjane.am", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Lcqz3jkke-A5WHJv5yxGSUFV4qbT6FEbCASxAswYnFk", "short-id": "787145828dc7896c"}}
-  - {"name": "🇫🇷 Франция · main (195.216.168.101:9543)", "type": "vless", "server": "195.216.168.101", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "safari", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (212.192.3.222:9543)", "type": "vless", "server": "212.192.3.222", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇷🇺 Россия · main (138.16.206.147:2096)", "type": "vless", "server": "138.16.206.147", "port": 2096, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "www.cloudflare.com", "reality-opts": {"public-key": "4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs", "short-id": "6ba85179e30d4fc2"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (212.192.3.237:9543)", "type": "vless", "server": "212.192.3.237", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇵🇱 Польша — обход БС", "type": "vless", "server": "51.75.50.158", "port": 11780, "uuid": "36af793d-5dec-4419-b3d8-021aaa5dd547", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "ru.wargaming.net", "reality-opts": {"public-key": "2JQoSyLy7YeKGNbCm3OwbfbE53NvGDQFcRJkbQI7AEw", "short-id": "d0e438c0b266421b"}}
-  - {"name": "🇩🇪 Германия · main (146.103.43.70:9543)", "type": "vless", "server": "146.103.43.70", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (195.216.169.229:9543)", "type": "vless", "server": "195.216.169.229", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇷🇺 Россия · main (64.188.90.248:443)", "type": "vless", "server": "64.188.90.248", "port": 443, "uuid": "72522396-5408-4767-b134-70ca09cdfe36", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "safari", "servername": "ronaldo.foxprox.uk", "reality-opts": {"public-key": "f20b2EABHC76o4CnIBsc8PTnnyPeLKK-y6xnRkrorAc", "short-id": "97419a452e2a7201"}}
-  - {"name": "🇷🇺 Россия · main", "type": "vless", "server": "88.218.66.72", "port": 443, "uuid": "4360f688-6033-413e-9676-deb9b3d80b53", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "music.yandex.ru", "reality-opts": {"public-key": "AImh7aYS5qbbnErivMNEd-6PGLQuG1_r_8Y_rV3CiBg", "short-id": "f50e8fe01248f5e0"}}
-  - {"name": "🇪🇸 Испания — обход БС", "type": "vless", "server": "es-04.avroraservice.online", "port": 8443, "uuid": "ab53f3b6-7962-4bc1-90f6-8420767b22a8", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "cdn-es.cahmes.space", "reality-opts": {"public-key": "dSH20qQm9nyDIN1gI1KyUjtVOilHh0wG8t-Xw1iz638", "short-id": "01f0a0809d05552b"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (195.133.93.227:9543)", "type": "vless", "server": "195.133.93.227", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇺🇸 США · main (us-05.avroraservice.online:8443)", "type": "vless", "server": "us-05.avroraservice.online", "port": 8443, "uuid": "ab53f3b6-7962-4bc1-90f6-8420767b22a8", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "safari", "servername": "cdn-us.cahmes.space", "reality-opts": {"public-key": "KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k", "short-id": "6bd33a75ebc0f26e"}}
-  - {"name": "🇳🇱 Нидерланды · main (94.183.164.10:443)", "type": "vless", "server": "94.183.164.10", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "obger1.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
-  - {"name": "🇷🇺 Россия · main (cdn3.aleqseivpn.site:443)", "type": "vless", "server": "cdn3.aleqseivpn.site", "port": 443, "uuid": "e2a1c9f4-3b7d-4e6a-9c2f-8a1d5f6b7c9e", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "cdn3.aleqseivpn.site"}
-  - {"name": "🇫🇷 Франция · main (media.fernstatic.com:2100)", "type": "vless", "server": "media.fernstatic.com", "port": 2100, "uuid": "43add026-128a-47d3-a403-b3875b4638db", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "yastatic.net", "reality-opts": {"public-key": "Tij8e75rOzDtbTSciMvmEqE26h78VEIt7B_NK4QumCk", "short-id": "10806885b6614f73"}}
-  - {"name": "🇫🇷 Франция · main (assets.fernstatic.com:8446)", "type": "vless", "server": "assets.fernstatic.com", "port": 8446, "uuid": "43add026-128a-47d3-a403-b3875b4638db", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "yastatic.net", "reality-opts": {"public-key": "1hJPKCOTjPXm93o2JEeb-dOuFSkCvHj41uKM6yrP32Q", "short-id": "bcefc042d39188e0"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС (195.133.93.179:9543)", "type": "vless", "server": "195.133.93.179", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇫🇮 Финляндия — обход БС (107.150.93.43:443)", "type": "vless", "server": "107.150.93.43", "port": 443, "uuid": "e9958027-03be-4eb5-bcec-70415b2e4844", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "e9958027.ferrin.uk"}
-  - {"name": "🇪🇪 Эстония · main (107.150.93.5:443)", "type": "vless", "server": "107.150.93.5", "port": 443, "uuid": "e9958027-03be-4eb5-bcec-70415b2e4844", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "e9958027.ferrin.uk"}
-  - {"name": "🇫🇮 Финляндия · main (144.31.129.72:443)", "type": "vless", "server": "144.31.129.72", "port": 443, "uuid": "936ef8c6-fd6c-4b6c-bc74-7c88ded9aa50", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "coinjoin-video-stri.ru", "reality-opts": {"public-key": "aIxjIWyXHiV-aidKKODGmQva0yUPJzQ0Jzp4lg_urQY", "short-id": "d9662905"}}
-  - {"name": "🇪🇪 Эстония · main", "type": "vless", "server": "217.60.182.96", "port": 443, "uuid": "dc91568b-4f12-4ce1-a483-f04dd4913ab9", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "edge.mult-universe.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "5qVucogFLYlZOsG8DdX3dZRTr_2llj6_1OtZ9YfoilM", "short-id": "b12ebda62333a16a"}}
-  - {"name": "🇩🇪 Германия · main (dogklinik.growmart.site:443)", "type": "vless", "server": "dogklinik.growmart.site", "port": 443, "uuid": "4f2de292-cafe-4a5a-80cc-742a957ca43c", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "dogklinik.growmart.site", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ju1YyCfbO_sLy_LZK6G7DbHpR8hhmSc4SaOLLbjuGSE", "short-id": "cd9c321977831739"}}
-  - {"name": "🇨🇾 Кипр · main", "type": "vless", "server": "45.88.177.79", "port": 8443, "uuid": "ab53f3b6-7962-4bc1-90f6-8420767b22a8", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "cdn-us.cahmes.space", "reality-opts": {"public-key": "KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k", "short-id": "6bd33a75ebc0f26e"}}
-  - {"name": "🇫🇮 Финляндия · main (13.143.187.220:443)", "type": "vless", "server": "13.143.187.220", "port": 443, "uuid": "66c78912-4e2d-41dc-8742-aaae2590804e", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "fi-s1.kadrhub.tech", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg", "short-id": ""}}
-  - {"name": "🇺🇸 США — обход БС (91.185.83.95:443)", "type": "vless", "server": "91.185.83.95", "port": 443, "uuid": "48af8541-a564-426e-a1e5-9c1a29b011d6", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "st1.storage-f4a1.com", "reality-opts": {"public-key": "AwIcnyMwLivH2N-GBVdkRD1YWP3nsNCvIf-UPQtnpGA", "short-id": "565330e9ddd002c3"}}
-  - {"name": "🇫🇮 Финляндия · main (196.245.217.58:443)", "type": "vless", "server": "196.245.217.58", "port": 443, "uuid": "d92038b6-b470-4267-9c69-2c649bf3f4a4", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "6b878dx.nl24.h1clayd.shop", "reality-opts": {"public-key": "_nAced6S7uyPz0sjigvwEmN7CsYvJMOsumtBnqldEC8", "short-id": "eaf16e75feabc584"}}
-  - {"name": "🇫🇷 Франция · main (media.fernstatic.com:2099)", "type": "vless", "server": "media.fernstatic.com", "port": 2099, "uuid": "43add026-128a-47d3-a403-b3875b4638db", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "yastatic.net", "reality-opts": {"public-key": "Tij8e75rOzDtbTSciMvmEqE26h78VEIt7B_NK4QumCk", "short-id": "10806885b6614f73"}}
+  - {"name": "🇯🇵 Япония · main (104.16.10.9:443)", "type": "vless", "server": "104.16.10.9", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "android", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇯🇵 Япония · main (104.21.34.106:443)", "type": "vless", "server": "104.21.34.106", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇩🇪 Германия · main (172.67.197.170:443)", "type": "vless", "server": "172.67.197.170", "port": 443, "uuid": "88e79aa6-f431-4453-8dcc-652a0c747198", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "o685y.save-node.com", "ws-opts": {"path": "/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p", "headers": {"Host": "o685y.save-node.com"}}}
+  - {"name": "🇯🇵 Япония · main (104.16.10.22:443)", "type": "vless", "server": "104.16.10.22", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "jp3.yohototo.top", "ws-opts": {"path": "tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇯🇵 Япония · main (104.17.50.53:443)", "type": "vless", "server": "104.17.50.53", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "jp3.yohototo.top", "ws-opts": {"path": "tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇯🇵 Япония · main (104.16.10.84:443)", "type": "vless", "server": "104.16.10.84", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "qq", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇺🇸 США · main (104.17.177.160:8443)", "type": "vless", "server": "104.17.177.160", "port": 8443, "uuid": "fceb3200-2516-47d2-8e28-d04ecde9427a", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "ws-opts": {"path": "/", "headers": {}}}
+  - {"name": "🇺🇸 США · main (104.18.220.84:8443)", "type": "vless", "server": "104.18.220.84", "port": 8443, "uuid": "0d46fdf1-0dc5-4a71-8dfc-8f68ff6aab66", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "worker3.reviso4655.workers.dev", "ws-opts": {"path": "/", "headers": {"Host": "worker3.reviso4655.workers.dev"}}}
+  - {"name": "🇯🇵 Япония · main #9", "type": "vless", "server": "104.21.0.87", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇺🇸 США · main (172.64.153.205:2087)", "type": "vless", "server": "172.64.153.205", "port": 2087, "uuid": "51a0af77-a60c-4d9b-81a4-f50e1b38d90b", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "ws-opts": {"path": "/", "headers": {}}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (143.203.216.187:443)", "type": "vless", "server": "143.203.216.187", "port": 443, "uuid": "6db6b948-655f-4f68-a9e7-865050e05b31", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "remote.propaint.cl", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "o7R9liafUMmCf4Sr14gLaB-gZ7mo_axffMCT176tuHw", "short-id": "672cfc"}}
+  - {"name": "🇺🇸 США · main (104.21.76.96:443)", "type": "vless", "server": "104.21.76.96", "port": 443, "uuid": "8344360f-0349-4784-a19f-33fd92e89389", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "sync.2ml.bid"}
+  - {"name": "🇫🇮 Финляндия · main (154.197.64.252:443)", "type": "vless", "server": "154.197.64.252", "port": 443, "uuid": "6b9abde8-3909-4705-9408-a445af4143cc", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "ws-opts": {"path": "/", "headers": {}}}
+  - {"name": "🇩🇪 Германия — обход БС (50.7.28.213:443)", "type": "vless", "server": "50.7.28.213", "port": 443, "uuid": "8ce4ccb8-99ab-4540-a0db-f879c9933986", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "api-v3-8ce4ccb8.vmagnum.win"}
+  - {"name": "🇪🇺 EU · main (199.68.156.123:443)", "type": "vless", "server": "199.68.156.123", "port": 443, "uuid": "1d16c6e0-1bbe-435b-b661-90043fee999c", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "notls.lukongtou.eu.org", "ws-opts": {"path": "/", "headers": {"Host": "notls.lukongtou.eu.org"}}}
+  - {"name": "🇺🇸 США — обход БС", "type": "vless", "server": "179.253.150.201", "port": 443, "uuid": "00418fb9-023f-47fd-96ef-1ab5c1b42135", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "status-eu-central.homepic.org", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "TkuZvhr3gm6AI1gzSpVKJl5v1xEjS_0jV5R-FEHxm0E", "short-id": "70e825af92e75a1d"}}
+  - {"name": "🇺🇸 США · main (104.16.251.179:443)", "type": "vless", "server": "104.16.251.179", "port": 443, "uuid": "fceb3200-2516-47d2-8e28-d04ecde9427a", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "ws-opts": {"path": "/", "headers": {}}}
+  - {"name": "🇳🇱 Нидерланды · main (79.182.39.135:443)", "type": "vless", "server": "79.182.39.135", "port": 443, "uuid": "cda0862a-0f87-4be9-8ed8-1d0c9e382839", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "15b171g.nl7.h1clayd.click", "reality-opts": {"public-key": "zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE", "short-id": "50a749f0eccb628c"}}
+  - {"name": "🇳🇱 Нидерланды · main", "type": "vless", "server": "94.183.164.101", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "obger5.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
+  - {"name": "🇺🇸 США · main (saas.sin.fan:2053)", "type": "vless", "server": "saas.sin.fan", "port": 2053, "uuid": "5d7b401c-78fa-4254-872e-6d42bf7e75ec", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "vp11.1145678.xyz", "ws-opts": {"path": "/videos/forum", "headers": {"Host": "vp11.1145678.xyz"}}}
+  - {"name": "🇩🇪 Германия · main (177.1.187.186:443)", "type": "vless", "server": "177.1.187.186", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
+  - {"name": "🇯🇵 Япония · main (104.19.48.107:443)", "type": "vless", "server": "104.19.48.107", "port": 443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
+  - {"name": "🇬🇧 Великобритания — обход БС", "type": "vless", "server": "cdn3.aleqseivpn.site", "port": 443, "uuid": "e2a1c9f4-3b7d-4e6a-9c2f-8a1d5f6b7c9e", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "cdn3.aleqseivpn.site"}
+  - {"name": "🇳🇱 Нидерланды — обход БС (206.245.152.137:54443)", "type": "vless", "server": "206.245.152.137", "port": 54443, "uuid": "d3eeebec-d7ba-4695-a1ea-2f2407c86582", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "safari", "servername": "snobvpn.online", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "6JT4YghdN35MmYArZsFJM9vMs--KMjcD4kX7zIW_iTc", "short-id": "0d3b47e99910eaa0"}}
+  - {"name": "🇹🇷 Турция · main", "type": "vless", "server": "chatgpt.com", "port": 8443, "uuid": "c2425034-91ef-44bf-9fd4-f2be9c1e989a", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "sinavm3.soft10.ir"}
   - {"name": "🇳🇱 Нидерланды · main (94.183.164.12:443)", "type": "vless", "server": "94.183.164.12", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "obger3.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
-  - {"name": "🇩🇪 Германия — обход БС (146.103.40.91:9543)", "type": "vless", "server": "146.103.40.91", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇺🇸 США · main", "type": "vless", "server": "152.234.239.170", "port": 9467, "uuid": "ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "mosdownloand.song69.fun", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Qr3DaIQGAtUDR-v4FI0Nltdw43LeXgaXXGGZZk6sP2E", "short-id": ""}}
-  - {"name": "🇩🇪 Германия · main (pl.mylumina.sbs:443)", "type": "vless", "server": "pl.mylumina.sbs", "port": 443, "uuid": "de7efd06-187c-4cac-8072-88e5cdc3424d", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "pl.mylumina.sbs", "reality-opts": {"public-key": "Vc0iFQwj034FcXPQ44_fqbRrgwePylUIEvJQg1GHn1A", "short-id": "d791686772c9d1b7"}}
-  - {"name": "🇪🇺 EU · main (n2.fernstatic.com:443)", "type": "vless", "server": "n2.fernstatic.com", "port": 443, "uuid": "86420b69-84f9-4726-ab17-fb0a7bc05d8f", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "n2.fernstatic.com", "reality-opts": {"public-key": "xRIN4AZSp2c_yaCurN9DNoh0q8zSj-AlMCflpb1pwBA", "short-id": "00a9d4acc75cf31c"}}
-  - {"name": "🇷🇺 Россия · main (cdnstream.win:443)", "type": "vless", "server": "cdnstream.win", "port": 443, "uuid": "17b0043a-d58c-4906-aefa-cb344e7d7cc0", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "cdnstream.win"}
-  - {"name": "🇷🇺 Россия — обход БС #15", "type": "vless", "server": "185.86.145.173", "port": 443, "uuid": "37af0181-5598-4aad-a040-d926bcb65757", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "edge", "servername": "wholebeam.com"}
-  - {"name": "🇳🇱 Нидерланды · main (nlee.hurricanew.com:443)", "type": "vless", "server": "nlee.hurricanew.com", "port": 443, "uuid": "5233b59b-fb2a-4a95-9036-9f33ada47afa", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "nlee.hurricanew.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "5a_6k1IpDBLUytAT5zgAhntcLtMzDGPMxCcftnq3-CQ", "short-id": "825d392c67e4"}}
+  - {"name": "🇩🇪 Германия · main (48.103.231.144:443)", "type": "vless", "server": "48.103.231.144", "port": 443, "uuid": "4536d4e5-4861-4339-90d7-896db7aee97b", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "a48dc8t.de-p1.h1clayd.click", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "4__NF8fh1G38s_nPsironqVlPjTfxk4zHjlaqe9h8SA", "short-id": "b2b174364f6b8721"}}
+  - {"name": "🇩🇪 Германия · main (64.188.106.170:443)", "type": "vless", "server": "64.188.106.170", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
+  - {"name": "🇸🇬 Сингапур · main", "type": "vless", "server": "104.17.3.81", "port": 80, "uuid": "fdd8f4d0-4500-11ef-8227-1577c1651679", "udp": true, "tls": false, "network": "ws", "client-fingerprint": "firefox", "ws-opts": {"path": "/", "headers": {}}}
+  - {"name": "🇩🇪 Германия · main (177.1.187.188:443)", "type": "vless", "server": "177.1.187.188", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
+  - {"name": "🇨🇦 Канада · main", "type": "vless", "server": "104.17.169.7", "port": 2096, "uuid": "51a0af77-a60c-4d9b-81a4-f50e1b38d90b", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "ws-opts": {"path": "/", "headers": {}}}
+  - {"name": "🇩🇪 Германия — обход БС", "type": "vless", "server": "57.129.84.119", "port": 443, "uuid": "fbfd5cd2-3aec-4a97-8a39-72ff08c1b6cc", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "net.gb.lolkemp.art", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U", "short-id": "6aa2d2e950441a9a"}}
+  - {"name": "🇳🇱 Нидерланды · main (176.124.199.102:443)", "type": "vless", "server": "176.124.199.102", "port": 443, "uuid": "0259e5aa-c188-4334-b204-32cd5ea859f6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "nl-forum-keno-drunov-prxv.keno.su", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "0HbEvKirH3zX6SuURbw9gA9v3Zl6BpIX4VLAPTA_qQ4", "short-id": "a8f4c19e72b305d6"}}
+  - {"name": "🇹🇷 Турция · main (chatgpt.com:443)", "type": "vless", "server": "chatgpt.com", "port": 443, "uuid": "c2425034-91ef-44bf-9fd4-f2be9c1e989a", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "sinavm3.soft10.ir", "ws-opts": {"path": "/SiNAVM-SiNAVM-SiNAVM-SiNAVM", "headers": {"Host": "sinavm3.soft10.ir"}}}
+  - {"name": "🇩🇪 Германия · main", "type": "vless", "server": "144.31.62.22", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KxfzsDIYTVadr9WuSIA50_uOGvRc314DJ9xWKDviWjs", "short-id": "0f673feb52601022"}}
+  - {"name": "🇪🇺 EU · main (91.107.188.129:2083)", "type": "vless", "server": "91.107.188.129", "port": 2083, "uuid": "bd6c11e0-0233-4fb1-ba97-8d5f16d7155f", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "site.check-looks.space", "ws-opts": {"path": "/", "headers": {"Host": "site.check-looks.space"}}}
+  - {"name": "🇳🇱 Нидерланды · main (51.158.206.96:23576)", "type": "vless", "server": "51.158.206.96", "port": 23576, "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "fuck.rkn", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s", "short-id": "01"}}
+  - {"name": "🇺🇸 США · main (177.3.252.240:8443)", "type": "vless", "server": "177.3.252.240", "port": 8443, "uuid": "b1dde8e4-9f7c-4468-93cf-53c64d933b54", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "safari", "servername": "hub.zadonat.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "SL9omNDVpeF6vWnbTPI5mN6ATl1L1eiMIKYx9XF7IVI", "short-id": "a1ab5a56bccba12e"}}
+  - {"name": "🇫🇷 Франция — обход БС", "type": "vless", "server": "82.47.1.240", "port": 443, "uuid": "850a3eb8-064d-417a-87c9-770cab0ddf97", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "demo-us-east.livemusic.ac", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "CUfIHVvZtTD1RlJabgO3S-G-6Gyp_jZc8CE1gQd8YyE", "short-id": "b0d86cfde3454d28"}}
+  - {"name": "🇵🇱 Польша · main #3", "type": "vless", "server": "144.31.0.153", "port": 443, "uuid": "a086c8e2-7a2f-4265-9518-6d7529106b80", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "pool.recrent-sell.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "V5RcrDt9UjqudnN7aRlOfgV-Ue9ZDwW6TprFyntzkCI", "short-id": ""}}
+  - {"name": "🇩🇪 Германия · main (178.248.236.229:443)", "type": "vless", "server": "178.248.236.229", "port": 443, "uuid": "a71d6c6d-c95e-4ec1-a892-22e21733bf09", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "144.hexdey.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0", "short-id": "d05a120d3506d2cc"}}
+  - {"name": "🇵🇱 Польша · main (82.40.63.149:8443)", "type": "vless", "server": "82.40.63.149", "port": 8443, "uuid": "302fa49c-7d08-4600-8bc3-a3e21baebdd1", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "edge", "servername": "kraw-pl-4.fantoff.online", "reality-opts": {"public-key": "2VDvK_MUMJQou2QHniofZOKRHcslWrJ6wtblKf2AilY", "short-id": "7f2e9c4b1a8d6e55"}}
+  - {"name": "🇬🇧 Великобритания · main (5.104.74.48:8443)", "type": "vless", "server": "5.104.74.48", "port": 8443, "uuid": "b4738e59-2113-48a1-9ca5-c7c83b56378c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "forum-nl-p1.ovchinkasp.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "kJsnrk06lPN3juIX5zXm1Sc_LUQcM5ueZ0l2HC6HEjI", "short-id": "9ae55c76092c774a"}}
+  - {"name": "🇸🇬 Сингапур · main (191.44.19.24:443)", "type": "vless", "server": "191.44.19.24", "port": 443, "uuid": "e0f67e0a-6323-4ecb-9c1c-ca9ee4e48cf9", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "920afc50f23e.cdn.cachefleet.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "LcxpMyEhHOnoLDsGE8eY8ucHbZ2oByGihDGBnYpH_yo", "short-id": "43e3261006bf44b2"}}
+  - {"name": "🇵🇱 Польша · main (191.217.244.190:443)", "type": "vless", "server": "191.217.244.190", "port": 443, "uuid": "a086c8e2-7a2f-4265-9518-6d7529106b80", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "ertgmb.wey-land.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "l6dfeSmhGc7dGLU_PqhPtMbj4_eONm2Sz_S9D8ePFxY", "short-id": ""}}
+  - {"name": "🇩🇪 Германия · main (162.19.175.14:443)", "type": "vless", "server": "162.19.175.14", "port": 443, "uuid": "9192ae0a-8a0f-47ac-950b-de7410f2fdf0", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "use-213566.riseapps.uk", "reality-opts": {"public-key": "Qdd1F_i_qBf1ytcmWK84u5flveCGJ5-_W-vusgXCJ2M", "short-id": "90d63689a4eebd03"}}
+  - {"name": "🇵🇱 Польша · main (2.26.5.208:9443)", "type": "vless", "server": "2.26.5.208", "port": 9443, "uuid": "623e66a7-25ee-4624-a63c-9513d620a287", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "po2.hys.braidx.tech", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI", "short-id": "408c85938839e89f"}}
+  - {"name": "🇩🇪 Германия · main (217.60.179.166:443)", "type": "vless", "server": "217.60.179.166", "port": 443, "uuid": "976f82d9-0e6b-40ed-9c09-cafd06c4bc98", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de166.mech-pro.online", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI", "short-id": "16e0f049"}}
+  - {"name": "🇵🇱 Польша — обход БС (144.31.171.37:443)", "type": "vless", "server": "144.31.171.37", "port": 443, "uuid": "873767a0-9b4a-470c-85f8-7449cd7a561c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "hellverser.mult-fandom.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Z-v1tBIQpFBfedRUOeHovEVL6Y22KmrBrDWY23cgtAI", "short-id": "4bd5aa582ceabfdd"}}
+  - {"name": "🇺🇸 США · main (vless.cloudxzw2027.ccwu.cc:443)", "type": "vless", "server": "vless.cloudxzw2027.ccwu.cc", "port": 443, "uuid": "2f12e5b5-6ce7-47ab-88b9-6110c1a3fc60", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "vless.cloudxzw2027.ccwu.cc", "ws-opts": {"path": "/xzw", "headers": {"Host": "vless.cloudxzw2027.ccwu.cc"}}}
+  - {"name": "🇸🇪 Швеция · main (88.216.129.84:443)", "type": "vless", "server": "88.216.129.84", "port": 443, "uuid": "9986b4e5-58dd-4360-8c58-d6b9c86584e2", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "edge", "servername": "reeltiles.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "0MrhgrveImRyxFaC9Q11Mm4-oN38uFlFFt4UnmGrxRo", "short-id": "041a595c72d82db0"}}
   - {"name": "🇷🇺 Россия · main (cdn.weloverkn.ru:443)", "type": "vless", "server": "cdn.weloverkn.ru", "port": 443, "uuid": "64e0e993-d662-43ee-aee2-ff1cedc2d862", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "cdn.weloverkn.ru"}
-  - {"name": "🇳🇱 Нидерланды — обход БС #5", "type": "vless", "server": "195.209.217.67", "port": 443, "uuid": "ef5a57c7-84d5-4f86-b99c-875a16da485f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "ruhsds738.gangtype.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "DHNvz0B_jGSTq2uK8Sehqo1u6Vv-fSSvk6-cRQJUKHM", "short-id": "8aaef249c24f2be7"}}
-  - {"name": "🇫🇷 Франция · main (assets.fernstatic.com:8444)", "type": "vless", "server": "assets.fernstatic.com", "port": 8444, "uuid": "43add026-128a-47d3-a403-b3875b4638db", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "yastatic.net", "reality-opts": {"public-key": "1hJPKCOTjPXm93o2JEeb-dOuFSkCvHj41uKM6yrP32Q", "short-id": "bcefc042d39188e0"}}
-  - {"name": "🇷🇺 Россия · main (64.188.90.248:8443)", "type": "vless", "server": "64.188.90.248", "port": 8443, "uuid": "72522396-5408-4767-b134-70ca09cdfe36", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "safari", "servername": "ronaldo.foxprox.uk", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "1HNR8jSPJYaRTA6jOhJN5JPE7f3O1ZHuna9c3pGDjS8", "short-id": "f6"}}
-  - {"name": "🇷🇺 Россия · main (136.234.9.24:443)", "type": "vless", "server": "136.234.9.24", "port": 443, "uuid": "9c462694-93fe-4b43-a3a1-bc458d65de82", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "a96401t.lt3.h1clayd.click", "reality-opts": {"public-key": "QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls", "short-id": "d50682df18259eac"}}
-  - {"name": "🇨🇾 Кипр — обход БС", "type": "vless", "server": "lt-tcp.h1.vpnprime.ru", "port": 443, "uuid": "9c462694-93fe-4b43-a3a1-bc458d65de82", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "a96401t.lt4.h1clayd.click", "reality-opts": {"public-key": "QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls", "short-id": "d50682df18259eac"}}
-  - {"name": "🇺🇸 США · main (ip13.shabkhosh.sbs:443)", "type": "vless", "server": "ip13.shabkhosh.sbs", "port": 443, "uuid": "49e72868-abfd-4557-b474-6777853a9c8d", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "wallwebb33p08.wallwebvycxcl.workers.dev", "ws-opts": {"path": "/", "headers": {"Host": "wallwebb33p08.wallwebvycxcl.workers.dev"}}}
-  - {"name": "🇩🇪 Германия — обход БС (185.86.147.161:443)", "type": "vless", "server": "185.86.147.161", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "sms.rtkdvbr.cc", "ws-opts": {"path": "/snkws", "headers": {"Host": "sms.rtkdvbr.cc"}}}
-  - {"name": "🇩🇪 Германия · main (4935e4t.de25.h1clayd.click:443)", "type": "vless", "server": "4935e4t.de25.h1clayd.click", "port": 443, "uuid": "4201786b-d99b-4147-a5f0-20d47acddb81", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "4935e4t.de25.h1clayd.click", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw", "short-id": "6976d670818644cc"}}
-  - {"name": "🇳🇱 Нидерланды · main (138.16.206.147:9114)", "type": "vless", "server": "138.16.206.147", "port": 9114, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "www.cloudflare.com", "reality-opts": {"public-key": "4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs", "short-id": "6ba85179e30d4fc2"}}
-  - {"name": "🇸🇪 Швеция — обход БС (185.86.145.78:443)", "type": "vless", "server": "185.86.145.78", "port": 443, "uuid": "88e79aa6-f431-4453-8dcc-652a0c747198", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "emberworks.cloud", "reality-opts": {"public-key": "2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4", "short-id": "ea322b8b5b015812"}}
-  - {"name": "🇵🇱 Польша · main (80.47.13.56:443)", "type": "vless", "server": "80.47.13.56", "port": 443, "uuid": "52e854c3-f891-4eb5-943a-fe385f59e8fb", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "ps1.jetservaki.fit", "reality-opts": {"public-key": "qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg", "short-id": "884b938083b628d2"}}
-  - {"name": "🇷🇺 Россия · main (84.23.52.104:9079)", "type": "vless", "server": "84.23.52.104", "port": 9079, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "by.84-23-52-104.sslip.io", "reality-opts": {"public-key": "V1ifE7iJ4ITZfA10PNaR7fF7Lz1E_9v7a9S4jPOY-A8", "short-id": "069074d6fbb09e56"}}
-  - {"name": "🇳🇱 Нидерланды · main (87.228.92.112:25201)", "type": "vless", "server": "87.228.92.112", "port": 25201, "uuid": "e89a2a0e-7803-447e-b050-3ba67962ed95", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "s-25454.nl18.h1clayd.click", "reality-opts": {"public-key": "YOgsoXtChX3RvA0Gf9SSsP8VLP4GGk7dytVBo9qZCH4", "short-id": "221ba0d14384ccf1"}}
-  - {"name": "🇺🇸 США · main #4", "type": "vless", "server": "23.237.202.254", "port": 443, "uuid": "e9958027-03be-4eb5-bcec-70415b2e4844", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "id-e9958027.vmagnum.win"}
-  - {"name": "🇹🇷 Турция — обход БС #2", "type": "vless", "server": "84.23.52.104", "port": 9125, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "www.cloudflare.com", "reality-opts": {"public-key": "4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs", "short-id": "6ba85179e30d4fc2"}}
+  - {"name": "🇵🇱 Польша · main", "type": "vless", "server": "144.31.5.137", "port": 443, "uuid": "78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "se.dataroute.biz", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Jg9VG2d5YKA_b6b2oVT8_QaIEHyww04U050ahEPhZlU", "short-id": ""}}
+  - {"name": "🇹🇷 Турция · main (sinavm3.soft10.ir:8443)", "type": "vless", "server": "sinavm3.soft10.ir", "port": 8443, "uuid": "c2425034-91ef-44bf-9fd4-f2be9c1e989a", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "sinavm3.soft10.ir"}
+  - {"name": "🇱🇻 Латвия · main", "type": "vless", "server": "31.56.27.113", "port": 443, "uuid": "53a44f0c-a480-4042-802c-92e796ed77c9", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "assets-latvia.peregrine-sub.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "izyLSaQTil5rGEWYf209YNGVgn1fp2cnx3hmqlBGjn0", "short-id": "33f7fe41406fbb7f"}}
+  - {"name": "🇫🇮 Финляндия · main #2", "type": "vless", "server": "107.150.93.43", "port": 443, "uuid": "e9958027-03be-4eb5-bcec-70415b2e4844", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "safari", "servername": "e9958027.ferrin.uk"}
+  - {"name": "🇵🇱 Польша — обход БС (78.17.171.175:443)", "type": "vless", "server": "78.17.171.175", "port": 443, "uuid": "a637b630-e425-11f1-84a2-52540030ba36", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "www.wp.pl", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ", "short-id": ""}}
+  - {"name": "🇩🇪 Германия · main (assets.fernstatic.com:8446)", "type": "vless", "server": "assets.fernstatic.com", "port": 8446, "uuid": "43add026-128a-47d3-a403-b3875b4638db", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "yastatic.net", "reality-opts": {"public-key": "1hJPKCOTjPXm93o2JEeb-dOuFSkCvHj41uKM6yrP32Q", "short-id": "bcefc042d39188e0"}}
+  - {"name": "🇸🇪 Швеция · main", "type": "vless", "server": "swe.srv.hiddenmedia.pw", "port": 443, "uuid": "e54fc748-c657-4820-b593-87d333e8d137", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "swe.srv.hiddenmedia.pw", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "T-qDypPpfavzWteKpx1KjpW1USCjkBvNc6mzpRglw00", "short-id": "e496f788cd4b7402"}}
+  - {"name": "🇸🇬 Сингапур · main (77.221.150.238:50443)", "type": "vless", "server": "77.221.150.238", "port": 50443, "uuid": "2056afb7-6649-49dc-944a-1a17a02f9d9d", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "cdn-5ebce1.at.tidalframe.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ", "short-id": ""}}
+  - {"name": "🇫🇮 Финляндия · main (178.214.125.2:443)", "type": "vless", "server": "178.214.125.2", "port": 443, "uuid": "da8972f9-770f-4012-ab46-5de2711a718b", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "conf.emaar.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ZxCwJxbsZWJYYCPzeWj7_fxJMVhwh4XGfpvjmEIQjHY", "short-id": "6172ba9cffe9c22f"}}
+  - {"name": "🇨🇿 Чехия · main", "type": "vless", "server": "37.46.210.249", "port": 443, "uuid": "da7d700d-5ee8-4c6b-8c65-f047efc50a5d", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "cz249.lelushlamperush.men", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M8VTYdxxug-_1YgSdQFEiXMShqtHkO804rfdOHeGrCU", "short-id": "aa543b3e78169051"}}
+  - {"name": "🇷🇺 Россия · main", "type": "vless", "server": "5.183.253.25", "port": 443, "uuid": "f2341274-8dd8-4b80-95fd-780641f6f2da", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "web.poezdkafun.ru", "reality-opts": {"public-key": "aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ", "short-id": "0858af97f4e7324d"}}
+  - {"name": "🇸🇪 Швеция — обход БС", "type": "vless", "server": "185.134.201.58", "port": 443, "uuid": "158586a0-7900-43ac-bb7f-8130463ae63a", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "185-134-201-58.sslip.io", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "rrJbi6Woop0oE-w2UJ_BrqghT2dmqTdxtgm0XPalHHY", "short-id": "2655142967e38cfa"}}
+  - {"name": "🇫🇮 Финляндия — обход БС #36", "type": "vless", "server": "107.150.93.5", "port": 443, "uuid": "e9958027-03be-4eb5-bcec-70415b2e4844", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "qq", "servername": "e9958027.ferrin.uk"}
+  - {"name": "🇫🇮 Финляндия · main (13.143.187.220:443)", "type": "vless", "server": "13.143.187.220", "port": 443, "uuid": "66c78912-4e2d-41dc-8742-aaae2590804e", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "fi-s1.kadrhub.tech", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg", "short-id": ""}}
+  - {"name": "🇮🇹 Италия · main", "type": "vless", "server": "82.118.16.187", "port": 443, "uuid": "dc2259c4-388e-4285-ba18-df619b6672b6", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "chrome", "servername": "www.cloudflare.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU", "short-id": "cd6065902eea7a02"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (hammer.676767676767.ru:443)", "type": "vless", "server": "hammer.676767676767.ru", "port": 443, "uuid": "d8c6c5bc-66ee-45c6-94fd-fa16f486e771", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "hammer.676767676767.ru", "reality-opts": {"public-key": "RX2VQ6FZarV3PhICXIggqLTJ6GcEOJcZJLfCu8hwuRo", "short-id": ""}}
+  - {"name": "🇩🇪 Германия · main (45.144.52.205:443)", "type": "vless", "server": "45.144.52.205", "port": 443, "uuid": "78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "fi.convert-cloud.guru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "9kQGK7IuVFWU9xCb4g9ygL1CEv87QmVZJzWLz74pTSc", "short-id": ""}}
+  - {"name": "🇺🇸 США · main (www.speedtest.net:443)", "type": "vless", "server": "www.speedtest.net", "port": 443, "uuid": "85550ebf-fd43-42dd-9801-bda528fea2fc", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "wallweb5.pages.dev", "ws-opts": {"path": "/", "headers": {"Host": "wallweb5.pages.dev"}}}
+  - {"name": "🇫🇮 Финляндия · main (144.31.128.220:14443)", "type": "vless", "server": "144.31.128.220", "port": 14443, "uuid": "936ef8c6-fd6c-4b6c-bc74-7c88ded9aa50", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "cosmo-convert.ru", "reality-opts": {"public-key": "TBvwkxwgTGYba7Jl3f2WcNBFvcKJ8uYHjYYdiyZTYCg", "short-id": "d9662905"}}
+  - {"name": "🇱🇹 Литва · main", "type": "vless", "server": "176.118.198.122", "port": 4443, "uuid": "75cdbf9c-a207-41a7-9b93-0aee6e91d8fc", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "litenergy.xanka.best", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "u-atgxyh-vMFdvkypqgHKnJWNVpfBzBv9p_D5SjINm0", "short-id": "3dc224b3"}}
+  - {"name": "🇩🇪 Германия · main (45.144.52.205:4243)", "type": "vless", "server": "45.144.52.205", "port": 4243, "uuid": "78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "fi.convert-cloud.guru", "reality-opts": {"public-key": "vCHucdoD_m-TKVHS7si1akKgP6r4dvTLUX8y1TTZQG4", "short-id": ""}}
+  - {"name": "🇷🇺 Россия · main (de.marmeliones.ru:443)", "type": "vless", "server": "de.marmeliones.ru", "port": 443, "uuid": "7f4c8a21-f65e-41d7-bac5-4f85065a5e75", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "de.marmeliones.ru"}
+  - {"name": "🇫🇮 Финляндия — обход БС (81.19.139.157:443)", "type": "vless", "server": "81.19.139.157", "port": 443, "uuid": "fd1e2412-8d22-4491-bcd2-9183f4523fc4", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "zasvistelotuning.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "sclCYDXsld3JMvZdFsnSEO2jzcnkOI4bzgCfp8tsBjs", "short-id": "6b6800e50961701b"}}
+  - {"name": "🇫🇮 Финляндия · main (144.31.129.72:443)", "type": "vless", "server": "144.31.129.72", "port": 443, "uuid": "936ef8c6-fd6c-4b6c-bc74-7c88ded9aa50", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "coinjoin-video-stri.ru", "reality-opts": {"public-key": "aIxjIWyXHiV-aidKKODGmQva0yUPJzQ0Jzp4lg_urQY", "short-id": "d9662905"}}
+  - {"name": "🇩🇪 Германия · main (185.255.115.6:443)", "type": "vless", "server": "185.255.115.6", "port": 443, "uuid": "f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "0ef47cx.se4.h1clayd.click", "reality-opts": {"public-key": "LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4", "short-id": "356cc54d885a4036"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (niake.ddoijtt3.cfd:443)", "type": "vless", "server": "niake.ddoijtt3.cfd", "port": 443, "uuid": "8fcca8fb-ee2b-4478-a26f-0c33c7cbf5db", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "niake.ddoijtt3.cfd", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ci79SnAKQ91b6SXtRZYw9a5umCCX9aCobQkZz7ShwFU", "short-id": ""}}
+  - {"name": "🇪🇸 Испания · main", "type": "vless", "server": "196.196.149.80", "port": 443, "uuid": "4201786b-d99b-4147-a5f0-20d47acddb81", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "7aa271t.es1.h1clayd.click", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE", "short-id": "42426c882c5fcd41"}}
+  - {"name": "🇫🇮 Финляндия · main (179.254.169.116:8443)", "type": "vless", "server": "179.254.169.116", "port": 8443, "uuid": "c53ea5e9-ed8b-4990-805d-7f1d6451426c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "durov.sky-vault.top", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI", "short-id": "3cbc3d737fb9c4af"}}
+  - {"name": "🇩🇪 Германия · main (31.56.18.208:443)", "type": "vless", "server": "31.56.18.208", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "gerb1.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
+  - {"name": "🇷🇺 Россия — обход БС (87.242.94.43:443)", "type": "vless", "server": "87.242.94.43", "port": 443, "uuid": "fd1e2412-8d22-4491-bcd2-9183f4523fc4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "mapparcel.app", "ws-opts": {"path": "/account/refresh/gHrtXz-N59ZM", "headers": {"Host": "mapparcel.app"}}}
+  - {"name": "🇳🇱 Нидерланды · main (94.183.164.11:443)", "type": "vless", "server": "94.183.164.11", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "obger2.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
+  - {"name": "🇦🇪 ОАЭ · main", "type": "vless", "server": "31.59.153.134", "port": 443, "uuid": "dca8faef-2366-4fc6-8f81-749a702ac77a", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "se02.kubservice.icu", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "AisbcoZfyF4z3iBBwTjVOV--ldDuON91tQtKBJ3lNzQ", "short-id": ""}}
+  - {"name": "🇳🇱 Нидерланды · main (45.132.179.183:443)", "type": "vless", "server": "45.132.179.183", "port": 443, "uuid": "ef5a57c7-84d5-4f86-b99c-875a16da485f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "safari", "servername": "sbmicro728.alexdjane.am", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "rL5LLBbdtOICIFTMYkXQ-XpYtMU91zG58wuRh0f7nig", "short-id": "3bf984c09a8c38a9"}}
+  - {"name": "🇺🇸 США · main (chess.com:443)", "type": "vless", "server": "chess.com", "port": 443, "uuid": "ddffa8f4-e108-43ef-a324-a823f535120e", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "edge", "servername": "nor.mouse-moj.site"}
+  - {"name": "🇧🇪 Бельгия · main (45.88.177.79:8443)", "type": "vless", "server": "45.88.177.79", "port": 8443, "uuid": "ab53f3b6-7962-4bc1-90f6-8420767b22a8", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "cdn-us.cahmes.space", "reality-opts": {"public-key": "KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k", "short-id": "6bd33a75ebc0f26e"}}
+  - {"name": "🇩🇪 Германия · main #20", "type": "vless", "server": "4935e4t.de25.h1clayd.click", "port": 443, "uuid": "4201786b-d99b-4147-a5f0-20d47acddb81", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "4935e4t.de25.h1clayd.click", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw", "short-id": "6976d670818644cc"}}
+  - {"name": "🇷🇺 Россия · main (cdnstream.win:443)", "type": "vless", "server": "cdnstream.win", "port": 443, "uuid": "17b0043a-d58c-4906-aefa-cb344e7d7cc0", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "cdnstream.win"}
+  - {"name": "🇩🇪 Германия — обход БС (img-80hd5d8k.tetsuo.ink:443)", "type": "vless", "server": "img-80hd5d8k.tetsuo.ink", "port": 443, "uuid": "1152dfa2-ff12-46fc-a90b-6beab511d378", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "img-80hd5d8k.tetsuo.ink", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "5sNteqZ0LMnrc-Us7kUB5m4aKmEK4u85XIpFnmSstHI", "short-id": "a5592f6b1a145e4a"}}
+  - {"name": "🇷🇺 Россия · main (138.16.206.147:2096)", "type": "vless", "server": "138.16.206.147", "port": 2096, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "www.cloudflare.com", "reality-opts": {"public-key": "4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs", "short-id": "6ba85179e30d4fc2"}}
+  - {"name": "🇷🇺 Россия · main (37.139.42.37:443)", "type": "vless", "server": "37.139.42.37", "port": 443, "uuid": "a77d6228-85a9-000d-b600-ccf4018230eb", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "rf.stich.my", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "H9fcn9PYzwPVE1egy37sbK04CCXE0dn4goOfiFFsIEs", "short-id": "acc22b7b5ba9dbf2"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (195.216.169.229:9543)", "type": "vless", "server": "195.216.169.229", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
+  - {"name": "🇺🇸 США · main (144.31.249.184:443)", "type": "vless", "server": "144.31.249.184", "port": 443, "uuid": "9192ae0a-8a0f-47ac-950b-de7410f2fdf0", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "rusea1.riseservice.me", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "CycyTZTNdYiHpn7IBAr-jiNZ5F-NtiHccwbRef9opGY", "short-id": "3e73d18b32b6052c"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (sw1c.voxicheck.com:443)", "type": "vless", "server": "sw1c.voxicheck.com", "port": 443, "uuid": "f3b18716-8aa2-4d9a-9bcc-f3a458f46f5b", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "sw1c.voxicheck.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4", "short-id": "abcd1234"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (195.133.93.179:9543)", "type": "vless", "server": "195.133.93.179", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
+  - {"name": "🇩🇪 Германия — обход БС (64.188.90.248:443)", "type": "vless", "server": "64.188.90.248", "port": 443, "uuid": "72522396-5408-4767-b134-70ca09cdfe36", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "ronaldo.foxprox.uk", "reality-opts": {"public-key": "f20b2EABHC76o4CnIBsc8PTnnyPeLKK-y6xnRkrorAc", "short-id": "97419a452e2a7201"}}
+  - {"name": "🇳🇱 Нидерланды · main (212.192.3.237:9543)", "type": "vless", "server": "212.192.3.237", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "safari", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
+  - {"name": "🇳🇱 Нидерланды · main (212.192.3.113:9543)", "type": "vless", "server": "212.192.3.113", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (45.9.190.245:443)", "type": "vless", "server": "45.9.190.245", "port": 443, "uuid": "a5b1d16b-719b-4bd6-9d7b-fe6d84607da9", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "fortuna.masynbazar.ru"}
+  - {"name": "🇷🇺 Россия · main (178.176.153.11:443)", "type": "vless", "server": "178.176.153.11", "port": 443, "uuid": "4261ca0b-135a-4722-b39f-92cfa5585d69", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "assets.resources.autos"}
+  - {"name": "🇳🇱 Нидерланды — обход БС (macbook.plus-hit.ru:443)", "type": "vless", "server": "macbook.plus-hit.ru", "port": 443, "uuid": "1de11cc2-3afc-40a9-b24a-819db2a60738", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "macbook.plus-hit.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA", "short-id": "7c8e3d4a9b1f26d3"}}
+  - {"name": "🇪🇪 Эстония · main (109.206.241.143:8443)", "type": "vless", "server": "109.206.241.143", "port": 8443, "uuid": "f2650b14-ff3d-486d-9b7c-5f109a1e51f9", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "exton.xanka.best", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "6pZWjiFTUUuL3tjB8ls0cnyXTMbRbSdQ9Y31xi5NhEI", "short-id": "5be9fe01"}}
+  - {"name": "🇺🇸 США · main", "type": "vless", "server": "152.234.239.170", "port": 9467, "uuid": "ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "mosdownloand.song69.fun", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Qr3DaIQGAtUDR-v4FI0Nltdw43LeXgaXXGGZZk6sP2E", "short-id": ""}}
+  - {"name": "🇪🇺 EU · main (n2.fernstatic.com:443)", "type": "vless", "server": "n2.fernstatic.com", "port": 443, "uuid": "86420b69-84f9-4726-ab17-fb0a7bc05d8f", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "n2.fernstatic.com", "reality-opts": {"public-key": "xRIN4AZSp2c_yaCurN9DNoh0q8zSj-AlMCflpb1pwBA", "short-id": "00a9d4acc75cf31c"}}
+  - {"name": "🇩🇪 Германия — обход БС (146.103.43.124:9543)", "type": "vless", "server": "146.103.43.124", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
+  - {"name": "🇩🇪 Германия · main (dogklinik.growmart.site:443)", "type": "vless", "server": "dogklinik.growmart.site", "port": 443, "uuid": "4f2de292-cafe-4a5a-80cc-742a957ca43c", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "dogklinik.growmart.site", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ju1YyCfbO_sLy_LZK6G7DbHpR8hhmSc4SaOLLbjuGSE", "short-id": "cd9c321977831739"}}
+  - {"name": "🇪🇸 Испания · main #12", "type": "vless", "server": "7aa271t.es9.h1clayd.click", "port": 443, "uuid": "4201786b-d99b-4147-a5f0-20d47acddb81", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "7aa271t.es9.h1clayd.click", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE", "short-id": "42426c882c5fcd41"}}
+  - {"name": "🇫🇷 Франция · main", "type": "vless", "server": "195.216.168.101", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "safari", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
   - {"name": "🇺🇸 США · main (sync.2ml.bid:443)", "type": "vless", "server": "sync.2ml.bid", "port": 443, "uuid": "8344360f-0349-4784-a19f-33fd92e89389", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "chrome", "servername": "sync.2ml.bid"}
-  - {"name": "🇳🇱 Нидерланды · main", "type": "vless", "server": "193.23.202.17", "port": 443, "uuid": "1f2836d7-e9ef-47d7-a9c4-1037077ae8d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "nl1.videoharpaeva.online", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "TE1qGUb4N4LesuXPdW647MUSOeU_aLhdvueCa_4P5no", "short-id": "7f551e4657ac6e26"}}
-  - {"name": "🇳🇱 Нидерланды — обход БС #3", "type": "vless", "server": "195.209.217.111", "port": 443, "uuid": "ef5a57c7-84d5-4f86-b99c-875a16da485f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "ruhsds737.gangtype.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "cwP4lx0DIWttNWp4IeLj2S-e1Yo2tnBedJ5RiMLtT0E", "short-id": "7e49fe98f9487e19"}}
-  - {"name": "🇺🇸 США · main (45.86.74.209:443)", "type": "vless", "server": "45.86.74.209", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "gemcon.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
+  - {"name": "🇪🇸 Испания · main #15", "type": "vless", "server": "b3cd32g.es1.h1clayd.click", "port": 443, "uuid": "4201786b-d99b-4147-a5f0-20d47acddb81", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "safari", "servername": "b3cd32g.es1.h1clayd.click", "reality-opts": {"public-key": "7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30", "short-id": "e7cffac9f8cfb434"}}
+  - {"name": "🇩🇪 Германия — обход БС (de-tube-01.cccpbot.fuck-rkn.xyz:443)", "type": "vless", "server": "de-tube-01.cccpbot.fuck-rkn.xyz", "port": 443, "uuid": "1d538e49-251a-4ea2-bb38-59f4349d8cdb", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de.ussr.party", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc", "short-id": ""}}
+  - {"name": "🇫🇷 Франция · main (77.73.20.131:2099)", "type": "vless", "server": "77.73.20.131", "port": 2099, "uuid": "43add026-128a-47d3-a403-b3875b4638db", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "yastatic.net", "reality-opts": {"public-key": "Tij8e75rOzDtbTSciMvmEqE26h78VEIt7B_NK4QumCk", "short-id": "10806885b6614f73"}}
+  - {"name": "🇫🇮 Финляндия · main", "type": "vless", "server": "200.96.109.194", "port": 14443, "uuid": "936ef8c6-fd6c-4b6c-bc74-7c88ded9aa50", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "kiwi-logistic.ru", "reality-opts": {"public-key": "DFBCTsJbKYbaZGWGi_bKgIjrkoUmDaAha7iEe9fKWgo", "short-id": "d9662905"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (212.192.3.222:9543)", "type": "vless", "server": "212.192.3.222", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
+  - {"name": "🇺🇸 США · main (us-05.avroraservice.online:8443)", "type": "vless", "server": "us-05.avroraservice.online", "port": 8443, "uuid": "ab53f3b6-7962-4bc1-90f6-8420767b22a8", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "safari", "servername": "cdn-us.cahmes.space", "reality-opts": {"public-key": "KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k", "short-id": "6bd33a75ebc0f26e"}}
+  - {"name": "🇩🇪 Германия — обход БС (146.103.40.91:9543)", "type": "vless", "server": "146.103.40.91", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
+  - {"name": "🇷🇺 Россия · main (185.31.114.251:443)", "type": "vless", "server": "185.31.114.251", "port": 443, "uuid": "17b0043a-d58c-4906-aefa-cb344e7d7cc0", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "lukafajooponi.begetcdn.cloud"}
+  - {"name": "🇫🇮 Финляндия · main (196.245.217.58:443)", "type": "vless", "server": "196.245.217.58", "port": 443, "uuid": "d92038b6-b470-4267-9c69-2c649bf3f4a4", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "6b878dx.nl24.h1clayd.shop", "reality-opts": {"public-key": "_nAced6S7uyPz0sjigvwEmN7CsYvJMOsumtBnqldEC8", "short-id": "eaf16e75feabc584"}}
+  - {"name": "🇩🇪 Германия · main (146.103.43.70:9543)", "type": "vless", "server": "146.103.43.70", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
+  - {"name": "🇷🇺 Россия · main (136.234.9.24:443)", "type": "vless", "server": "136.234.9.24", "port": 443, "uuid": "9c462694-93fe-4b43-a3a1-bc458d65de82", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "a96401t.lt3.h1clayd.click", "reality-opts": {"public-key": "QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls", "short-id": "d50682df18259eac"}}
+  - {"name": "🇸🇪 Швеция — обход БС (sw.webfree.icu:443)", "type": "vless", "server": "sw.webfree.icu", "port": 443, "uuid": "5233b59b-fb2a-4a95-9036-9f33ada47afa", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "sw.webfree.icu", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "zb1esVBjrdlitl7Z_YkRi44kC0NXVvF5U17LAXW6fDQ", "short-id": "825d392c67e4"}}
+  - {"name": "🇩🇪 Германия · main (assets.fernstatic.com:8444)", "type": "vless", "server": "assets.fernstatic.com", "port": 8444, "uuid": "43add026-128a-47d3-a403-b3875b4638db", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "yastatic.net", "reality-opts": {"public-key": "1hJPKCOTjPXm93o2JEeb-dOuFSkCvHj41uKM6yrP32Q", "short-id": "bcefc042d39188e0"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС", "type": "vless", "server": "grcn11.mncdn.ru", "port": 443, "uuid": "170da597-160b-4808-a964-b6edf0c5cab8", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "grcn11.mncdn.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "xY3I1qfhzIRPMEvAWdhGIjn5vk3Zf3juZwxaNzf5AyA", "short-id": "2f8a1c9e4b7d35"}}
+  - {"name": "🇪🇸 Испания · main (38917fx.es9.h1clayd.click:443)", "type": "vless", "server": "38917fx.es9.h1clayd.click", "port": 443, "uuid": "4201786b-d99b-4147-a5f0-20d47acddb81", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "38917fx.es9.h1clayd.click", "reality-opts": {"public-key": "4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA", "short-id": "d5501b156391e01d"}}
+  - {"name": "🇳🇱 Нидерланды · main (177.202.118.19:3195)", "type": "vless", "server": "177.202.118.19", "port": 3195, "uuid": "094bb896-1e6f-4e0e-92f2-532ddb203f67", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "nl2-ykb86k.vpvr4ib84nuv6hdkt.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "v9x2U1pbQDuMykKSuTvEBN2hE9Elh3HFdgQnbTpzb3A", "short-id": "c271748be32014f6"}}
+  - {"name": "🇧🇪 Бельгия · main", "type": "vless", "server": "146.103.42.78", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
+  - {"name": "🇸🇪 Швеция — обход БС (se-edge.airlinesvpn.com:8450)", "type": "vless", "server": "se-edge.airlinesvpn.com", "port": 8450, "uuid": "43b0f054-ab3b-40eb-b744-a8ae3b7f0ccc", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "se-edge.airlinesvpn.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Q7sxkYZI8_spO92K6SQ1uRRhol1jsKLGGEH8I3n1dGk", "short-id": "dfcaa73fff344242"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (94.183.164.48:443)", "type": "vless", "server": "94.183.164.48", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "turtle1.mcufa.pro", "reality-opts": {"public-key": "uR0Y9XXnLCHMDvBV99JPvY1l-ftxzjZ8iRLc04SKyw4", "short-id": "0123456789abcdef"}}
+  - {"name": "🇷🇺 Россия · main (193.233.90.39:40443)", "type": "vless", "server": "193.233.90.39", "port": 40443, "uuid": "2056afb7-6649-49dc-944a-1a17a02f9d9d", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "cdn-9dee7e.fr.streamvale.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY", "short-id": ""}}
+  - {"name": "🇷🇺 Россия — обход БС (185.86.145.173:443)", "type": "vless", "server": "185.86.145.173", "port": 443, "uuid": "37af0181-5598-4aad-a040-d926bcb65757", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "edge", "servername": "wholebeam.com"}
+  - {"name": "🇮🇷 Иран · main", "type": "vless", "server": "188.212.96.177", "port": 443, "uuid": "c8abc13e-b40a-4a68-893a-756d3684a7fe", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "edge", "servername": "dl2.mbndadwsdf132131.torkey.ir", "ws-opts": {"path": "/games/fortnite", "headers": {"Host": "dl2.mbndadwsdf132131.torkey.ir"}}}
+  - {"name": "🇩🇪 Германия — обход БС #4", "type": "vless", "server": "84.23.52.104", "port": 9096, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "p2g.84-23-52-104.sslip.io", "reality-opts": {"public-key": "JASBooze12B0nAaLU2QMWkeAqXwh4GmhfPD_O9YteT0", "short-id": "6ba85179e30d4fc2"}}
+  - {"name": "🇷🇺 Россия · main (138.16.206.147:9096)", "type": "vless", "server": "138.16.206.147", "port": 9096, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "chrome", "servername": "p2g.138-16-206-147.sslip.io", "reality-opts": {"public-key": "JASBooze12B0nAaLU2QMWkeAqXwh4GmhfPD_O9YteT0", "short-id": "6ba85179e30d4fc2"}}
+  - {"name": "🇺🇸 США · main (ip13.shabkhosh.sbs:443)", "type": "vless", "server": "ip13.shabkhosh.sbs", "port": 443, "uuid": "49e72868-abfd-4557-b474-6777853a9c8d", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "wallwebb33p08.wallwebvycxcl.workers.dev", "ws-opts": {"path": "/", "headers": {"Host": "wallwebb33p08.wallwebvycxcl.workers.dev"}}}
+  - {"name": "🇪🇸 Испания · main #3", "type": "vless", "server": "38917fx.es1.h1clayd.click", "port": 443, "uuid": "4201786b-d99b-4147-a5f0-20d47acddb81", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "edge", "servername": "38917fx.es1.h1clayd.click", "reality-opts": {"public-key": "4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA", "short-id": "d5501b156391e01d"}}
+  - {"name": "🇷🇺 Россия · main (186.246.13.124:443)", "type": "vless", "server": "186.246.13.124", "port": 443, "uuid": "9ca1039a-4158-4da4-a77c-20947a4a97a5", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "hirakata.edgepool.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "7jKQusF86JkqXSq4Up3nXK5nW0nHlwFRPmsCCn-x9ng", "short-id": "deb7de831d56fdce"}}
+  - {"name": "🇳🇱 Нидерланды · main (87.228.92.112:25201)", "type": "vless", "server": "87.228.92.112", "port": 25201, "uuid": "e89a2a0e-7803-447e-b050-3ba67962ed95", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "s-25454.nl18.h1clayd.click", "reality-opts": {"public-key": "YOgsoXtChX3RvA0Gf9SSsP8VLP4GGk7dytVBo9qZCH4", "short-id": "221ba0d14384ccf1"}}
+  - {"name": "🇧🇾 Беларусь · main", "type": "vless", "server": "178.172.227.228", "port": 10444, "uuid": "b6e5dc56-836f-48c1-9163-b0b0b43b647d", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "ads.x5.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo", "short-id": "8debcf36f1cc69ff"}}
+  - {"name": "🇳🇱 Нидерланды · main (138.16.206.147:9114)", "type": "vless", "server": "138.16.206.147", "port": 9114, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "www.cloudflare.com", "reality-opts": {"public-key": "4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs", "short-id": "6ba85179e30d4fc2"}}
+  - {"name": "🇺🇸 США · main (84.23.52.104:9079)", "type": "vless", "server": "84.23.52.104", "port": 9079, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "by.84-23-52-104.sslip.io", "reality-opts": {"public-key": "V1ifE7iJ4ITZfA10PNaR7fF7Lz1E_9v7a9S4jPOY-A8", "short-id": "069074d6fbb09e56"}}
+  - {"name": "🇷🇺 Россия — обход БС (cdn432.whitenetwork.cloud:52831)", "type": "vless", "server": "cdn432.whitenetwork.cloud", "port": 52831, "uuid": "1faf34e5-b68b-49d0-9f2c-f20301fd28bd", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "origin.mtrxnet.click"}
+  - {"name": "🇪🇸 Испания · main #9", "type": "vless", "server": "7aa271t.es1.h1clayd.click", "port": 443, "uuid": "4201786b-d99b-4147-a5f0-20d47acddb81", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "random", "servername": "7aa271t.es1.h1clayd.click", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE", "short-id": "42426c882c5fcd41"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (player6.cdnguard.org:443)", "type": "vless", "server": "player6.cdnguard.org", "port": 443, "uuid": "6f9a6cb2-be3b-49dd-9710-82e533c142d8", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "player6.cdnguard.org", "reality-opts": {"public-key": "ht-_OKQJiOaZ61qZNLAj7ZmNgDrqM4g64Q-BVssJCQ0", "short-id": "4560540ea7479206"}}
+  - {"name": "🇹🇷 Турция — обход БС", "type": "vless", "server": "84.23.52.104", "port": 9125, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "www.cloudflare.com", "reality-opts": {"public-key": "4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs", "short-id": "6ba85179e30d4fc2"}}
+  - {"name": "🇵🇱 Польша — обход БС (84.23.52.104:9071)", "type": "vless", "server": "84.23.52.104", "port": 9071, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "random", "servername": "www.cloudflare.com", "reality-opts": {"public-key": "XKFUTW9ZAlaaeuUGiKKx9FgLjdQch7pCiR1GC1xMcjk", "short-id": "aab4c8abf7a4c4e4"}}
+  - {"name": "🇩🇪 Германия · main (194.5.192.31:443)", "type": "vless", "server": "194.5.192.31", "port": 443, "uuid": "9e3566df-daf0-4384-a00e-e4bb08fccc9f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "wordpress.org", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "tT00Dzsxp9Abw1Iv0YFTcrmjXZm2Z1oEO-UX8Y0Noyo", "short-id": "53a3a94ab9224f5d"}}
+  - {"name": "🇺🇸 США · main (saas.sin.fan:443)", "type": "vless", "server": "saas.sin.fan", "port": 443, "uuid": "5d7b401c-78fa-4254-872e-6d42bf7e75ec", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "safari", "servername": "vp12.1145678.xyz", "ws-opts": {"path": "/torrent/documents/photos", "headers": {"Host": "vp12.1145678.xyz"}}}
+  - {"name": "🇺🇸 США · main (961ec0g.nl13.h1clayd.click:443)", "type": "vless", "server": "961ec0g.nl13.h1clayd.click", "port": 443, "uuid": "cda0862a-0f87-4be9-8ed8-1d0c9e382839", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "961ec0g.nl13.h1clayd.click", "reality-opts": {"public-key": "xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA", "short-id": "6d289ff0f47c0aac"}}
+  - {"name": "🇷🇺 Россия · main (cdn.white.gigobingo.ru:443)", "type": "vless", "server": "cdn.white.gigobingo.ru", "port": 443, "uuid": "f33db17e-f4e1-4371-ab25-60de8db04736", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "chrome", "servername": "cdn.white.gigobingo.ru"}
+  - {"name": "🇷🇺 Россия · main (vks1.grafna.shop:443)", "type": "vless", "server": "vks1.grafna.shop", "port": 443, "uuid": "0b6a7fe0-206b-4071-9f96-cd397d1ec01a", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "vks1.grafna.shop"}
+  - {"name": "🇷🇺 Россия — обход БС", "type": "vless", "server": "ru.cutemedia.lol", "port": 47442, "uuid": "6d750ad9-d636-4621-be79-a4280aa24d1b", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "pl.cutemedia.lol", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "IZ9HnoNBZDB0e15eA-_Ve7N6nuilZ_vR-4RzMcSgBV0", "short-id": "4c9499e6fc251e0c"}}
+  - {"name": "🇵🇱 Польша — обход БС (51.75.50.158:11780)", "type": "vless", "server": "51.75.50.158", "port": 11780, "uuid": "36af793d-5dec-4419-b3d8-021aaa5dd547", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "ru.wargaming.net", "reality-opts": {"public-key": "2JQoSyLy7YeKGNbCm3OwbfbE53NvGDQFcRJkbQI7AEw", "short-id": "d0e438c0b266421b"}}
   - {"name": "🇺🇸 США · main (150.241.83.233:443)", "type": "vless", "server": "150.241.83.233", "port": 443, "uuid": "1f2836d7-e9ef-47d7-a9c4-1037077ae8d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "us1.videoharpaeva.online", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "7tZfo92yG27sEdMCBO3bg-qmlAypOutEMbjFsL73QQ8", "short-id": "e6e56b5f668e9c77"}}
   - {"name": "🇺🇸 США · main (206.245.132.182:443)", "type": "vless", "server": "206.245.132.182", "port": 443, "uuid": "85b8b4a4-d9c6-4357-a016-3a3ee04bf984", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "us.superspidy.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "4mu0D7iJitheVteSBXEPt72-FH8G_TUoJ18sXLG5GDk", "short-id": "332457cec312a4ab"}}
-  - {"name": "🇬🇧 Великобритания · main (89.125.212.212:443)", "type": "vless", "server": "89.125.212.212", "port": 443, "uuid": "0259e5aa-c188-4334-b204-32cd5ea859f6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "prsx-forum-reserv.keno.su", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "rRWAX9DDp7KrhqH73UUKML3PUSADSq6ANziJSsuqD38", "short-id": "ff05cfd2ebf63628"}}
-  - {"name": "🇳🇱 Нидерланды · main (31.77.114.101:443)", "type": "vless", "server": "31.77.114.101", "port": 443, "uuid": "5233b59b-fb2a-4a95-9036-9f33ada47afa", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "nlee.hurricanew.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "5a_6k1IpDBLUytAT5zgAhntcLtMzDGPMxCcftnq3-CQ", "short-id": "825d392c67e4"}}
-  - {"name": "🇩🇪 Германия · main (153.56.230.77:25155)", "type": "vless", "server": "153.56.230.77", "port": 25155, "uuid": "62995b2a-8f82-41f8-ac80-dfdfc1253e76", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "ios", "servername": "48688cr.us12.h1clayd.click", "reality-opts": {"public-key": "I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM", "short-id": "0ebb438948cdf356"}}
-  - {"name": "🇷🇺 Россия · main (de.marmeliones.ru:443)", "type": "vless", "server": "de.marmeliones.ru", "port": 443, "uuid": "7f4c8a21-f65e-41d7-bac5-4f85065a5e75", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "de.marmeliones.ru"}
-  - {"name": "🇷🇺 Россия · main (ihc212.maxleshax.icu:443)", "type": "vless", "server": "ihc212.maxleshax.icu", "port": 443, "uuid": "b7049a06-1e51-4e2d-854a-7f81b0d0b35f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "ihc14.maxleshax.icu", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0", "short-id": ""}}
-  - {"name": "🇷🇺 Россия · main (185.86.147.80:9441)", "type": "vless", "server": "185.86.147.80", "port": 9441, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "keshyou.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
+  - {"name": "🇳🇱 Нидерланды · main (94.183.164.13:443)", "type": "vless", "server": "94.183.164.13", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "obger4.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
+  - {"name": "🇪🇸 Испания — обход БС", "type": "vless", "server": "es-04.avroraservice.online", "port": 8443, "uuid": "ab53f3b6-7962-4bc1-90f6-8420767b22a8", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "cdn-es.cahmes.space", "reality-opts": {"public-key": "dSH20qQm9nyDIN1gI1KyUjtVOilHh0wG8t-Xw1iz638", "short-id": "01f0a0809d05552b"}}
   - {"name": "🇯🇵 Япония · main", "type": "vless", "server": "23.144.68.90", "port": 8443, "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "chrome", "servername": "jp3.yohototo.top", "ws-opts": {"path": "/tyxyws", "headers": {"Host": "jp3.yohototo.top"}}}
   - {"name": "🇪🇺 EU · main (104.168.144.213:443)", "type": "vless", "server": "104.168.144.213", "port": 443, "uuid": "7b102311-43fd-4e8f-877e-8090623c101d", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "vp58.cc.cd", "ws-opts": {"path": "/", "headers": {"Host": "vp58.cc.cd"}}}
-  - {"name": "🇺🇸 США — обход БС (15.204.97.214:23576)", "type": "vless", "server": "15.204.97.214", "port": 23576, "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "fuck.rkn", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s", "short-id": "01"}}
-  - {"name": "🇬🇧 Великобритания · main (82.148.228.103:443)", "type": "vless", "server": "82.148.228.103", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "stock1.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
-  - {"name": "🇳🇱 Нидерланды — обход БС #6", "type": "vless", "server": "195.209.221.235", "port": 443, "uuid": "ef5a57c7-84d5-4f86-b99c-875a16da485f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "ruhsds734.thebestqas.am", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Jv6OJRVpXGL8SlWq1VoCUbkeKCkG9cTzi2OHI2R9eAQ", "short-id": "bd1b77948ad14751"}}
-  - {"name": "🇵🇱 Польша — обход БС #2", "type": "vless", "server": "84.23.52.104", "port": 9071, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "ios", "servername": "www.cloudflare.com", "reality-opts": {"public-key": "XKFUTW9ZAlaaeuUGiKKx9FgLjdQch7pCiR1GC1xMcjk", "short-id": "aab4c8abf7a4c4e4"}}
-  - {"name": "🇳🇱 Нидерланды · main (94.183.164.11:443)", "type": "vless", "server": "94.183.164.11", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "obger2.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
-  - {"name": "🇷🇺 Россия · main (vks1.grafna.shop:443)", "type": "vless", "server": "vks1.grafna.shop", "port": 443, "uuid": "0b6a7fe0-206b-4071-9f96-cd397d1ec01a", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "vks1.grafna.shop"}
-  - {"name": "🇳🇱 Нидерланды — обход БС (195.209.221.165:443)", "type": "vless", "server": "195.209.221.165", "port": 443, "uuid": "ef5a57c7-84d5-4f86-b99c-875a16da485f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "ruhsds735.thebestqas.am", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "KYCw7cXjogBXLwakD95fS0ez_Ohp841nJv0w0ntu_FU", "short-id": "8b360b27c8ae3791"}}
-  - {"name": "🇷🇺 Россия · main (lukafajooponi.begetcdn.cloud:443)", "type": "vless", "server": "lukafajooponi.begetcdn.cloud", "port": 443, "uuid": "17b0043a-d58c-4906-aefa-cb344e7d7cc0", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "lukafajooponi.begetcdn.cloud"}
-  - {"name": "🇷🇺 Россия · main (37.139.42.227:7443)", "type": "vless", "server": "37.139.42.227", "port": 7443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "multiqq.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
-  - {"name": "🇦🇪 ОАЭ · main (n4.fernstatic.com:443)", "type": "vless", "server": "n4.fernstatic.com", "port": 443, "uuid": "ad295072-0049-4981-a9aa-6314c43e87e5", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "n4.fernstatic.com", "reality-opts": {"public-key": "0MSoevDfxrS1SB5IVdzFT2sMmicWY3Q1FjgZWbqsvXo", "short-id": "3b1a6acf74e481e7"}}
-  - {"name": "🇦🇪 ОАЭ · main (206.245.152.137:54443)", "type": "vless", "server": "206.245.152.137", "port": 54443, "uuid": "d3eeebec-d7ba-4695-a1ea-2f2407c86582", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "safari", "servername": "snobvpn.online", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "6JT4YghdN35MmYArZsFJM9vMs--KMjcD4kX7zIW_iTc", "short-id": "0d3b47e99910eaa0"}}
-  - {"name": "🇵🇱 Польша · main (ps1.jetservaki.fit:443)", "type": "vless", "server": "ps1.jetservaki.fit", "port": 443, "uuid": "52e854c3-f891-4eb5-943a-fe385f59e8fb", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "chrome", "servername": "ps1.jetservaki.fit", "reality-opts": {"public-key": "qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg", "short-id": "884b938083b628d2"}}
-  - {"name": "🇷🇺 Россия · main (138.16.206.147:9096)", "type": "vless", "server": "138.16.206.147", "port": 9096, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "chrome", "servername": "p2g.138-16-206-147.sslip.io", "reality-opts": {"public-key": "JASBooze12B0nAaLU2QMWkeAqXwh4GmhfPD_O9YteT0", "short-id": "6ba85179e30d4fc2"}}
-  - {"name": "🇩🇪 Германия — обход БС (84.23.52.104:9096)", "type": "vless", "server": "84.23.52.104", "port": 9096, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "p2g.84-23-52-104.sslip.io", "reality-opts": {"public-key": "JASBooze12B0nAaLU2QMWkeAqXwh4GmhfPD_O9YteT0", "short-id": "6ba85179e30d4fc2"}}
-  - {"name": "🇺🇸 США — обход БС #2", "type": "vless", "server": "84.23.52.104", "port": 9118, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "www.cloudflare.com", "reality-opts": {"public-key": "4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs", "short-id": "6ba85179e30d4fc2"}}
+  - {"name": "🇸🇪 Швеция · main (se2.h1cloud.net:25191)", "type": "vless", "server": "se2.h1cloud.net", "port": 25191, "uuid": "62995b2a-8f82-41f8-ac80-dfdfc1253e76", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "a8687er.se2.h1clayd.click", "reality-opts": {"public-key": "_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA", "short-id": "55328e423218ee9b"}}
+  - {"name": "🇺🇸 США · main (191.217.215.228:2096)", "type": "vless", "server": "191.217.215.228", "port": 2096, "uuid": "fbe22815-0718-4eae-816f-e91c67d15b54", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "firefox", "servername": "st3b6e5.rumedia-cdn.com", "ws-opts": {"path": "/cdn/v3/live", "headers": {"Host": "st3b6e5.rumedia-cdn.com"}}}
+  - {"name": "🇩🇪 Германия · main (pl.mylumina.sbs:443)", "type": "vless", "server": "pl.mylumina.sbs", "port": 443, "uuid": "de7efd06-187c-4cac-8072-88e5cdc3424d", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "pl.mylumina.sbs", "reality-opts": {"public-key": "Vc0iFQwj034FcXPQ44_fqbRrgwePylUIEvJQg1GHn1A", "short-id": "d791686772c9d1b7"}}
+  - {"name": "🇺🇸 США · main (15.204.97.214:23576)", "type": "vless", "server": "15.204.97.214", "port": 23576, "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "fuck.rkn", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s", "short-id": "01"}}
+  - {"name": "🇳🇱 Нидерланды — обход БС (sub-edge-09x-1g.whitenw.net:10490)", "type": "vless", "server": "sub-edge-09x-1g.whitenw.net", "port": 10490, "uuid": "47333d09-e84c-43b2-bb19-a244e0331b18", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "android", "servername": "ads.x5.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "MAQju7q8wIeEznBQoDXP9l4SpuAkEs8CGDKaNNpKlHI", "short-id": "4326"}}
+  - {"name": "🇫🇮 Финляндия — обход БС (78ec29x.fi2.h1clayd.click:443)", "type": "vless", "server": "78ec29x.fi2.h1clayd.click", "port": 443, "uuid": "2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "78ec29x.fi2.h1clayd.click", "reality-opts": {"public-key": "yDvxKBE3JdXsnptGoLiUwQAnf_xw1DVWD9NcyphwRn4", "short-id": "b81a22dc3a846efd"}}
+  - {"name": "🇸🇪 Швеция — обход БС (se02.kubservice.icu:443)", "type": "vless", "server": "se02.kubservice.icu", "port": 443, "uuid": "dca8faef-2366-4fc6-8f81-749a702ac77a", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "se02.kubservice.icu", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "AisbcoZfyF4z3iBBwTjVOV--ldDuON91tQtKBJ3lNzQ", "short-id": ""}}
+  - {"name": "🇬🇧 Великобритания · main", "type": "vless", "server": "195.206.235.12", "port": 25191, "uuid": "62995b2a-8f82-41f8-ac80-dfdfc1253e76", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "a8687er.se2.h1clayd.click", "reality-opts": {"public-key": "_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA", "short-id": "55328e423218ee9b"}}
   - {"name": "🇪🇺 EU · main (blog-asia.livemusic.ac:8445)", "type": "vless", "server": "blog-asia.livemusic.ac", "port": 8445, "uuid": "cac10246-5b76-4809-9fd0-417c58a3ca90", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "portal.gifmems.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "32eua16pKE179lLHv-VNZGrX287qQFMXA3n0VgEzNTQ", "short-id": "b3a633bc754b648d"}}
-  - {"name": "🇫🇷 Франция · main", "type": "vless", "server": "143.246.211.240", "port": 443, "uuid": "11512726-b692-406f-ab49-7b28f44a8294", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "fr.gorobsub.com", "reality-opts": {"public-key": "_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg", "short-id": "3242cfd7"}}
-  - {"name": "🇵🇱 Польша · main (48.102.174.164:54443)", "type": "vless", "server": "48.102.174.164", "port": 54443, "uuid": "d3eeebec-d7ba-4695-a1ea-2f2407c86582", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "snobvpn.online", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "scEaR7bQ4oeuLgyyFEwUWlk76NW-SH7EA3qA_6O1Lyo", "short-id": "1828c9aa2c08608c"}}
-  - {"name": "🇦🇲 Армения · main", "type": "vless", "server": "193.111.204.129", "port": 2053, "uuid": "6cadcb5b-610d-48b8-b833-4c243219ef0c", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "feed.labuba-store.sbs", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "Ws-cjvE8RSnmTszn_xbhi6vzZaqMgMxmsPumazZh8EA", "short-id": "08f5b2d33e0ab6cb"}}
-  - {"name": "🇵🇱 Польша — обход БС (191.217.244.190:443)", "type": "vless", "server": "191.217.244.190", "port": 443, "uuid": "a086c8e2-7a2f-4265-9518-6d7529106b80", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "ertgmb.wey-land.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "l6dfeSmhGc7dGLU_PqhPtMbj4_eONm2Sz_S9D8ePFxY", "short-id": ""}}
-  - {"name": "🇯🇵 Япония · main (45.192.193.54:35600)", "type": "vless", "server": "45.192.193.54", "port": 35600, "uuid": "8614bde7-34cf-4413-8360-e96f1b960528", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "www.iij.ad.jp", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4", "short-id": ""}}
-  - {"name": "🇷🇺 Россия · main (81.222.148.87:53443)", "type": "vless", "server": "81.222.148.87", "port": 53443, "uuid": "d3eeebec-d7ba-4695-a1ea-2f2407c86582", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "snobvpn.online", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "oOrVESvP0FHEAkQGP2oih5DDdPAoRZkVJOZTWYsiLxk", "short-id": "0e9de4c83cb77992"}}
-  - {"name": "🇧🇪 Бельгия · main", "type": "vless", "server": "146.103.42.78", "port": 9543, "uuid": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "storage.yandexcloud.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc", "short-id": "123abcdf"}}
-  - {"name": "🇩🇪 Германия · main (153.52.143.118:443)", "type": "vless", "server": "153.52.143.118", "port": 443, "uuid": "ccb8ff48-3934-4250-b4ec-bb76b95d154f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "de2.fox-lisa.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs", "short-id": "027af64166562b09"}}
+  - {"name": "🇷🇺 Россия · main (83.171.241.136:443)", "type": "vless", "server": "83.171.241.136", "port": 443, "uuid": "2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "78ec29x.fi2.h1clayd.click", "reality-opts": {"public-key": "yDvxKBE3JdXsnptGoLiUwQAnf_xw1DVWD9NcyphwRn4", "short-id": "b81a22dc3a846efd"}}
+  - {"name": "🇫🇮 Финляндия — обход БС (a80b5386.fi2.h1clayd.click:443)", "type": "vless", "server": "a80b5386.fi2.h1clayd.click", "port": 443, "uuid": "2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "a80b5386.fi2.h1clayd.click", "reality-opts": {"public-key": "PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc", "short-id": "cc678f10161992a9"}}
+  - {"name": "🇯🇵 Япония · main (31.77.29.40:443)", "type": "vless", "server": "31.77.29.40", "port": 443, "uuid": "156a1997-4e92-4559-85c0-e1bb04fb0a43", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "fexulian.anicore.live", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "prAxtojquL32MYNOEjgy2gk3B3woW8RHbR2yJpO7rWs", "short-id": ""}}
+  - {"name": "🇪🇪 Эстония · main", "type": "vless", "server": "217.60.182.96", "port": 443, "uuid": "dc91568b-4f12-4ce1-a483-f04dd4913ab9", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "edge.mult-universe.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "5qVucogFLYlZOsG8DdX3dZRTr_2llj6_1OtZ9YfoilM", "short-id": "b12ebda62333a16a"}}
+  - {"name": "🇩🇪 Германия · main (185.86.147.80:9443)", "type": "vless", "server": "185.86.147.80", "port": 9443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "raw", "client-fingerprint": "firefox", "servername": "keshyou.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
+  - {"name": "🇩🇪 Германия · main (153.56.230.77:25155)", "type": "vless", "server": "153.56.230.77", "port": 25155, "uuid": "62995b2a-8f82-41f8-ac80-dfdfc1253e76", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "48688cr.us12.h1clayd.click", "reality-opts": {"public-key": "I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM", "short-id": "0ebb438948cdf356"}}
+  - {"name": "🇨🇾 Кипр — обход БС", "type": "vless", "server": "lt-tcp.h1.vpnprime.ru", "port": 443, "uuid": "9c462694-93fe-4b43-a3a1-bc458d65de82", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "a96401t.lt4.h1clayd.click", "reality-opts": {"public-key": "QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls", "short-id": "d50682df18259eac"}}
+  - {"name": "🇺🇸 США — обход БС (84.23.52.104:9118)", "type": "vless", "server": "84.23.52.104", "port": 9118, "uuid": "d81db550-4787-467e-b98a-579ee9d41999", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "www.cloudflare.com", "reality-opts": {"public-key": "4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs", "short-id": "6ba85179e30d4fc2"}}
+  - {"name": "🇩🇪 Германия · main (177.1.187.225:8443)", "type": "vless", "server": "177.1.187.225", "port": 8443, "uuid": "a640afc4-9267-4490-8c5c-7a82cc8c777d", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "sun3-16.userapi.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "fF67iKHu3Lji8KHktHOZvd6Rr45Fl0m3vay7y8Atlxg", "short-id": ""}}
+  - {"name": "🇷🇺 Россия · main (79.174.12.251:8407)", "type": "vless", "server": "79.174.12.251", "port": 8407, "uuid": "9d249510-b47e-4b3e-a2d7-b188065a259f", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "gartner.com", "reality-opts": {"public-key": "PKq6DUuCFHau4FteyGUU9jPEi1xJaAh5PmfqOaXWwQ8", "short-id": "0123456789abcdef"}}
+  - {"name": "🇳🇱 Нидерланды · main (94.183.164.10:443)", "type": "vless", "server": "94.183.164.10", "port": 443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "obger1.mcufa.pro", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo", "short-id": ""}}
+  - {"name": "🇩🇪 Германия · main (45.86.158.53:443)", "type": "vless", "server": "45.86.158.53", "port": 443, "uuid": "082ff568-e0f1-42af-ad7c-2c46adde1273", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "4c980ft.fi15.h1clayd.click", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk", "short-id": "597e1c279d224774"}}
+  - {"name": "🇫🇷 Франция — обход БС (media.fernstatic.com:2099)", "type": "vless", "server": "media.fernstatic.com", "port": 2099, "uuid": "43add026-128a-47d3-a403-b3875b4638db", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "yastatic.net", "reality-opts": {"public-key": "Tij8e75rOzDtbTSciMvmEqE26h78VEIt7B_NK4QumCk", "short-id": "10806885b6614f73"}}
   - {"name": "🇺🇸 США · main (201.8.71.230:443)", "type": "vless", "server": "201.8.71.230", "port": 443, "uuid": "cda0862a-0f87-4be9-8ed8-1d0c9e382839", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "961ec0g.nl13.h1clayd.click", "reality-opts": {"public-key": "xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA", "short-id": "6d289ff0f47c0aac"}}
   - {"name": "🇩🇪 Германия · main (45.9.120.53:443)", "type": "vless", "server": "45.9.120.53", "port": 443, "uuid": "cda0862a-0f87-4be9-8ed8-1d0c9e382839", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "961ec0g.nl13.h1clayd.click", "reality-opts": {"public-key": "xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA", "short-id": "6d289ff0f47c0aac"}}
-  - {"name": "🇸🇪 Швеция · main (se2.h1cloud.net:25191)", "type": "vless", "server": "se2.h1cloud.net", "port": 25191, "uuid": "62995b2a-8f82-41f8-ac80-dfdfc1253e76", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "a8687er.se2.h1clayd.click", "reality-opts": {"public-key": "_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA", "short-id": "55328e423218ee9b"}}
+  - {"name": "🇫🇮 Финляндия — обход БС (rusea1.riseservice.me:443)", "type": "vless", "server": "rusea1.riseservice.me", "port": 443, "uuid": "9192ae0a-8a0f-47ac-950b-de7410f2fdf0", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "rusea1.riseservice.me", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "CycyTZTNdYiHpn7IBAr-jiNZ5F-NtiHccwbRef9opGY", "short-id": "3e73d18b32b6052c"}}
+  - {"name": "🇫🇷 Франция · main (77.73.20.134:2099)", "type": "vless", "server": "77.73.20.134", "port": 2099, "uuid": "43add026-128a-47d3-a403-b3875b4638db", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "yastatic.net", "reality-opts": {"public-key": "Tij8e75rOzDtbTSciMvmEqE26h78VEIt7B_NK4QumCk", "short-id": "10806885b6614f73"}}
+  - {"name": "🇨🇳 Китай · main", "type": "vless", "server": "31.58.191.93", "port": 443, "uuid": "86420b69-84f9-4726-ab17-fb0a7bc05d8f", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "n4.fernstatic.com", "reality-opts": {"public-key": "0MSoevDfxrS1SB5IVdzFT2sMmicWY3Q1FjgZWbqsvXo", "short-id": "3b1a6acf74e481e7"}}
+  - {"name": "🇷🇺 Россия · main (185.86.147.80:5443)", "type": "vless", "server": "185.86.147.80", "port": 5443, "uuid": "e8b7b937-85d9-43f3-bb7a-7d98478756d7", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "keshyou.mcufa.pro", "reality-opts": {"public-key": "uR0Y9XXnLCHMDvBV99JPvY1l-ftxzjZ8iRLc04SKyw4", "short-id": "0123456789abcdef"}}
 
 proxy-groups:
   - name: "Режим"
@@ -219,161 +233,176 @@ proxy-groups:
   - name: "Ручной"
     type: select
     proxies:
-      - "🇦🇪 ОАЭ · main"
-      - "🇯🇵 Япония · main (172.64.190.13:443)"
-      - "🇺🇸 США · main (104.19.28.32:443)"
-      - "🇺🇸 США · main (104.18.53.172:8443)"
-      - "🇺🇸 США · main (104.18.220.84:8443)"
-      - "🇺🇸 США · main (104.21.76.96:443)"
-      - "🇯🇵 Япония · main (104.21.34.106:443)"
-      - "🇺🇸 США · main (104.16.251.179:443)"
-      - "🇳🇱 Нидерланды · main (31.56.184.113:443)"
-      - "🇺🇸 США · main (172.64.80.1:443)"
+      - "🇳🇱 Нидерланды · main (152.234.248.107:8443)"
       - "🇳🇱 Нидерланды · main (93.152.215.186:443)"
-      - "🇩🇪 Германия · main (188.114.98.0:443)"
-      - "🇳🇱 Нидерланды · main (31.77.28.241:443)"
-      - "🇺🇸 США · main (104.17.177.160:8443)"
-      - "🇪🇺 EU · main"
-      - "🇨🇦 Канада · main"
-      - "🇯🇵 Япония · main (104.17.50.227:443)"
-      - "🇬🇧 Великобритания · main (172.64.155.209:8443)"
-      - "🇫🇮 Финляндия · main (154.197.64.252:443)"
-      - "🇯🇵 Япония · main (104.16.0.1:443)"
-      - "🇺🇸 США · main (104.19.39.229:443)"
-      - "🇳🇱 Нидерланды · main (51.158.206.96:23576)"
-      - "🇯🇵 Япония · main (104.16.10.84:443)"
-      - "🇩🇪 Германия · main (177.1.187.188:443)"
-      - "🇯🇵 Япония · main (104.16.10.135:443)"
-      - "🇺🇸 США · main (saas.sin.fan:2053)"
-      - "🇪🇺 EU · main (199.68.156.123:443)"
-      - "🇳🇱 Нидерланды · main (79.182.39.135:443)"
-      - "🇺🇸 США · main (172.64.153.205:2087)"
-      - "🇸🇬 Сингапур · main"
-      - "🇯🇵 Япония · main (172.67.217.240:443)"
-      - "🇩🇪 Германия · main"
-      - "🇩🇪 Германия · main (179.254.166.170:443)"
-      - "🇯🇵 Япония · main (104.21.0.87:443)"
-      - "🇩🇪 Германия · main #2"
-      - "🇩🇪 Германия · main (179.254.166.167:443)"
-      - "🇩🇪 Германия · main (179.254.166.169:443)"
-      - "🇳🇱 Нидерланды · main (195.206.235.139:443)"
-      - "🇺🇸 США · main (172.67.192.112:443)"
-      - "🇩🇪 Германия · main (79.182.70.192:443)"
-      - "🇩🇪 Германия · main #3"
-      - "🇩🇪 Германия · main (179.254.166.168:443)"
-      - "🇩🇪 Германия · main (217.60.179.166:443)"
-      - "🇩🇪 Германия · main (31.56.18.208:443)"
-      - "🇺🇸 США · main (191.217.215.228:2096)"
-      - "🇪🇺 EU · main (91.107.188.129:2083)"
-      - "🇺🇸 США · main (191.217.253.12:443)"
-      - "🇳🇱 Нидерланды · main (94.183.164.68:443)"
-      - "🇵🇱 Польша · main (144.31.171.37:443)"
-      - "🇸🇬 Сингапур · main (77.221.150.238:50443)"
-      - "🇸🇬 Сингапур · main (191.44.19.24:443)"
-      - "🇬🇧 Великобритания · main"
-      - "🇩🇪 Германия · main (178.248.236.229:443)"
-      - "🇺🇸 США · main #3"
-      - "🇵🇱 Польша · main"
-      - "🇵🇱 Польша · main (144.31.5.137:443)"
-      - "🇸🇪 Швеция · main (88.216.129.84:443)"
-      - "🇩🇪 Германия · main (162.19.175.14:443)"
-      - "🇩🇪 Германия · main (13.143.160.31:443)"
-      - "🇸🇪 Швеция · main"
-      - "🇩🇪 Германия · main (178.214.125.2:443)"
-      - "🇺🇸 США · main (chess.com:443)"
-      - "🇱🇹 Литва · main (85.209.231.48:443)"
-      - "🇩🇪 Германия · main (185.255.115.6:443)"
-      - "🇩🇪 Германия · main (45.144.52.205:4243)"
-      - "🇫🇮 Финляндия · main (179.254.169.116:8443)"
-      - "🇩🇪 Германия · main (45.144.52.205:443)"
-      - "🇮🇹 Италия · main"
-      - "🇫🇮 Финляндия · main"
-      - "🇱🇹 Литва · main"
-      - "🇫🇮 Финляндия · main (144.31.128.220:14443)"
-      - "🇪🇸 Испания · main"
-      - "🇳🇱 Нидерланды · main (94.183.164.101:443)"
-      - "🇷🇺 Россия · main (5.183.253.25:443)"
-      - "🇺🇸 США · main (www.speedtest.net:443)"
-      - "🇩🇪 Германия · main (45.86.158.53:443)"
-      - "🇷🇺 Россия · main (46.243.142.2:443)"
-      - "🇪🇪 Эстония · main (109.206.241.143:8443)"
-      - "🇨🇳 Китай · main"
-      - "🇳🇱 Нидерланды · main (94.183.164.13:443)"
-      - "🇱🇻 Латвия · main"
-      - "🇷🇺 Россия · main (185.31.114.251:443)"
-      - "🇺🇸 США · main (91.196.35.143:443)"
-      - "🇺🇸 США · main (saas.sin.fan:443)"
-      - "🇩🇪 Германия · main (hermani.loknietotop.digital:443)"
-      - "🇷🇺 Россия · main (37.139.42.37:443)"
-      - "🇷🇺 Россия · main (168.113.254.217:443)"
-      - "🇫🇷 Франция · main (195.216.168.101:9543)"
-      - "🇷🇺 Россия · main (138.16.206.147:2096)"
-      - "🇩🇪 Германия · main (146.103.43.70:9543)"
-      - "🇷🇺 Россия · main (64.188.90.248:443)"
-      - "🇷🇺 Россия · main"
-      - "🇺🇸 США · main (us-05.avroraservice.online:8443)"
-      - "🇳🇱 Нидерланды · main (94.183.164.10:443)"
-      - "🇷🇺 Россия · main (cdn3.aleqseivpn.site:443)"
-      - "🇫🇷 Франция · main (media.fernstatic.com:2100)"
-      - "🇫🇷 Франция · main (assets.fernstatic.com:8446)"
-      - "🇪🇪 Эстония · main (107.150.93.5:443)"
-      - "🇫🇮 Финляндия · main (144.31.129.72:443)"
-      - "🇪🇪 Эстония · main"
-      - "🇩🇪 Германия · main (dogklinik.growmart.site:443)"
-      - "🇨🇾 Кипр · main"
-      - "🇫🇮 Финляндия · main (13.143.187.220:443)"
-      - "🇫🇮 Финляндия · main (196.245.217.58:443)"
-      - "🇫🇷 Франция · main (media.fernstatic.com:2099)"
-      - "🇳🇱 Нидерланды · main (94.183.164.12:443)"
-      - "🇺🇸 США · main"
-      - "🇩🇪 Германия · main (pl.mylumina.sbs:443)"
-      - "🇪🇺 EU · main (n2.fernstatic.com:443)"
-      - "🇷🇺 Россия · main (cdnstream.win:443)"
-      - "🇳🇱 Нидерланды · main (nlee.hurricanew.com:443)"
-      - "🇷🇺 Россия · main (cdn.weloverkn.ru:443)"
-      - "🇫🇷 Франция · main (assets.fernstatic.com:8444)"
-      - "🇷🇺 Россия · main (64.188.90.248:8443)"
-      - "🇷🇺 Россия · main (136.234.9.24:443)"
-      - "🇺🇸 США · main (ip13.shabkhosh.sbs:443)"
-      - "🇩🇪 Германия · main (4935e4t.de25.h1clayd.click:443)"
-      - "🇳🇱 Нидерланды · main (138.16.206.147:9114)"
-      - "🇵🇱 Польша · main (80.47.13.56:443)"
-      - "🇷🇺 Россия · main (84.23.52.104:9079)"
-      - "🇳🇱 Нидерланды · main (87.228.92.112:25201)"
+      - "🇯🇵 Япония · main #12"
+      - "🇬🇧 Великобритания · main #2"
+      - "🇫🇷 Франция · main (185.16.110.71:443)"
+      - "🇯🇵 Япония · main (104.19.164.155:443)"
+      - "🇯🇵 Япония · main #14"
+      - "🇸🇬 Сингапур · main (141.193.213.21:8443)"
       - "🇺🇸 США · main #4"
-      - "🇺🇸 США · main (sync.2ml.bid:443)"
+      - "🇯🇵 Япония · main #10"
+      - "🇸🇬 Сингапур · main (141.193.213.20:8443)"
+      - "🇳🇱 Нидерланды · main (217.60.66.9:443)"
+      - "🇩🇪 Германия · main (104.17.70.206:8443)"
+      - "🇳🇱 Нидерланды · main #5"
+      - "🇯🇵 Япония · main (104.18.37.127:443)"
+      - "🇩🇪 Германия · main #29"
+      - "🇯🇵 Япония · main (104.27.46.35:443)"
+      - "🇯🇵 Япония · main #6"
+      - "🇳🇱 Нидерланды · main (31.56.184.113:443)"
+      - "🇯🇵 Япония · main (104.18.153.10:443)"
+      - "🇳🇱 Нидерланды · main (187.52.44.79:443)"
+      - "🇳🇱 Нидерланды · main (195.206.235.139:443)"
+      - "🇯🇵 Япония · main #3"
+      - "🇺🇸 США · main (172.64.154.113:8443)"
+      - "🇯🇵 Япония · main (104.21.70.21:443)"
+      - "🇯🇵 Япония · main (104.16.10.135:443)"
+      - "🇩🇪 Германия · main (78.17.215.141:443)"
+      - "🇩🇪 Германия · main (104.27.97.42:8443)"
+      - "🇺🇸 США · main (104.19.39.229:443)"
+      - "🇩🇪 Германия · main (79.182.70.192:443)"
+      - "🇯🇵 Япония · main (104.16.10.9:443)"
+      - "🇯🇵 Япония · main (104.21.34.106:443)"
+      - "🇩🇪 Германия · main (172.67.197.170:443)"
+      - "🇯🇵 Япония · main (104.16.10.22:443)"
+      - "🇯🇵 Япония · main (104.17.50.53:443)"
+      - "🇯🇵 Япония · main (104.16.10.84:443)"
+      - "🇺🇸 США · main (104.17.177.160:8443)"
+      - "🇺🇸 США · main (104.18.220.84:8443)"
+      - "🇯🇵 Япония · main #9"
+      - "🇺🇸 США · main (172.64.153.205:2087)"
+      - "🇺🇸 США · main (104.21.76.96:443)"
+      - "🇫🇮 Финляндия · main (154.197.64.252:443)"
+      - "🇪🇺 EU · main (199.68.156.123:443)"
+      - "🇺🇸 США · main (104.16.251.179:443)"
+      - "🇳🇱 Нидерланды · main (79.182.39.135:443)"
       - "🇳🇱 Нидерланды · main"
-      - "🇺🇸 США · main (45.86.74.209:443)"
+      - "🇺🇸 США · main (saas.sin.fan:2053)"
+      - "🇩🇪 Германия · main (177.1.187.186:443)"
+      - "🇯🇵 Япония · main (104.19.48.107:443)"
+      - "🇹🇷 Турция · main"
+      - "🇳🇱 Нидерланды · main (94.183.164.12:443)"
+      - "🇩🇪 Германия · main (48.103.231.144:443)"
+      - "🇩🇪 Германия · main (64.188.106.170:443)"
+      - "🇸🇬 Сингапур · main"
+      - "🇩🇪 Германия · main (177.1.187.188:443)"
+      - "🇨🇦 Канада · main"
+      - "🇳🇱 Нидерланды · main (176.124.199.102:443)"
+      - "🇹🇷 Турция · main (chatgpt.com:443)"
+      - "🇩🇪 Германия · main"
+      - "🇪🇺 EU · main (91.107.188.129:2083)"
+      - "🇳🇱 Нидерланды · main (51.158.206.96:23576)"
+      - "🇺🇸 США · main (177.3.252.240:8443)"
+      - "🇵🇱 Польша · main #3"
+      - "🇩🇪 Германия · main (178.248.236.229:443)"
+      - "🇵🇱 Польша · main (82.40.63.149:8443)"
+      - "🇬🇧 Великобритания · main (5.104.74.48:8443)"
+      - "🇸🇬 Сингапур · main (191.44.19.24:443)"
+      - "🇵🇱 Польша · main (191.217.244.190:443)"
+      - "🇩🇪 Германия · main (162.19.175.14:443)"
+      - "🇵🇱 Польша · main (2.26.5.208:9443)"
+      - "🇩🇪 Германия · main (217.60.179.166:443)"
+      - "🇺🇸 США · main (vless.cloudxzw2027.ccwu.cc:443)"
+      - "🇸🇪 Швеция · main (88.216.129.84:443)"
+      - "🇷🇺 Россия · main (cdn.weloverkn.ru:443)"
+      - "🇵🇱 Польша · main"
+      - "🇹🇷 Турция · main (sinavm3.soft10.ir:8443)"
+      - "🇱🇻 Латвия · main"
+      - "🇫🇮 Финляндия · main #2"
+      - "🇩🇪 Германия · main (assets.fernstatic.com:8446)"
+      - "🇸🇪 Швеция · main"
+      - "🇸🇬 Сингапур · main (77.221.150.238:50443)"
+      - "🇫🇮 Финляндия · main (178.214.125.2:443)"
+      - "🇨🇿 Чехия · main"
+      - "🇷🇺 Россия · main"
+      - "🇫🇮 Финляндия · main (13.143.187.220:443)"
+      - "🇮🇹 Италия · main"
+      - "🇩🇪 Германия · main (45.144.52.205:443)"
+      - "🇺🇸 США · main (www.speedtest.net:443)"
+      - "🇫🇮 Финляндия · main (144.31.128.220:14443)"
+      - "🇱🇹 Литва · main"
+      - "🇩🇪 Германия · main (45.144.52.205:4243)"
+      - "🇷🇺 Россия · main (de.marmeliones.ru:443)"
+      - "🇫🇮 Финляндия · main (144.31.129.72:443)"
+      - "🇩🇪 Германия · main (185.255.115.6:443)"
+      - "🇪🇸 Испания · main"
+      - "🇫🇮 Финляндия · main (179.254.169.116:8443)"
+      - "🇩🇪 Германия · main (31.56.18.208:443)"
+      - "🇳🇱 Нидерланды · main (94.183.164.11:443)"
+      - "🇦🇪 ОАЭ · main"
+      - "🇳🇱 Нидерланды · main (45.132.179.183:443)"
+      - "🇺🇸 США · main (chess.com:443)"
+      - "🇧🇪 Бельгия · main (45.88.177.79:8443)"
+      - "🇩🇪 Германия · main #20"
+      - "🇷🇺 Россия · main (cdnstream.win:443)"
+      - "🇷🇺 Россия · main (138.16.206.147:2096)"
+      - "🇷🇺 Россия · main (37.139.42.37:443)"
+      - "🇺🇸 США · main (144.31.249.184:443)"
+      - "🇳🇱 Нидерланды · main (212.192.3.237:9543)"
+      - "🇳🇱 Нидерланды · main (212.192.3.113:9543)"
+      - "🇷🇺 Россия · main (178.176.153.11:443)"
+      - "🇪🇪 Эстония · main (109.206.241.143:8443)"
+      - "🇺🇸 США · main"
+      - "🇪🇺 EU · main (n2.fernstatic.com:443)"
+      - "🇩🇪 Германия · main (dogklinik.growmart.site:443)"
+      - "🇪🇸 Испания · main #12"
+      - "🇫🇷 Франция · main"
+      - "🇺🇸 США · main (sync.2ml.bid:443)"
+      - "🇪🇸 Испания · main #15"
+      - "🇫🇷 Франция · main (77.73.20.131:2099)"
+      - "🇫🇮 Финляндия · main"
+      - "🇺🇸 США · main (us-05.avroraservice.online:8443)"
+      - "🇷🇺 Россия · main (185.31.114.251:443)"
+      - "🇫🇮 Финляндия · main (196.245.217.58:443)"
+      - "🇩🇪 Германия · main (146.103.43.70:9543)"
+      - "🇷🇺 Россия · main (136.234.9.24:443)"
+      - "🇩🇪 Германия · main (assets.fernstatic.com:8444)"
+      - "🇪🇸 Испания · main (38917fx.es9.h1clayd.click:443)"
+      - "🇳🇱 Нидерланды · main (177.202.118.19:3195)"
+      - "🇧🇪 Бельгия · main"
+      - "🇷🇺 Россия · main (193.233.90.39:40443)"
+      - "🇮🇷 Иран · main"
+      - "🇷🇺 Россия · main (138.16.206.147:9096)"
+      - "🇺🇸 США · main (ip13.shabkhosh.sbs:443)"
+      - "🇪🇸 Испания · main #3"
+      - "🇷🇺 Россия · main (186.246.13.124:443)"
+      - "🇳🇱 Нидерланды · main (87.228.92.112:25201)"
+      - "🇧🇾 Беларусь · main"
+      - "🇳🇱 Нидерланды · main (138.16.206.147:9114)"
+      - "🇺🇸 США · main (84.23.52.104:9079)"
+      - "🇪🇸 Испания · main #9"
+      - "🇩🇪 Германия · main (194.5.192.31:443)"
+      - "🇺🇸 США · main (saas.sin.fan:443)"
+      - "🇺🇸 США · main (961ec0g.nl13.h1clayd.click:443)"
+      - "🇷🇺 Россия · main (cdn.white.gigobingo.ru:443)"
+      - "🇷🇺 Россия · main (vks1.grafna.shop:443)"
       - "🇺🇸 США · main (150.241.83.233:443)"
       - "🇺🇸 США · main (206.245.132.182:443)"
-      - "🇬🇧 Великобритания · main (89.125.212.212:443)"
-      - "🇳🇱 Нидерланды · main (31.77.114.101:443)"
-      - "🇩🇪 Германия · main (153.56.230.77:25155)"
-      - "🇷🇺 Россия · main (de.marmeliones.ru:443)"
-      - "🇷🇺 Россия · main (ihc212.maxleshax.icu:443)"
-      - "🇷🇺 Россия · main (185.86.147.80:9441)"
+      - "🇳🇱 Нидерланды · main (94.183.164.13:443)"
       - "🇯🇵 Япония · main"
       - "🇪🇺 EU · main (104.168.144.213:443)"
-      - "🇬🇧 Великобритания · main (82.148.228.103:443)"
-      - "🇳🇱 Нидерланды · main (94.183.164.11:443)"
-      - "🇷🇺 Россия · main (vks1.grafna.shop:443)"
-      - "🇷🇺 Россия · main (lukafajooponi.begetcdn.cloud:443)"
-      - "🇷🇺 Россия · main (37.139.42.227:7443)"
-      - "🇦🇪 ОАЭ · main (n4.fernstatic.com:443)"
-      - "🇦🇪 ОАЭ · main (206.245.152.137:54443)"
-      - "🇵🇱 Польша · main (ps1.jetservaki.fit:443)"
-      - "🇷🇺 Россия · main (138.16.206.147:9096)"
+      - "🇸🇪 Швеция · main (se2.h1cloud.net:25191)"
+      - "🇺🇸 США · main (191.217.215.228:2096)"
+      - "🇩🇪 Германия · main (pl.mylumina.sbs:443)"
+      - "🇺🇸 США · main (15.204.97.214:23576)"
+      - "🇬🇧 Великобритания · main"
       - "🇪🇺 EU · main (blog-asia.livemusic.ac:8445)"
-      - "🇫🇷 Франция · main"
-      - "🇵🇱 Польша · main (48.102.174.164:54443)"
-      - "🇦🇲 Армения · main"
-      - "🇯🇵 Япония · main (45.192.193.54:35600)"
-      - "🇷🇺 Россия · main (81.222.148.87:53443)"
-      - "🇧🇪 Бельгия · main"
-      - "🇩🇪 Германия · main (153.52.143.118:443)"
+      - "🇷🇺 Россия · main (83.171.241.136:443)"
+      - "🇯🇵 Япония · main (31.77.29.40:443)"
+      - "🇪🇪 Эстония · main"
+      - "🇩🇪 Германия · main (185.86.147.80:9443)"
+      - "🇩🇪 Германия · main (153.56.230.77:25155)"
+      - "🇩🇪 Германия · main (177.1.187.225:8443)"
+      - "🇷🇺 Россия · main (79.174.12.251:8407)"
+      - "🇳🇱 Нидерланды · main (94.183.164.10:443)"
+      - "🇩🇪 Германия · main (45.86.158.53:443)"
       - "🇺🇸 США · main (201.8.71.230:443)"
       - "🇩🇪 Германия · main (45.9.120.53:443)"
-      - "🇸🇪 Швеция · main (se2.h1cloud.net:25191)"
+      - "🇫🇷 Франция · main (77.73.20.134:2099)"
+      - "🇨🇳 Китай · main"
+      - "🇷🇺 Россия · main (185.86.147.80:5443)"
       - "DIRECT"
   - name: "Автовыбор"
     type: url-test
@@ -381,267 +410,280 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - "🇦🇪 ОАЭ · main"
-      - "🇯🇵 Япония · main (172.64.190.13:443)"
-      - "🇺🇸 США · main (104.19.28.32:443)"
-      - "🇺🇸 США · main (104.18.53.172:8443)"
-      - "🇺🇸 США · main (104.18.220.84:8443)"
-      - "🇺🇸 США · main (104.21.76.96:443)"
-      - "🇯🇵 Япония · main (104.21.34.106:443)"
-      - "🇺🇸 США · main (104.16.251.179:443)"
-      - "🇳🇱 Нидерланды · main (31.56.184.113:443)"
-      - "🇺🇸 США · main (172.64.80.1:443)"
+      - "🇳🇱 Нидерланды · main (152.234.248.107:8443)"
       - "🇳🇱 Нидерланды · main (93.152.215.186:443)"
-      - "🇩🇪 Германия · main (188.114.98.0:443)"
-      - "🇳🇱 Нидерланды · main (31.77.28.241:443)"
-      - "🇺🇸 США · main (104.17.177.160:8443)"
-      - "🇪🇺 EU · main"
-      - "🇳🇱 Нидерланды — обход БС (143.203.216.187:443)"
-      - "🇨🇦 Канада · main"
-      - "🇯🇵 Япония · main (104.17.50.227:443)"
-      - "🇬🇧 Великобритания · main (172.64.155.209:8443)"
-      - "🇫🇮 Финляндия · main (154.197.64.252:443)"
-      - "🇯🇵 Япония · main (104.16.0.1:443)"
-      - "🇺🇸 США · main (104.19.39.229:443)"
-      - "🇳🇱 Нидерланды · main (51.158.206.96:23576)"
-      - "🇯🇵 Япония · main (104.16.10.84:443)"
-      - "🇩🇪 Германия · main (177.1.187.188:443)"
-      - "🇯🇵 Япония · main (104.16.10.135:443)"
-      - "🇺🇸 США · main (saas.sin.fan:2053)"
-      - "🇪🇺 EU · main (199.68.156.123:443)"
-      - "🇳🇱 Нидерланды · main (79.182.39.135:443)"
-      - "🇺🇸 США · main (172.64.153.205:2087)"
-      - "🇸🇬 Сингапур · main"
-      - "🇯🇵 Япония · main (172.67.217.240:443)"
-      - "🇩🇪 Германия · main"
-      - "🇳🇱 Нидерланды — обход БС (2.26.96.185:443)"
-      - "🇺🇸 США — обход БС"
-      - "🇩🇪 Германия · main (179.254.166.170:443)"
-      - "🇳🇱 Нидерланды — обход БС (hammer.676767676767.ru:443)"
-      - "🇯🇵 Япония · main (104.21.0.87:443)"
-      - "🇩🇪 Германия · main #2"
-      - "🇩🇪 Германия · main (179.254.166.167:443)"
-      - "🇩🇪 Германия · main (179.254.166.169:443)"
-      - "🇳🇱 Нидерланды · main (195.206.235.139:443)"
-      - "🇺🇸 США · main (172.67.192.112:443)"
-      - "🇩🇪 Германия · main (79.182.70.192:443)"
-      - "🇩🇪 Германия · main #3"
-      - "🇩🇪 Германия — обход БС"
-      - "🇳🇱 Нидерланды — обход БС (sw1c.voxicheck.com:443)"
-      - "🇩🇪 Германия · main (179.254.166.168:443)"
-      - "🇩🇪 Германия · main (217.60.179.166:443)"
-      - "🇳🇱 Нидерланды — обход БС (macbook.plus-hit.ru:443)"
-      - "🇩🇪 Германия · main (31.56.18.208:443)"
-      - "🇺🇸 США · main (191.217.215.228:2096)"
-      - "🇫🇷 Франция — обход БС (82.47.1.240:443)"
-      - "🇳🇱 Нидерланды — обход БС (94.183.164.48:443)"
-      - "🇩🇪 Германия — обход БС (de-tube-01.cccpbot.fuck-rkn.xyz:443)"
-      - "🇪🇺 EU · main (91.107.188.129:2083)"
-      - "🇺🇸 США · main (191.217.253.12:443)"
-      - "🇳🇱 Нидерланды — обход БС (niake.ddoijtt3.cfd:443)"
-      - "🇳🇱 Нидерланды · main (94.183.164.68:443)"
-      - "🇵🇱 Польша — обход БС (144.31.0.153:443)"
-      - "🇵🇱 Польша — обход БС (177.3.252.240:8443)"
-      - "🇵🇱 Польша · main (144.31.171.37:443)"
-      - "🇩🇪 Германия — обход БС (img-80hd5d8k.tetsuo.ink:443)"
-      - "🇸🇬 Сингапур · main (77.221.150.238:50443)"
-      - "🇸🇬 Сингапур · main (191.44.19.24:443)"
-      - "🇬🇧 Великобритания · main"
-      - "🇩🇪 Германия · main (178.248.236.229:443)"
-      - "🇺🇸 США · main #3"
-      - "🇵🇱 Польша · main"
-      - "🇵🇱 Польша · main (144.31.5.137:443)"
-      - "🇸🇪 Швеция · main (88.216.129.84:443)"
-      - "🇩🇪 Германия · main (162.19.175.14:443)"
-      - "🇩🇪 Германия — обход БС (177.1.187.225:8443)"
-      - "🇩🇪 Германия · main (13.143.160.31:443)"
-      - "🇸🇪 Швеция · main"
-      - "🇳🇱 Нидерланды — обход БС (cvetidamam.growmart.site:443)"
-      - "🇩🇪 Германия · main (178.214.125.2:443)"
-      - "🇳🇱 Нидерланды — обход БС"
-      - "🇵🇱 Польша — обход БС (78.17.171.175:443)"
-      - "🇺🇸 США · main (chess.com:443)"
-      - "🇱🇹 Литва · main (85.209.231.48:443)"
-      - "🇩🇪 Германия · main (185.255.115.6:443)"
-      - "🇩🇪 Германия · main (45.144.52.205:4243)"
-      - "🇫🇮 Финляндия · main (179.254.169.116:8443)"
-      - "🇩🇪 Германия · main (45.144.52.205:443)"
-      - "🇮🇹 Италия · main"
-      - "🇫🇮 Финляндия · main"
-      - "🇱🇹 Литва · main"
-      - "🇫🇮 Финляндия · main (144.31.128.220:14443)"
-      - "🇪🇸 Испания · main"
-      - "🇸🇪 Швеция — обход БС (sw.webfree.icu:443)"
-      - "🇸🇪 Швеция — обход БС"
-      - "🇳🇱 Нидерланды · main (94.183.164.101:443)"
-      - "🇷🇺 Россия · main (5.183.253.25:443)"
-      - "🇺🇸 США · main (www.speedtest.net:443)"
-      - "🇩🇪 Германия · main (45.86.158.53:443)"
-      - "🇷🇺 Россия · main (46.243.142.2:443)"
-      - "🇪🇪 Эстония · main (109.206.241.143:8443)"
-      - "🇨🇳 Китай · main"
-      - "🇸🇪 Швеция — обход БС (se-edge.airlinesvpn.com:8450)"
-      - "🇳🇱 Нидерланды — обход БС (player6.cdnguard.org:443)"
-      - "🇳🇱 Нидерланды · main (94.183.164.13:443)"
-      - "🇱🇻 Латвия · main"
-      - "🇷🇺 Россия · main (185.31.114.251:443)"
-      - "🇺🇸 США · main (91.196.35.143:443)"
-      - "🇳🇱 Нидерланды — обход БС (212.192.3.113:9543)"
-      - "🇺🇸 США · main (saas.sin.fan:443)"
-      - "🇩🇪 Германия · main (hermani.loknietotop.digital:443)"
-      - "🇷🇺 Россия · main (37.139.42.37:443)"
-      - "🇫🇮 Финляндия — обход БС (rusea1.riseservice.me:443)"
-      - "🇩🇪 Германия — обход БС (146.103.43.124:9543)"
-      - "🇸🇪 Швеция — обход БС (se02.kubservice.icu:443)"
-      - "🇷🇺 Россия · main (168.113.254.217:443)"
-      - "🇫🇷 Франция · main (195.216.168.101:9543)"
-      - "🇳🇱 Нидерланды — обход БС (212.192.3.222:9543)"
-      - "🇷🇺 Россия · main (138.16.206.147:2096)"
-      - "🇳🇱 Нидерланды — обход БС (212.192.3.237:9543)"
-      - "🇵🇱 Польша — обход БС"
-      - "🇩🇪 Германия · main (146.103.43.70:9543)"
-      - "🇳🇱 Нидерланды — обход БС (195.216.169.229:9543)"
-      - "🇷🇺 Россия · main (64.188.90.248:443)"
-      - "🇷🇺 Россия · main"
-      - "🇪🇸 Испания — обход БС"
-      - "🇳🇱 Нидерланды — обход БС (195.133.93.227:9543)"
-      - "🇺🇸 США · main (us-05.avroraservice.online:8443)"
-      - "🇳🇱 Нидерланды · main (94.183.164.10:443)"
-      - "🇷🇺 Россия · main (cdn3.aleqseivpn.site:443)"
-      - "🇫🇷 Франция · main (media.fernstatic.com:2100)"
-      - "🇫🇷 Франция · main (assets.fernstatic.com:8446)"
-      - "🇳🇱 Нидерланды — обход БС (195.133.93.179:9543)"
-      - "🇫🇮 Финляндия — обход БС (107.150.93.43:443)"
-      - "🇪🇪 Эстония · main (107.150.93.5:443)"
-      - "🇫🇮 Финляндия · main (144.31.129.72:443)"
-      - "🇪🇪 Эстония · main"
-      - "🇩🇪 Германия · main (dogklinik.growmart.site:443)"
-      - "🇨🇾 Кипр · main"
-      - "🇫🇮 Финляндия · main (13.143.187.220:443)"
-      - "🇺🇸 США — обход БС (91.185.83.95:443)"
-      - "🇫🇮 Финляндия · main (196.245.217.58:443)"
-      - "🇫🇷 Франция · main (media.fernstatic.com:2099)"
-      - "🇳🇱 Нидерланды · main (94.183.164.12:443)"
-      - "🇩🇪 Германия — обход БС (146.103.40.91:9543)"
-      - "🇺🇸 США · main"
-      - "🇩🇪 Германия · main (pl.mylumina.sbs:443)"
-      - "🇪🇺 EU · main (n2.fernstatic.com:443)"
-      - "🇷🇺 Россия · main (cdnstream.win:443)"
-      - "🇷🇺 Россия — обход БС #15"
-      - "🇳🇱 Нидерланды · main (nlee.hurricanew.com:443)"
-      - "🇷🇺 Россия · main (cdn.weloverkn.ru:443)"
-      - "🇳🇱 Нидерланды — обход БС #5"
-      - "🇫🇷 Франция · main (assets.fernstatic.com:8444)"
-      - "🇷🇺 Россия · main (64.188.90.248:8443)"
-      - "🇷🇺 Россия · main (136.234.9.24:443)"
-      - "🇨🇾 Кипр — обход БС"
-      - "🇺🇸 США · main (ip13.shabkhosh.sbs:443)"
-      - "🇩🇪 Германия — обход БС (185.86.147.161:443)"
-      - "🇩🇪 Германия · main (4935e4t.de25.h1clayd.click:443)"
-      - "🇳🇱 Нидерланды · main (138.16.206.147:9114)"
-      - "🇸🇪 Швеция — обход БС (185.86.145.78:443)"
-      - "🇵🇱 Польша · main (80.47.13.56:443)"
-      - "🇷🇺 Россия · main (84.23.52.104:9079)"
-      - "🇳🇱 Нидерланды · main (87.228.92.112:25201)"
+      - "🇯🇵 Япония · main #12"
+      - "🇬🇧 Великобритания · main #2"
+      - "🇫🇷 Франция · main (185.16.110.71:443)"
+      - "🇯🇵 Япония · main (104.19.164.155:443)"
+      - "🇯🇵 Япония · main #14"
+      - "🇸🇬 Сингапур · main (141.193.213.21:8443)"
       - "🇺🇸 США · main #4"
-      - "🇹🇷 Турция — обход БС #2"
-      - "🇺🇸 США · main (sync.2ml.bid:443)"
+      - "🇯🇵 Япония · main #10"
+      - "🇸🇬 Сингапур · main (141.193.213.20:8443)"
+      - "🇳🇱 Нидерланды · main (217.60.66.9:443)"
+      - "🇩🇪 Германия · main (104.17.70.206:8443)"
+      - "🇳🇱 Нидерланды · main #5"
+      - "🇯🇵 Япония · main (104.18.37.127:443)"
+      - "🇳🇱 Нидерланды — обход БС (2.26.96.185:443)"
+      - "🇩🇪 Германия · main #29"
+      - "🇯🇵 Япония · main (104.27.46.35:443)"
+      - "🇯🇵 Япония · main #6"
+      - "🇳🇱 Нидерланды · main (31.56.184.113:443)"
+      - "🇯🇵 Япония · main (104.18.153.10:443)"
+      - "🇳🇱 Нидерланды · main (187.52.44.79:443)"
+      - "🇳🇱 Нидерланды · main (195.206.235.139:443)"
+      - "🇯🇵 Япония · main #3"
+      - "🇺🇸 США · main (172.64.154.113:8443)"
+      - "🇯🇵 Япония · main (104.21.70.21:443)"
+      - "🇯🇵 Япония · main (104.16.10.135:443)"
+      - "🇳🇱 Нидерланды — обход БС (31.77.114.101:443)"
+      - "🇩🇪 Германия · main (78.17.215.141:443)"
+      - "🇩🇪 Германия · main (104.27.97.42:8443)"
+      - "🇺🇸 США · main (104.19.39.229:443)"
+      - "🇩🇪 Германия · main (79.182.70.192:443)"
+      - "🇯🇵 Япония · main (104.16.10.9:443)"
+      - "🇯🇵 Япония · main (104.21.34.106:443)"
+      - "🇩🇪 Германия · main (172.67.197.170:443)"
+      - "🇯🇵 Япония · main (104.16.10.22:443)"
+      - "🇯🇵 Япония · main (104.17.50.53:443)"
+      - "🇯🇵 Япония · main (104.16.10.84:443)"
+      - "🇺🇸 США · main (104.17.177.160:8443)"
+      - "🇺🇸 США · main (104.18.220.84:8443)"
+      - "🇯🇵 Япония · main #9"
+      - "🇺🇸 США · main (172.64.153.205:2087)"
+      - "🇳🇱 Нидерланды — обход БС (143.203.216.187:443)"
+      - "🇺🇸 США · main (104.21.76.96:443)"
+      - "🇫🇮 Финляндия · main (154.197.64.252:443)"
+      - "🇩🇪 Германия — обход БС (50.7.28.213:443)"
+      - "🇪🇺 EU · main (199.68.156.123:443)"
+      - "🇺🇸 США — обход БС"
+      - "🇺🇸 США · main (104.16.251.179:443)"
+      - "🇳🇱 Нидерланды · main (79.182.39.135:443)"
       - "🇳🇱 Нидерланды · main"
-      - "🇳🇱 Нидерланды — обход БС #3"
-      - "🇺🇸 США · main (45.86.74.209:443)"
+      - "🇺🇸 США · main (saas.sin.fan:2053)"
+      - "🇩🇪 Германия · main (177.1.187.186:443)"
+      - "🇯🇵 Япония · main (104.19.48.107:443)"
+      - "🇬🇧 Великобритания — обход БС"
+      - "🇳🇱 Нидерланды — обход БС (206.245.152.137:54443)"
+      - "🇹🇷 Турция · main"
+      - "🇳🇱 Нидерланды · main (94.183.164.12:443)"
+      - "🇩🇪 Германия · main (48.103.231.144:443)"
+      - "🇩🇪 Германия · main (64.188.106.170:443)"
+      - "🇸🇬 Сингапур · main"
+      - "🇩🇪 Германия · main (177.1.187.188:443)"
+      - "🇨🇦 Канада · main"
+      - "🇩🇪 Германия — обход БС"
+      - "🇳🇱 Нидерланды · main (176.124.199.102:443)"
+      - "🇹🇷 Турция · main (chatgpt.com:443)"
+      - "🇩🇪 Германия · main"
+      - "🇪🇺 EU · main (91.107.188.129:2083)"
+      - "🇳🇱 Нидерланды · main (51.158.206.96:23576)"
+      - "🇺🇸 США · main (177.3.252.240:8443)"
+      - "🇫🇷 Франция — обход БС"
+      - "🇵🇱 Польша · main #3"
+      - "🇩🇪 Германия · main (178.248.236.229:443)"
+      - "🇵🇱 Польша · main (82.40.63.149:8443)"
+      - "🇬🇧 Великобритания · main (5.104.74.48:8443)"
+      - "🇸🇬 Сингапур · main (191.44.19.24:443)"
+      - "🇵🇱 Польша · main (191.217.244.190:443)"
+      - "🇩🇪 Германия · main (162.19.175.14:443)"
+      - "🇵🇱 Польша · main (2.26.5.208:9443)"
+      - "🇩🇪 Германия · main (217.60.179.166:443)"
+      - "🇵🇱 Польша — обход БС (144.31.171.37:443)"
+      - "🇺🇸 США · main (vless.cloudxzw2027.ccwu.cc:443)"
+      - "🇸🇪 Швеция · main (88.216.129.84:443)"
+      - "🇷🇺 Россия · main (cdn.weloverkn.ru:443)"
+      - "🇵🇱 Польша · main"
+      - "🇹🇷 Турция · main (sinavm3.soft10.ir:8443)"
+      - "🇱🇻 Латвия · main"
+      - "🇫🇮 Финляндия · main #2"
+      - "🇵🇱 Польша — обход БС (78.17.171.175:443)"
+      - "🇩🇪 Германия · main (assets.fernstatic.com:8446)"
+      - "🇸🇪 Швеция · main"
+      - "🇸🇬 Сингапур · main (77.221.150.238:50443)"
+      - "🇫🇮 Финляндия · main (178.214.125.2:443)"
+      - "🇨🇿 Чехия · main"
+      - "🇷🇺 Россия · main"
+      - "🇸🇪 Швеция — обход БС"
+      - "🇫🇮 Финляндия — обход БС #36"
+      - "🇫🇮 Финляндия · main (13.143.187.220:443)"
+      - "🇮🇹 Италия · main"
+      - "🇳🇱 Нидерланды — обход БС (hammer.676767676767.ru:443)"
+      - "🇩🇪 Германия · main (45.144.52.205:443)"
+      - "🇺🇸 США · main (www.speedtest.net:443)"
+      - "🇫🇮 Финляндия · main (144.31.128.220:14443)"
+      - "🇱🇹 Литва · main"
+      - "🇩🇪 Германия · main (45.144.52.205:4243)"
+      - "🇷🇺 Россия · main (de.marmeliones.ru:443)"
+      - "🇫🇮 Финляндия — обход БС (81.19.139.157:443)"
+      - "🇫🇮 Финляндия · main (144.31.129.72:443)"
+      - "🇩🇪 Германия · main (185.255.115.6:443)"
+      - "🇳🇱 Нидерланды — обход БС (niake.ddoijtt3.cfd:443)"
+      - "🇪🇸 Испания · main"
+      - "🇫🇮 Финляндия · main (179.254.169.116:8443)"
+      - "🇩🇪 Германия · main (31.56.18.208:443)"
+      - "🇷🇺 Россия — обход БС (87.242.94.43:443)"
+      - "🇳🇱 Нидерланды · main (94.183.164.11:443)"
+      - "🇦🇪 ОАЭ · main"
+      - "🇳🇱 Нидерланды · main (45.132.179.183:443)"
+      - "🇺🇸 США · main (chess.com:443)"
+      - "🇧🇪 Бельгия · main (45.88.177.79:8443)"
+      - "🇩🇪 Германия · main #20"
+      - "🇷🇺 Россия · main (cdnstream.win:443)"
+      - "🇩🇪 Германия — обход БС (img-80hd5d8k.tetsuo.ink:443)"
+      - "🇷🇺 Россия · main (138.16.206.147:2096)"
+      - "🇷🇺 Россия · main (37.139.42.37:443)"
+      - "🇳🇱 Нидерланды — обход БС (195.216.169.229:9543)"
+      - "🇺🇸 США · main (144.31.249.184:443)"
+      - "🇳🇱 Нидерланды — обход БС (sw1c.voxicheck.com:443)"
+      - "🇳🇱 Нидерланды — обход БС (195.133.93.179:9543)"
+      - "🇩🇪 Германия — обход БС (64.188.90.248:443)"
+      - "🇳🇱 Нидерланды · main (212.192.3.237:9543)"
+      - "🇳🇱 Нидерланды · main (212.192.3.113:9543)"
+      - "🇳🇱 Нидерланды — обход БС (45.9.190.245:443)"
+      - "🇷🇺 Россия · main (178.176.153.11:443)"
+      - "🇳🇱 Нидерланды — обход БС (macbook.plus-hit.ru:443)"
+      - "🇪🇪 Эстония · main (109.206.241.143:8443)"
+      - "🇺🇸 США · main"
+      - "🇪🇺 EU · main (n2.fernstatic.com:443)"
+      - "🇩🇪 Германия — обход БС (146.103.43.124:9543)"
+      - "🇩🇪 Германия · main (dogklinik.growmart.site:443)"
+      - "🇪🇸 Испания · main #12"
+      - "🇫🇷 Франция · main"
+      - "🇺🇸 США · main (sync.2ml.bid:443)"
+      - "🇪🇸 Испания · main #15"
+      - "🇩🇪 Германия — обход БС (de-tube-01.cccpbot.fuck-rkn.xyz:443)"
+      - "🇫🇷 Франция · main (77.73.20.131:2099)"
+      - "🇫🇮 Финляндия · main"
+      - "🇳🇱 Нидерланды — обход БС (212.192.3.222:9543)"
+      - "🇺🇸 США · main (us-05.avroraservice.online:8443)"
+      - "🇩🇪 Германия — обход БС (146.103.40.91:9543)"
+      - "🇷🇺 Россия · main (185.31.114.251:443)"
+      - "🇫🇮 Финляндия · main (196.245.217.58:443)"
+      - "🇩🇪 Германия · main (146.103.43.70:9543)"
+      - "🇷🇺 Россия · main (136.234.9.24:443)"
+      - "🇸🇪 Швеция — обход БС (sw.webfree.icu:443)"
+      - "🇩🇪 Германия · main (assets.fernstatic.com:8444)"
+      - "🇳🇱 Нидерланды — обход БС"
+      - "🇪🇸 Испания · main (38917fx.es9.h1clayd.click:443)"
+      - "🇳🇱 Нидерланды · main (177.202.118.19:3195)"
+      - "🇧🇪 Бельгия · main"
+      - "🇸🇪 Швеция — обход БС (se-edge.airlinesvpn.com:8450)"
+      - "🇳🇱 Нидерланды — обход БС (94.183.164.48:443)"
+      - "🇷🇺 Россия · main (193.233.90.39:40443)"
+      - "🇷🇺 Россия — обход БС (185.86.145.173:443)"
+      - "🇮🇷 Иран · main"
+      - "🇩🇪 Германия — обход БС #4"
+      - "🇷🇺 Россия · main (138.16.206.147:9096)"
+      - "🇺🇸 США · main (ip13.shabkhosh.sbs:443)"
+      - "🇪🇸 Испания · main #3"
+      - "🇷🇺 Россия · main (186.246.13.124:443)"
+      - "🇳🇱 Нидерланды · main (87.228.92.112:25201)"
+      - "🇧🇾 Беларусь · main"
+      - "🇳🇱 Нидерланды · main (138.16.206.147:9114)"
+      - "🇺🇸 США · main (84.23.52.104:9079)"
+      - "🇷🇺 Россия — обход БС (cdn432.whitenetwork.cloud:52831)"
+      - "🇪🇸 Испания · main #9"
+      - "🇳🇱 Нидерланды — обход БС (player6.cdnguard.org:443)"
+      - "🇹🇷 Турция — обход БС"
+      - "🇵🇱 Польша — обход БС (84.23.52.104:9071)"
+      - "🇩🇪 Германия · main (194.5.192.31:443)"
+      - "🇺🇸 США · main (saas.sin.fan:443)"
+      - "🇺🇸 США · main (961ec0g.nl13.h1clayd.click:443)"
+      - "🇷🇺 Россия · main (cdn.white.gigobingo.ru:443)"
+      - "🇷🇺 Россия · main (vks1.grafna.shop:443)"
+      - "🇷🇺 Россия — обход БС"
+      - "🇵🇱 Польша — обход БС (51.75.50.158:11780)"
       - "🇺🇸 США · main (150.241.83.233:443)"
       - "🇺🇸 США · main (206.245.132.182:443)"
-      - "🇬🇧 Великобритания · main (89.125.212.212:443)"
-      - "🇳🇱 Нидерланды · main (31.77.114.101:443)"
-      - "🇩🇪 Германия · main (153.56.230.77:25155)"
-      - "🇷🇺 Россия · main (de.marmeliones.ru:443)"
-      - "🇷🇺 Россия · main (ihc212.maxleshax.icu:443)"
-      - "🇷🇺 Россия · main (185.86.147.80:9441)"
+      - "🇳🇱 Нидерланды · main (94.183.164.13:443)"
+      - "🇪🇸 Испания — обход БС"
       - "🇯🇵 Япония · main"
       - "🇪🇺 EU · main (104.168.144.213:443)"
-      - "🇺🇸 США — обход БС (15.204.97.214:23576)"
-      - "🇬🇧 Великобритания · main (82.148.228.103:443)"
-      - "🇳🇱 Нидерланды — обход БС #6"
-      - "🇵🇱 Польша — обход БС #2"
-      - "🇳🇱 Нидерланды · main (94.183.164.11:443)"
-      - "🇷🇺 Россия · main (vks1.grafna.shop:443)"
-      - "🇳🇱 Нидерланды — обход БС (195.209.221.165:443)"
-      - "🇷🇺 Россия · main (lukafajooponi.begetcdn.cloud:443)"
-      - "🇷🇺 Россия · main (37.139.42.227:7443)"
-      - "🇦🇪 ОАЭ · main (n4.fernstatic.com:443)"
-      - "🇦🇪 ОАЭ · main (206.245.152.137:54443)"
-      - "🇵🇱 Польша · main (ps1.jetservaki.fit:443)"
-      - "🇷🇺 Россия · main (138.16.206.147:9096)"
-      - "🇩🇪 Германия — обход БС (84.23.52.104:9096)"
-      - "🇺🇸 США — обход БС #2"
+      - "🇸🇪 Швеция · main (se2.h1cloud.net:25191)"
+      - "🇺🇸 США · main (191.217.215.228:2096)"
+      - "🇩🇪 Германия · main (pl.mylumina.sbs:443)"
+      - "🇺🇸 США · main (15.204.97.214:23576)"
+      - "🇳🇱 Нидерланды — обход БС (sub-edge-09x-1g.whitenw.net:10490)"
+      - "🇫🇮 Финляндия — обход БС (78ec29x.fi2.h1clayd.click:443)"
+      - "🇸🇪 Швеция — обход БС (se02.kubservice.icu:443)"
+      - "🇬🇧 Великобритания · main"
       - "🇪🇺 EU · main (blog-asia.livemusic.ac:8445)"
-      - "🇫🇷 Франция · main"
-      - "🇵🇱 Польша · main (48.102.174.164:54443)"
-      - "🇦🇲 Армения · main"
-      - "🇵🇱 Польша — обход БС (191.217.244.190:443)"
-      - "🇯🇵 Япония · main (45.192.193.54:35600)"
-      - "🇷🇺 Россия · main (81.222.148.87:53443)"
-      - "🇧🇪 Бельгия · main"
-      - "🇩🇪 Германия · main (153.52.143.118:443)"
+      - "🇷🇺 Россия · main (83.171.241.136:443)"
+      - "🇫🇮 Финляндия — обход БС (a80b5386.fi2.h1clayd.click:443)"
+      - "🇯🇵 Япония · main (31.77.29.40:443)"
+      - "🇪🇪 Эстония · main"
+      - "🇩🇪 Германия · main (185.86.147.80:9443)"
+      - "🇩🇪 Германия · main (153.56.230.77:25155)"
+      - "🇨🇾 Кипр — обход БС"
+      - "🇺🇸 США — обход БС (84.23.52.104:9118)"
+      - "🇩🇪 Германия · main (177.1.187.225:8443)"
+      - "🇷🇺 Россия · main (79.174.12.251:8407)"
+      - "🇳🇱 Нидерланды · main (94.183.164.10:443)"
+      - "🇩🇪 Германия · main (45.86.158.53:443)"
+      - "🇫🇷 Франция — обход БС (media.fernstatic.com:2099)"
       - "🇺🇸 США · main (201.8.71.230:443)"
       - "🇩🇪 Германия · main (45.9.120.53:443)"
-      - "🇸🇪 Швеция · main (se2.h1cloud.net:25191)"
+      - "🇫🇮 Финляндия — обход БС (rusea1.riseservice.me:443)"
+      - "🇫🇷 Франция · main (77.73.20.134:2099)"
+      - "🇨🇳 Китай · main"
+      - "🇷🇺 Россия · main (185.86.147.80:5443)"
   - name: "Режим БС"
     type: select
     proxies: ["Автоматический", "Ручной БС", "DIRECT"]
   - name: "Ручной БС"
     type: select
     proxies:
-      - "🇳🇱 Нидерланды — обход БС (143.203.216.187:443)"
       - "🇳🇱 Нидерланды — обход БС (2.26.96.185:443)"
+      - "🇳🇱 Нидерланды — обход БС (31.77.114.101:443)"
+      - "🇳🇱 Нидерланды — обход БС (143.203.216.187:443)"
+      - "🇩🇪 Германия — обход БС (50.7.28.213:443)"
       - "🇺🇸 США — обход БС"
-      - "🇳🇱 Нидерланды — обход БС (hammer.676767676767.ru:443)"
+      - "🇬🇧 Великобритания — обход БС"
+      - "🇳🇱 Нидерланды — обход БС (206.245.152.137:54443)"
       - "🇩🇪 Германия — обход БС"
-      - "🇳🇱 Нидерланды — обход БС (sw1c.voxicheck.com:443)"
-      - "🇳🇱 Нидерланды — обход БС (macbook.plus-hit.ru:443)"
-      - "🇫🇷 Франция — обход БС (82.47.1.240:443)"
-      - "🇳🇱 Нидерланды — обход БС (94.183.164.48:443)"
-      - "🇩🇪 Германия — обход БС (de-tube-01.cccpbot.fuck-rkn.xyz:443)"
-      - "🇳🇱 Нидерланды — обход БС (niake.ddoijtt3.cfd:443)"
-      - "🇵🇱 Польша — обход БС (144.31.0.153:443)"
-      - "🇵🇱 Польша — обход БС (177.3.252.240:8443)"
-      - "🇩🇪 Германия — обход БС (img-80hd5d8k.tetsuo.ink:443)"
-      - "🇩🇪 Германия — обход БС (177.1.187.225:8443)"
-      - "🇳🇱 Нидерланды — обход БС (cvetidamam.growmart.site:443)"
-      - "🇳🇱 Нидерланды — обход БС"
+      - "🇫🇷 Франция — обход БС"
+      - "🇵🇱 Польша — обход БС (144.31.171.37:443)"
       - "🇵🇱 Польша — обход БС (78.17.171.175:443)"
-      - "🇸🇪 Швеция — обход БС (sw.webfree.icu:443)"
       - "🇸🇪 Швеция — обход БС"
-      - "🇸🇪 Швеция — обход БС (se-edge.airlinesvpn.com:8450)"
-      - "🇳🇱 Нидерланды — обход БС (player6.cdnguard.org:443)"
-      - "🇳🇱 Нидерланды — обход БС (212.192.3.113:9543)"
-      - "🇫🇮 Финляндия — обход БС (rusea1.riseservice.me:443)"
-      - "🇩🇪 Германия — обход БС (146.103.43.124:9543)"
-      - "🇸🇪 Швеция — обход БС (se02.kubservice.icu:443)"
-      - "🇳🇱 Нидерланды — обход БС (212.192.3.222:9543)"
-      - "🇳🇱 Нидерланды — обход БС (212.192.3.237:9543)"
-      - "🇵🇱 Польша — обход БС"
+      - "🇫🇮 Финляндия — обход БС #36"
+      - "🇳🇱 Нидерланды — обход БС (hammer.676767676767.ru:443)"
+      - "🇫🇮 Финляндия — обход БС (81.19.139.157:443)"
+      - "🇳🇱 Нидерланды — обход БС (niake.ddoijtt3.cfd:443)"
+      - "🇷🇺 Россия — обход БС (87.242.94.43:443)"
+      - "🇩🇪 Германия — обход БС (img-80hd5d8k.tetsuo.ink:443)"
       - "🇳🇱 Нидерланды — обход БС (195.216.169.229:9543)"
-      - "🇪🇸 Испания — обход БС"
-      - "🇳🇱 Нидерланды — обход БС (195.133.93.227:9543)"
+      - "🇳🇱 Нидерланды — обход БС (sw1c.voxicheck.com:443)"
       - "🇳🇱 Нидерланды — обход БС (195.133.93.179:9543)"
-      - "🇫🇮 Финляндия — обход БС (107.150.93.43:443)"
-      - "🇺🇸 США — обход БС (91.185.83.95:443)"
+      - "🇩🇪 Германия — обход БС (64.188.90.248:443)"
+      - "🇳🇱 Нидерланды — обход БС (45.9.190.245:443)"
+      - "🇳🇱 Нидерланды — обход БС (macbook.plus-hit.ru:443)"
+      - "🇩🇪 Германия — обход БС (146.103.43.124:9543)"
+      - "🇩🇪 Германия — обход БС (de-tube-01.cccpbot.fuck-rkn.xyz:443)"
+      - "🇳🇱 Нидерланды — обход БС (212.192.3.222:9543)"
       - "🇩🇪 Германия — обход БС (146.103.40.91:9543)"
-      - "🇷🇺 Россия — обход БС #15"
-      - "🇳🇱 Нидерланды — обход БС #5"
+      - "🇸🇪 Швеция — обход БС (sw.webfree.icu:443)"
+      - "🇳🇱 Нидерланды — обход БС"
+      - "🇸🇪 Швеция — обход БС (se-edge.airlinesvpn.com:8450)"
+      - "🇳🇱 Нидерланды — обход БС (94.183.164.48:443)"
+      - "🇷🇺 Россия — обход БС (185.86.145.173:443)"
+      - "🇩🇪 Германия — обход БС #4"
+      - "🇷🇺 Россия — обход БС (cdn432.whitenetwork.cloud:52831)"
+      - "🇳🇱 Нидерланды — обход БС (player6.cdnguard.org:443)"
+      - "🇹🇷 Турция — обход БС"
+      - "🇵🇱 Польша — обход БС (84.23.52.104:9071)"
+      - "🇷🇺 Россия — обход БС"
+      - "🇵🇱 Польша — обход БС (51.75.50.158:11780)"
+      - "🇪🇸 Испания — обход БС"
+      - "🇳🇱 Нидерланды — обход БС (sub-edge-09x-1g.whitenw.net:10490)"
+      - "🇫🇮 Финляндия — обход БС (78ec29x.fi2.h1clayd.click:443)"
+      - "🇸🇪 Швеция — обход БС (se02.kubservice.icu:443)"
+      - "🇫🇮 Финляндия — обход БС (a80b5386.fi2.h1clayd.click:443)"
       - "🇨🇾 Кипр — обход БС"
-      - "🇩🇪 Германия — обход БС (185.86.147.161:443)"
-      - "🇸🇪 Швеция — обход БС (185.86.145.78:443)"
-      - "🇹🇷 Турция — обход БС #2"
-      - "🇳🇱 Нидерланды — обход БС #3"
-      - "🇺🇸 США — обход БС (15.204.97.214:23576)"
-      - "🇳🇱 Нидерланды — обход БС #6"
-      - "🇵🇱 Польша — обход БС #2"
-      - "🇳🇱 Нидерланды — обход БС (195.209.221.165:443)"
-      - "🇩🇪 Германия — обход БС (84.23.52.104:9096)"
-      - "🇺🇸 США — обход БС #2"
-      - "🇵🇱 Польша — обход БС (191.217.244.190:443)"
+      - "🇺🇸 США — обход БС (84.23.52.104:9118)"
+      - "🇫🇷 Франция — обход БС (media.fernstatic.com:2099)"
+      - "🇫🇮 Финляндия — обход БС (rusea1.riseservice.me:443)"
       - "DIRECT"
   - name: "Автоматический"
     type: url-test
@@ -649,56 +691,55 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - "🇳🇱 Нидерланды — обход БС (143.203.216.187:443)"
       - "🇳🇱 Нидерланды — обход БС (2.26.96.185:443)"
+      - "🇳🇱 Нидерланды — обход БС (31.77.114.101:443)"
+      - "🇳🇱 Нидерланды — обход БС (143.203.216.187:443)"
+      - "🇩🇪 Германия — обход БС (50.7.28.213:443)"
       - "🇺🇸 США — обход БС"
-      - "🇳🇱 Нидерланды — обход БС (hammer.676767676767.ru:443)"
+      - "🇬🇧 Великобритания — обход БС"
+      - "🇳🇱 Нидерланды — обход БС (206.245.152.137:54443)"
       - "🇩🇪 Германия — обход БС"
-      - "🇳🇱 Нидерланды — обход БС (sw1c.voxicheck.com:443)"
-      - "🇳🇱 Нидерланды — обход БС (macbook.plus-hit.ru:443)"
-      - "🇫🇷 Франция — обход БС (82.47.1.240:443)"
-      - "🇳🇱 Нидерланды — обход БС (94.183.164.48:443)"
-      - "🇩🇪 Германия — обход БС (de-tube-01.cccpbot.fuck-rkn.xyz:443)"
-      - "🇳🇱 Нидерланды — обход БС (niake.ddoijtt3.cfd:443)"
-      - "🇵🇱 Польша — обход БС (144.31.0.153:443)"
-      - "🇵🇱 Польша — обход БС (177.3.252.240:8443)"
-      - "🇩🇪 Германия — обход БС (img-80hd5d8k.tetsuo.ink:443)"
-      - "🇩🇪 Германия — обход БС (177.1.187.225:8443)"
-      - "🇳🇱 Нидерланды — обход БС (cvetidamam.growmart.site:443)"
-      - "🇳🇱 Нидерланды — обход БС"
+      - "🇫🇷 Франция — обход БС"
+      - "🇵🇱 Польша — обход БС (144.31.171.37:443)"
       - "🇵🇱 Польша — обход БС (78.17.171.175:443)"
-      - "🇸🇪 Швеция — обход БС (sw.webfree.icu:443)"
       - "🇸🇪 Швеция — обход БС"
-      - "🇸🇪 Швеция — обход БС (se-edge.airlinesvpn.com:8450)"
-      - "🇳🇱 Нидерланды — обход БС (player6.cdnguard.org:443)"
-      - "🇳🇱 Нидерланды — обход БС (212.192.3.113:9543)"
-      - "🇫🇮 Финляндия — обход БС (rusea1.riseservice.me:443)"
-      - "🇩🇪 Германия — обход БС (146.103.43.124:9543)"
-      - "🇸🇪 Швеция — обход БС (se02.kubservice.icu:443)"
-      - "🇳🇱 Нидерланды — обход БС (212.192.3.222:9543)"
-      - "🇳🇱 Нидерланды — обход БС (212.192.3.237:9543)"
-      - "🇵🇱 Польша — обход БС"
+      - "🇫🇮 Финляндия — обход БС #36"
+      - "🇳🇱 Нидерланды — обход БС (hammer.676767676767.ru:443)"
+      - "🇫🇮 Финляндия — обход БС (81.19.139.157:443)"
+      - "🇳🇱 Нидерланды — обход БС (niake.ddoijtt3.cfd:443)"
+      - "🇷🇺 Россия — обход БС (87.242.94.43:443)"
+      - "🇩🇪 Германия — обход БС (img-80hd5d8k.tetsuo.ink:443)"
       - "🇳🇱 Нидерланды — обход БС (195.216.169.229:9543)"
-      - "🇪🇸 Испания — обход БС"
-      - "🇳🇱 Нидерланды — обход БС (195.133.93.227:9543)"
+      - "🇳🇱 Нидерланды — обход БС (sw1c.voxicheck.com:443)"
       - "🇳🇱 Нидерланды — обход БС (195.133.93.179:9543)"
-      - "🇫🇮 Финляндия — обход БС (107.150.93.43:443)"
-      - "🇺🇸 США — обход БС (91.185.83.95:443)"
+      - "🇩🇪 Германия — обход БС (64.188.90.248:443)"
+      - "🇳🇱 Нидерланды — обход БС (45.9.190.245:443)"
+      - "🇳🇱 Нидерланды — обход БС (macbook.plus-hit.ru:443)"
+      - "🇩🇪 Германия — обход БС (146.103.43.124:9543)"
+      - "🇩🇪 Германия — обход БС (de-tube-01.cccpbot.fuck-rkn.xyz:443)"
+      - "🇳🇱 Нидерланды — обход БС (212.192.3.222:9543)"
       - "🇩🇪 Германия — обход БС (146.103.40.91:9543)"
-      - "🇷🇺 Россия — обход БС #15"
-      - "🇳🇱 Нидерланды — обход БС #5"
+      - "🇸🇪 Швеция — обход БС (sw.webfree.icu:443)"
+      - "🇳🇱 Нидерланды — обход БС"
+      - "🇸🇪 Швеция — обход БС (se-edge.airlinesvpn.com:8450)"
+      - "🇳🇱 Нидерланды — обход БС (94.183.164.48:443)"
+      - "🇷🇺 Россия — обход БС (185.86.145.173:443)"
+      - "🇩🇪 Германия — обход БС #4"
+      - "🇷🇺 Россия — обход БС (cdn432.whitenetwork.cloud:52831)"
+      - "🇳🇱 Нидерланды — обход БС (player6.cdnguard.org:443)"
+      - "🇹🇷 Турция — обход БС"
+      - "🇵🇱 Польша — обход БС (84.23.52.104:9071)"
+      - "🇷🇺 Россия — обход БС"
+      - "🇵🇱 Польша — обход БС (51.75.50.158:11780)"
+      - "🇪🇸 Испания — обход БС"
+      - "🇳🇱 Нидерланды — обход БС (sub-edge-09x-1g.whitenw.net:10490)"
+      - "🇫🇮 Финляндия — обход БС (78ec29x.fi2.h1clayd.click:443)"
+      - "🇸🇪 Швеция — обход БС (se02.kubservice.icu:443)"
+      - "🇫🇮 Финляндия — обход БС (a80b5386.fi2.h1clayd.click:443)"
       - "🇨🇾 Кипр — обход БС"
-      - "🇩🇪 Германия — обход БС (185.86.147.161:443)"
-      - "🇸🇪 Швеция — обход БС (185.86.145.78:443)"
-      - "🇹🇷 Турция — обход БС #2"
-      - "🇳🇱 Нидерланды — обход БС #3"
-      - "🇺🇸 США — обход БС (15.204.97.214:23576)"
-      - "🇳🇱 Нидерланды — обход БС #6"
-      - "🇵🇱 Польша — обход БС #2"
-      - "🇳🇱 Нидерланды — обход БС (195.209.221.165:443)"
-      - "🇩🇪 Германия — обход БС (84.23.52.104:9096)"
-      - "🇺🇸 США — обход БС #2"
-      - "🇵🇱 Польша — обход БС (191.217.244.190:443)"
+      - "🇺🇸 США — обход БС (84.23.52.104:9118)"
+      - "🇫🇷 Франция — обход БС (media.fernstatic.com:2099)"
+      - "🇫🇮 Финляндия — обход БС (rusea1.riseservice.me:443)"
 
 rules:
   - MATCH,Режим
