@@ -37,7 +37,7 @@
       <p>❄️ С первым снегом! Выбирай нужный формат актуальной конфигурации (если задан параметр <code>?mode=yaml</code> или <code>?mode=txt</code>, переход произойдёт автоматически):</p>
       <a class="btn yaml" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml">⚙️ Открыть Mihomo YAML (рекомендуется)</a>
       <a class="btn txt" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt">📄 Открыть TXT-подписку (sub.txt)</a>
-      <div class="meta">Обновлено: 25.11.2026 22:04:42</div>
+      <div class="meta">Обновлено: 25.11.2026 23:35:37</div>
     </div>
 
     <div class="card" id="mtproto-card">
@@ -57,7 +57,7 @@
         <button class="btn mtp" id="save-local">💾 Сохранить в браузере</button>
         <button class="btn sec" id="copy-json">📋 Скопировать JSON для файла mtproto.json в GitHub</button>
         <button class="btn sec" id="clear-shots">🗑 Очистить скриншоты</button>
-        <div class="hint">💡 Чтобы обновленные прокси и скриншоты видели <b>все посетители сайта</b>, нажми «Скопировать JSON» и вставь его в файл <code>mtproto.json</code> в корне репозитория GitHub.</div>
+        <div class="hint">💡 Также можно просто кинуть ссылки <code>tg://proxy?...</code> прямо нашему Telegram-боту — он сам обновит <code>mtproto.json</code> на GitHub!</div>
       </div>
     </div>
   </div>
@@ -87,7 +87,7 @@
       function render() {
         listEl.innerHTML = "";
         if (!state.proxies.length) {
-          listEl.innerHTML = '<div class="hint">Пока список пуст — нажми <b>✏️ Редактировать</b> справа сверху, чтобы добавить свои рабочие MTProto Proxy и скриншоты!</div>';
+          listEl.innerHTML = '<div class="hint">Пока список пуст — нажми <b>✏️ Редактировать</b> справа сверху или отправь ссылки <code>tg://proxy</code> боту!</div>';
         } else {
           state.proxies.forEach((link, idx) => {
             const box = document.createElement("div");
@@ -116,24 +116,24 @@
 
       async function initData() {
         try {
-          const localRaw = localStorage.getItem(STORAGE_KEY);
-          if (localRaw) {
-            const parsed = JSON.parse(localRaw);
-            if (parsed && Array.isArray(parsed.proxies)) {
-              state = parsed;
+          const resp = await fetch("./mtproto.json?ts=" + Date.now());
+          if (resp.ok) {
+            const remote = await resp.json();
+            if (remote && Array.isArray(remote.proxies)) {
+              state = {
+                proxies: remote.proxies || [],
+                screenshots: remote.screenshots || []
+              };
             }
           }
         } catch (e) {}
 
         try {
-          const resp = await fetch("./mtproto.json?ts=" + Date.now());
-          if (resp.ok) {
-            const remote = await resp.json();
-            if (remote && Array.isArray(remote.proxies) && !localStorage.getItem(STORAGE_KEY)) {
-              state = {
-                proxies: remote.proxies || [],
-                screenshots: remote.screenshots || []
-              };
+          const localRaw = localStorage.getItem(STORAGE_KEY);
+          if (localRaw) {
+            const parsed = JSON.parse(localRaw);
+            if (parsed && Array.isArray(parsed.proxies) && parsed.proxies.length) {
+              state = parsed;
             }
           }
         } catch (e) {}
