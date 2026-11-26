@@ -12,7 +12,9 @@
     p { color: #cbd5e1; line-height: 1.5; font-size: 14px; margin: 6px 0 12px; }
     a.btn, button.btn { display: block; width: 100%; box-sizing: border-box; text-align: center; text-decoration: none; font-weight: 600; padding: 12px 16px; border-radius: 10px; margin-top: 10px; border: none; cursor: pointer; font-size: 14px; }
     .yaml { background: #0d9488; color: #fff; }
+    .txt2 { background: #16a34a; color: #fff; }
     .txt { background: #2563eb; color: #fff; }
+    .bs { background: #7c3aed; color: #fff; }
     .mtp { background: #0284c7; color: #fff; }
     .sec { background: #334155; color: #f8fafc; }
     .edit-btn { background: #334155; color: #f8fafc; border: 1px solid #475569; border-radius: 8px; padding: 6px 10px; cursor: pointer; font-size: 14px; }
@@ -34,10 +36,13 @@
   <div class="wrap">
     <div class="card">
       <h1>🚀 code VPN 3.0 — LinkStation</h1>
-      <p>❄️ С первым снегом! Выбирай нужный формат актуальной конфигурации (если задан параметр <code>?mode=yaml</code> или <code>?mode=txt</code>, переход произойдёт автоматически):</p>
-      <a class="btn yaml" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml">⚙️ Открыть Mihomo YAML (рекомендуется)</a>
-      <a class="btn txt" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt">📄 Открыть TXT-подписку (sub.txt)</a>
-      <div class="meta">Обновлено: 26.11.2026 17:36:40</div>
+      <p>❄️ Выбирай нужный формат актуальной конфигурации (<code>?mode=yaml</code>, <code>?mode=txt2</code>, <code>?mode=bs</code>, <code>?mode=txt</code>, <code>?mode=json</code>):</p>
+      <a class="btn yaml" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml">⚙️ Открыть Mihomo YAML (с режимом Каскад Beta)</a>
+      <a class="btn txt2" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub2.txt">⚡ Облегчённая TXT-подписка sub2.txt (Топ-100)</a>
+      <a class="btn bs" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub_bs.txt">🛡️ Только обход БС (sub_bs.txt)</a>
+      <a class="btn txt" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt">📄 Полная TXT-подписка (sub.txt)</a>
+      <a class="btn sec" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/config.json">🧩 JSON-конфиг с правилами (config.json)</a>
+      <div class="meta">Обновлено: 26.11.2026 18:01:45</div>
     </div>
 
     <div class="card" id="mtproto-card">
@@ -64,15 +69,29 @@
 
   <script>
     (function() {
-      const TXT_URL = "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt";
-      const YAML_URL = "https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml";
+      const URLS = {
+        txt: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt",
+        txt2: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub2.txt",
+        bs: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub_bs.txt",
+        yaml: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml",
+        json: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/config.json"
+      };
       const params = new URLSearchParams(window.location.search);
       const mode = (params.get("mode") || params.get("target") || "").toLowerCase();
       if (mode === "yaml" || mode === "mihomo") {
-        window.location.replace(YAML_URL);
+        window.location.replace(URLS.yaml);
+        return;
+      } else if (mode === "txt2" || mode === "lite") {
+        window.location.replace(URLS.txt2);
+        return;
+      } else if (mode === "bs") {
+        window.location.replace(URLS.bs);
         return;
       } else if (mode === "txt" || mode === "sub") {
-        window.location.replace(TXT_URL);
+        window.location.replace(URLS.txt);
+        return;
+      } else if (mode === "json") {
+        window.location.replace(URLS.json);
         return;
       }
 
