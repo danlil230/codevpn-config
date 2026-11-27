@@ -1,0 +1,24 @@
+# ROAD DANIA — НЕ ЗАХОДИТЬ (СТРОКИ МАРШРУТИЗАЦИИ ДЛЯ TXT-ПОДПИСОК)
+# Обновлено: 27.11.2026 20:02:27
+DIRECT,IP-CIDR,10.0.0.0/8,no-resolve
+DIRECT,IP-CIDR,172.16.0.0/12,no-resolve
+DIRECT,IP-CIDR,192.168.0.0/16,no-resolve
+DIRECT,IP-CIDR,127.0.0.0/8,no-resolve
+DIRECT,DOMAIN-SUFFIX,ru
+DIRECT,DOMAIN-SUFFIX,su
+DIRECT,DOMAIN-SUFFIX,xn--p1ai
+DIRECT,DOMAIN-SUFFIX,yandex.ru
+DIRECT,DOMAIN-SUFFIX,vk.com
+DIRECT,DOMAIN-SUFFIX,gosuslugi.ru
+DIRECT,DOMAIN-SUFFIX,sberbank.ru
+DIRECT,DOMAIN-SUFFIX,tbank.ru
+REJECT,DOMAIN-KEYWORD,adservice
+REJECT,DOMAIN-KEYWORD,pagead
+REJECT,DOMAIN-SUFFIX,doubleclick.net
+PROXY,DOMAIN-SUFFIX,youtube.com
+PROXY,DOMAIN-SUFFIX,googlevideo.com
+PROXY,DOMAIN-SUFFIX,ytimg.com
+PROXY,DOMAIN-SUFFIX,gemini.google.com
+PROXY,DOMAIN-SUFFIX,generativelanguage.googleapis.com
+PROXY,DOMAIN-SUFFIX,ai.google.dev
+PROXY,FINAL
