@@ -3,18 +3,18 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>code VPN 3.0 — Админка, LinkStation &amp; MTProto Proxy</title>
+  <title>🎅 Santa VPN 2.0 ❄️ — Новогодняя LinkStation &amp; MTProto Proxy</title>
   <style>
     body { font-family: system-ui, -apple-system, sans-serif; background: radial-gradient(circle at top, #1e1b4b 0%, #0f172a 55%, #020617 100%); color: #f8fafc; display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; padding: 20px; }
     .wrap { max-width: 640px; width: 100%; display: flex; flex-direction: column; gap: 16px; }
     .card { background: rgba(30, 41, 59, 0.92); border-radius: 18px; padding: 24px; box-shadow: 0 14px 34px rgba(0,0,0,.45); border: 1px solid #475569; }
-    .admin-card { background: linear-gradient(135deg, rgba(88, 28, 135, 0.45), rgba(15, 118, 110, 0.35), rgba(30, 41, 59, 0.95)); border: 1px solid #a855f7; }
+    .admin-card { background: linear-gradient(135deg, rgba(185, 28, 28, 0.35), rgba(15, 118, 110, 0.35), rgba(30, 41, 59, 0.95)); border: 1px solid #f43f5e; }
     h1, h2 { margin: 0 0 8px; font-size: 20px; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
-    .badge { font-size: 11px; background: linear-gradient(90deg, #ec4899, #8b5cf6, #06b6d4); color: #fff; padding: 4px 10px; border-radius: 999px; font-weight: 700; letter-spacing: .3px; }
+    .badge { font-size: 11px; background: linear-gradient(90deg, #ef4444, #f59e0b, #10b981); color: #fff; padding: 4px 10px; border-radius: 999px; font-weight: 700; letter-spacing: .3px; }
     p { color: #cbd5e1; line-height: 1.5; font-size: 14px; margin: 6px 0 12px; }
     a.btn, button.btn { display: block; width: 100%; box-sizing: border-box; text-align: center; text-decoration: none; font-weight: 600; padding: 12px 16px; border-radius: 11px; margin-top: 10px; border: none; cursor: pointer; font-size: 14px; transition: transform .12s ease, filter .15s ease; }
     a.btn:hover, button.btn:hover { filter: brightness(1.08); transform: translateY(-1px); }
-    .admin-main { background: linear-gradient(90deg, #f59e0b, #ec4899, #8b5cf6); color: #fff; font-size: 15px; }
+    .admin-main { background: linear-gradient(90deg, #ef4444, #f59e0b, #10b981); color: #fff; font-size: 15px; }
     .yaml { background: #0d9488; color: #fff; }
     .txt2 { background: #16a34a; color: #fff; }
     .txt { background: #2563eb; color: #fff; }
@@ -40,24 +40,24 @@
   <div class="wrap">
     <div class="card admin-card">
       <h2>
-        <span>🎛 Админка — Пункт #1: Настрой конфигурации</span>
-        <span class="badge">TURBO DIG</span>
+        <span>🎄 Новогодняя Админка — Пункт #1</span>
+        <span class="badge">v2.0 NEW YEAR</span>
       </h2>
       <p>Нажми <b>«Пришли сайту конфигурации»</b> — сайт со всей дури начнёт копать свежие конфиги и отправит сигнал в Termux (порт <code>:8765</code>)!</p>
-      <button class="btn admin-main" id="send-cfg-btn">⛏️ Пришли сайту конфигурации</button>
-      <div class="dig-log" id="dig-box">Ожидание нажатия: копатель готов рвать конфиги...</div>
+      <button class="btn admin-main" id="send-cfg-btn">🎅 Пришли сайту конфигурации</button>
+      <div class="dig-log" id="dig-box">❄️ Ожидание нажатия: новогодний копатель готов рвать конфиги...</div>
     </div>
 
     <div class="card">
-      <h1>🚀 code VPN 3.0 — LinkStation</h1>
-      <p>❄️ <b>Автовыбор (все конфиги)</b> · <b>Режим БС</b> · <b>Каскад</b> · маршрутизация TXT в <code>road_dania</code>:</p>
+      <h1>🎅 Santa VPN 2.0 ❄️ — LinkStation</h1>
+      <p>🎄 С наступающим Новым годом! В TXT-подписках теперь чистые названия со снежинками (<code>🇩🇪 ❄️ Германия</code>), а в Mihomo — полная телеметрия и IP:</p>
       <a class="btn yaml" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml">⚙️ Открыть Mihomo YAML (Автовыбор + Режим БС + Каскад)</a>
       <a class="btn txt2" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub2.txt">⚡ Облегчённая TXT-подписка sub2.txt (Топ-100)</a>
       <a class="btn bs" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub_bs.txt">🛡️ Только обход БС (sub_bs.txt)</a>
       <a class="btn txt" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt">📄 Полная TXT-подписка (sub.txt)</a>
-      <a class="btn sec" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.txt">🛣️ Маршрутизация TXT (road_dania / не заходить)</a>
+      <a class="btn sec" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.json">🛣️ JSON маршрутизации TXT (road_dania)</a>
       <a class="btn sec" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/config.json">🧩 JSON-конфиг с правилами (config.json)</a>
-      <div class="meta">Обновлено: 27.11.2026 20:02:27 · Трафик разделён: личный (:9090) отдельно от GitHub.</div>
+      <div class="meta">Обновлено: 27.11.2026 20:24:08 · Версия: v2.0-NewYear-105Countries</div>
     </div>
 
     <div class="card" id="mtproto-card">
@@ -90,7 +90,7 @@
         bs: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub_bs.txt",
         yaml: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml",
         json: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/config.json",
-        road: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.txt"
+        road: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.json"
       };
       const BRIDGE_PORT = 8765;
       const params = new URLSearchParams(window.location.search);
@@ -117,8 +117,8 @@
 
       const digBox = document.getElementById("dig-box");
       document.getElementById("send-cfg-btn").onclick = async () => {
-        const frames = ["⛏️", "💥", "⚡", "🌀"];
-        digBox.textContent = "⛏️ Сайт со всей дури начинает копать конфигурации...";
+        const frames = ["🎅", "❄️", "🎄", "⚡"];
+        digBox.textContent = "🎅 Сайт со всей дури начинает копать новогодние конфигурации...";
         let step = 0;
         const timer = setInterval(() => {
           step++;
@@ -135,7 +135,7 @@
             body: JSON.stringify({action: "push_configs_to_site", ts: Date.now()})
           });
           if (r.ok) {
-            bridgeMsg = "✅ Termux словил запрос и запустил спиннер!";
+            bridgeMsg = "✅ Termux словил запрос и запустил новогодний спиннер!";
           }
         } catch (e) {
           bridgeMsg = "ℹ️ Локальный мост недоступен по сети (нормально для HTTPS GitHub Pages)";
@@ -144,7 +144,7 @@
         setTimeout(() => {
           clearInterval(timer);
           digBox.textContent = `✅ Конфигурации раскопаны и подтянуты!\n${bridgeMsg}`;
-        }, 1400);
+        }, 1200);
       };
 
       const STORAGE_KEY = "codevpn_mtproto_v1";
