@@ -1,0 +1,60 @@
+{
+  "profile": "road_dania_do_not_enter",
+  "brand": "🎅 Santa VPN 2.0 ❄️",
+  "version": "v2.0-NewYear-105Countries",
+  "updated_at": "27.11.2026 20:24:08",
+  "default_outbound": "PROXY",
+  "rules": [
+    {
+      "outbound": "DIRECT",
+      "type": "ip_cidr",
+      "values": [
+        "10.0.0.0/8",
+        "172.16.0.0/12",
+        "192.168.0.0/16",
+        "127.0.0.0/8"
+      ]
+    },
+    {
+      "outbound": "DIRECT",
+      "type": "domain_suffix",
+      "values": [
+        "ru",
+        "su",
+        "xn--p1ai",
+        "yandex.ru",
+        "vk.com",
+        "gosuslugi.ru",
+        "sberbank.ru",
+        "tbank.ru"
+      ]
+    },
+    {
+      "outbound": "REJECT",
+      "type": "domain_keyword",
+      "values": [
+        "adservice",
+        "pagead"
+      ]
+    },
+    {
+      "outbound": "REJECT",
+      "type": "domain_suffix",
+      "values": [
+        "doubleclick.net"
+      ]
+    },
+    {
+      "outbound": "PROXY",
+      "type": "domain_suffix",
+      "values": [
+        "youtube.com",
+        "googlevideo.com",
+        "ytimg.com",
+        "gemini.google.com",
+        "generativelanguage.googleapis.com",
+        "ai.google.dev"
+      ]
+    }
+  ]
+}
