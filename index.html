@@ -3,265 +3,132 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>🎅 Santa VPN 2.3 ❄️ — Новогодняя LinkStation &amp; MTProto Proxy</title>
+  <title>🎅 Santa VPN 3.2 🎄🎁 — Новогодние общественные ссылки</title>
   <style>
-    body { font-family: system-ui, -apple-system, sans-serif; background: radial-gradient(circle at top, #1e1b4b 0%, #0f172a 55%, #020617 100%); color: #f8fafc; display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; padding: 20px; }
-    .wrap { max-width: 640px; width: 100%; display: flex; flex-direction: column; gap: 16px; }
-    .card { background: rgba(30, 41, 59, 0.92); border-radius: 18px; padding: 24px; box-shadow: 0 14px 34px rgba(0,0,0,.45); border: 1px solid #475569; }
-    .admin-card { background: linear-gradient(135deg, rgba(185, 28, 28, 0.35), rgba(15, 118, 110, 0.35), rgba(30, 41, 59, 0.95)); border: 1px solid #f43f5e; }
-    h1, h2 { margin: 0 0 8px; font-size: 20px; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
-    .badge { font-size: 11px; background: linear-gradient(90deg, #ef4444, #f59e0b, #10b981); color: #fff; padding: 4px 10px; border-radius: 999px; font-weight: 700; letter-spacing: .3px; }
-    p { color: #cbd5e1; line-height: 1.5; font-size: 14px; margin: 6px 0 12px; }
-    a.btn, button.btn { display: block; width: 100%; box-sizing: border-box; text-align: center; text-decoration: none; font-weight: 600; padding: 12px 16px; border-radius: 11px; margin-top: 10px; border: none; cursor: pointer; font-size: 14px; transition: transform .12s ease, filter .15s ease; }
-    a.btn:hover, button.btn:hover { filter: brightness(1.08); transform: translateY(-1px); }
-    .admin-main { background: linear-gradient(90deg, #ef4444, #f59e0b, #10b981); color: #fff; font-size: 15px; }
-    .yaml { background: #0d9488; color: #fff; }
-    .txt2 { background: #16a34a; color: #fff; }
-    .txt { background: #2563eb; color: #fff; }
-    .bs { background: #7c3aed; color: #fff; }
-    .mtp { background: #0284c7; color: #fff; }
-    .sec { background: #334155; color: #f8fafc; }
-    .edit-btn { background: #334155; color: #f8fafc; border: 1px solid #475569; border-radius: 8px; padding: 6px 10px; cursor: pointer; font-size: 14px; }
-    .dig-log { margin-top: 12px; background: #090d16; border: 1px solid #38bdf8; border-radius: 12px; padding: 12px; font-family: monospace; font-size: 12px; color: #7dd3fc; min-height: 54px; white-space: pre-line; }
-    .meta { margin-top: 14px; font-size: 12px; color: #94a3b8; }
-    .proxy-item { background: #0f172a; border: 1px solid #334155; border-radius: 10px; padding: 12px; margin-top: 10px; }
-    .proxy-title { font-weight: 600; font-size: 14px; margin-bottom: 6px; color: #e2e8f0; }
-    .proxy-link { font-family: monospace; font-size: 12px; color: #38bdf8; word-break: break-all; display: block; margin-bottom: 8px; }
-    .shots { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; margin-top: 12px; }
-    .shots img { width: 100%; border-radius: 10px; border: 1px solid #475569; object-fit: cover; cursor: pointer; }
-    .editor { display: none; margin-top: 14px; padding-top: 14px; border-top: 1px dashed #475569; }
-    .editor.open { display: block; }
-    textarea { width: 100%; box-sizing: border-box; min-height: 110px; background: #0f172a; color: #f8fafc; border: 1px solid #475569; border-radius: 10px; padding: 10px; font-family: monospace; font-size: 12px; }
-    input[type="file"] { margin-top: 8px; color: #cbd5e1; font-size: 13px; }
-    .hint { font-size: 12px; color: #94a3b8; margin-top: 6px; line-height: 1.45; }
+    * { box-sizing: border-box; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      /* Тканевая поверхность в цвет шубы и шапки Деда Мороза */
+      background-color: #6b0f1a;
+      background-image:
+        repeating-linear-gradient(45deg, rgba(255,255,255,0.03) 0px, rgba(255,255,255,0.03) 2px, transparent 2px, transparent 6px),
+        repeating-linear-gradient(-45deg, rgba(0,0,0,0.14) 0px, rgba(0,0,0,0.14) 2px, transparent 2px, transparent 6px),
+        radial-gradient(circle at top, #b91c1c 0%, #7f1d1d 55%, #450a0a 100%);
+      color: #fffaf0;
+      min-height: 100vh;
+      margin: 0;
+      padding: 24px 16px 60px;
+    }
+    .wrap {
+      max-width: 600px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .hero {
+      background: rgba(69, 10, 10, 0.78);
+      border: 2px dashed rgba(255, 250, 240, 0.45);
+      border-radius: 22px;
+      padding: 22px;
+      text-align: center;
+      box-shadow: 0 12px 30px rgba(0,0,0,.4);
+    }
+    h1 { margin: 0 0 8px; font-size: 22px; }
+    p { margin: 0; color: #fde68a; font-size: 14px; line-height: 1.5; }
+    .link-card {
+      background: rgba(52, 8, 8, 0.84);
+      border: 1px solid rgba(254, 243, 199, 0.28);
+      border-radius: 18px;
+      padding: 16px 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.08);
+    }
+    .link-title { font-weight: 700; font-size: 15px; color: #fffaf0; }
+    .link-url {
+      font-family: monospace;
+      font-size: 12px;
+      color: #fde68a;
+      background: rgba(24, 4, 4, 0.75);
+      padding: 8px 10px;
+      border-radius: 10px;
+      word-break: break-all;
+    }
+    .row-btns { display: flex; gap: 10px; }
+    button.copy-btn, a.open-btn {
+      flex: 1;
+      text-align: center;
+      text-decoration: none;
+      border: none;
+      border-radius: 11px;
+      padding: 10px 12px;
+      font-weight: 700;
+      font-size: 13px;
+      cursor: pointer;
+    }
+    button.copy-btn { background: #15803d; color: #fff; }
+    button.copy-btn.copied { background: #0284c7; }
+    a.open-btn { background: #991b1b; color: #fffaf0; border: 1px solid rgba(255,255,255,0.2); }
+    .meta { text-align: center; font-size: 12px; color: #fef3c7; opacity: 0.9; margin-top: 6px; }
   </style>
 </head>
 <body>
   <div class="wrap">
-    <div class="card admin-card">
-      <h2>
-        <span>🎄 Новогодняя Админка — Пункт #1</span>
-        <span class="badge">v2.3 BUILT-IN AUTO</span>
-      </h2>
-      <p>Автовыбор встроен прямо в подписку с шифрованием REALITY/TLS. Нажми <b>«Пришли сайту конфигурации»</b>, чтобы отправить сигнал в Termux (порт <code>:8765</code>).</p>
-      <button class="btn admin-main" id="send-cfg-btn">🎅 Пришли сайту конфигурации</button>
-      <div class="dig-log" id="dig-box">❄️ Ожидание нажатия: новогодний копатель готов рвать конфиги...</div>
+    <div class="hero">
+      <h1>🎅 🎅 Santa VPN 3.2 🎄🎁 ❄️🎁</h1>
+      <p>🎄 Хо-хо, Новый год уже скоро примчит! ✨ Нажми «Скопировать» на нужной общественной ссылке — всё сразу скопируется в буфер! 🔔☃️</p>
     </div>
 
-    <div class="card">
-      <h1>🎅 Santa VPN 2.3 ❄️ — LinkStation</h1>
-      <p>🎄 С наступающим Новым годом! В TXT-подписках чистые названия со снежинками (<code>🇩🇪 ❄️ Германия</code>), а в Mihomo — полные метки и шифрование:</p>
-      <a class="btn yaml" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml">⚙️ Открыть Mihomo YAML (Автовыбор + Режим БС + Каскад)</a>
-      <a class="btn txt2" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub2.txt">⚡ Облегчённая TXT-подписка sub2.txt (Топ-100)</a>
-      <a class="btn bs" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub_bs.txt">🛡️ Только обход БС (sub_bs.txt)</a>
-      <a class="btn txt" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt">📄 Полная TXT-подписка (sub.txt)</a>
-      <a class="btn sec" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.json">🛣️ JSON маршрутизации TXT (road_dania)</a>
-      <a class="btn sec" href="https://raw.githubusercontent.com/danlil230/codevpn-config/main/config.json">🧩 JSON-конфиг с правилами (config.json)</a>
-      <div class="meta">Обновлено: 28.11.2026 17:21:11 · Версия: v2.3-NewYear-105Countries</div>
-    </div>
-
-    <div class="card" id="mtproto-card">
-      <h2>
-        <span>✈️ MTProto Proxy (подарок от Деда Мороза 🎅)</span>
-        <button class="edit-btn" id="toggle-edit" title="Редактировать MTProto Proxy и скриншоты">✏️ Редактировать</button>
-      </h2>
-      <p>Рабочие MTProto-прокси для мгновенного входа в Telegram без лишних настроек — жми на кнопку, и Telegram сам предложит подключиться.</p>
-      <div id="proxy-list"></div>
-      <div class="shots" id="shots-gallery"></div>
-
-      <div class="editor" id="editor-box">
-        <div class="hint">Вставь рабочие ссылки MTProto Proxy (по одной на строку, форматы <code>tg://proxy?...</code> или <code>https://t.me/proxy?...</code>):</div>
-        <textarea id="proxy-input" placeholder="https://t.me/proxy?server=...&amp;port=443&amp;secret=..."></textarea>
-        <div class="hint" style="margin-top:10px;">Прикрепи скриншоты (сохраняются в браузере или в <code>mtproto.json</code>):</div>
-        <input type="file" id="shot-input" accept="image/*" multiple>
-        <button class="btn mtp" id="save-local">💾 Сохранить в браузере</button>
-        <button class="btn sec" id="copy-json">📋 Скопировать JSON для файла mtproto.json в GitHub</button>
-        <button class="btn sec" id="clear-shots">🗑 Очистить скриншоты</button>
-        <div class="hint">💡 Также можно просто кинуть ссылки <code>tg://proxy?...</code> прямо нашему Telegram-боту — он сам обновит <code>mtproto.json</code> на GitHub!</div>
-      </div>
-    </div>
+    <div id="links-container"></div>
+    <div class="meta">❄️ 🔔 Обновлено: 28.11.2026 20:27:43 · Подписка действует 1 день · Аренда и продление — в нашем боте! 🎁🎄</div>
   </div>
 
   <script>
-    (function() {
-      const URLS = {
-        txt: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt",
-        txt2: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub2.txt",
-        bs: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub_bs.txt",
-        yaml: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml",
-        json: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/config.json",
-        road: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.json"
-      };
-      const BRIDGE_PORT = 8765;
-      const params = new URLSearchParams(window.location.search);
-      const mode = (params.get("mode") || params.get("target") || "").toLowerCase();
-      if (mode === "yaml" || mode === "mihomo") {
-        window.location.replace(URLS.yaml);
-        return;
-      } else if (mode === "txt2" || mode === "lite") {
-        window.location.replace(URLS.txt2);
-        return;
-      } else if (mode === "bs") {
-        window.location.replace(URLS.bs);
-        return;
-      } else if (mode === "txt" || mode === "sub") {
-        window.location.replace(URLS.txt);
-        return;
-      } else if (mode === "json") {
-        window.location.replace(URLS.json);
-        return;
-      } else if (mode === "road") {
-        window.location.replace(URLS.road);
-        return;
-      }
+    const ITEMS = [
+      { title: "🎅⚙️ Mihomo YAML (Автовыбор + БС + Каскад) ✨", url: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml" },
+      { title: "🎄⚡ Облегчённая подписка sub2.txt (Топ-100) ❄️", url: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub2.txt" },
+      { title: "🎁📄 Полная TXT-подписка (sub.txt) 🔔", url: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt" },
+      { title: "🛡️☃️ Только обход БС (sub_bs.txt) ❄️", url: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub_bs.txt" },
+      { title: "👨‍👩‍👧‍👦🎄 Семейная подписка (family_mihomo.yaml) 🎁", url: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/relatives/family_mihomo.yaml" },
+      { title: "🛣️✨ Маршрутизация (road_do_not_enter.json) 🔔", url: "https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.json" }
+    ];
 
-      const digBox = document.getElementById("dig-box");
-      document.getElementById("send-cfg-btn").onclick = async () => {
-        const frames = ["🎅", "❄️", "🎄", "⚡"];
-        digBox.textContent = "🎅 Сайт со всей дури начинает копать новогодние конфигурации...";
-        let step = 0;
-        const timer = setInterval(() => {
-          step++;
-          digBox.textContent = `${frames[step % frames.length]} Копаю слои конфигов... проход #${step} (YAML + sub2.txt + road_dania)`;
-        }, 220);
-
-        const targetHost = window.location.hostname || "127.0.0.1";
-        const bridgeUrl = `http://${targetHost}:${BRIDGE_PORT}/unpack`;
-        let bridgeMsg = "Сигнал отправлен в Termux (если мост открыт в сети)";
+    const box = document.getElementById("links-container");
+    ITEMS.forEach((it) => {
+      const card = document.createElement("div");
+      card.className = "link-card";
+      card.innerHTML = `
+        <div class="link-title">${it.title}</div>
+        <div class="link-url">${it.url}</div>
+        <div class="row-btns">
+          <button class="copy-btn">📋 Скопировать 🎁</button>
+          <a class="open-btn" href="${it.url}" target="_blank" rel="noopener">🔗 Открыть 🎄</a>
+        </div>
+      `;
+      const btn = card.querySelector(".copy-btn");
+      btn.onclick = async () => {
         try {
-          const r = await fetch(bridgeUrl, {
-            method: "POST",
-            headers: {"Content-Type": "application/json"},
-            body: JSON.stringify({action: "push_configs_to_site", ts: Date.now()})
-          });
-          if (r.ok) {
-            bridgeMsg = "✅ Termux словил запрос и запустил новогодний спиннер!";
-          }
+          await navigator.clipboard.writeText(it.url);
         } catch (e) {
-          bridgeMsg = "ℹ️ Локальный мост недоступен по сети (нормально для HTTPS GitHub Pages)";
+          const ta = document.createElement("textarea");
+          ta.value = it.url;
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand("copy");
+          document.body.removeChild(ta);
         }
-
+        const oldTxt = btn.textContent;
+        btn.textContent = "✅ Скопировано! 🎅";
+        btn.classList.add("copied");
         setTimeout(() => {
-          clearInterval(timer);
-          digBox.textContent = `✅ Конфигурации раскопаны и подтянуты!\n${bridgeMsg}`;
-        }, 1200);
+          btn.textContent = oldTxt;
+          btn.classList.remove("copied");
+        }, 1500);
       };
-
-      const STORAGE_KEY = "codevpn_mtproto_v1";
-      let state = { proxies: [], screenshots: [] };
-
-      const listEl = document.getElementById("proxy-list");
-      const galleryEl = document.getElementById("shots-gallery");
-      const editorEl = document.getElementById("editor-box");
-      const inputEl = document.getElementById("proxy-input");
-
-      function render() {
-        listEl.innerHTML = "";
-        if (!state.proxies.length) {
-          listEl.innerHTML = '<div class="hint">Пока список пуст — нажми <b>✏️ Редактировать</b> справа сверху или отправь ссылки <code>tg://proxy</code> боту!</div>';
-        } else {
-          state.proxies.forEach((link, idx) => {
-            const box = document.createElement("div");
-            box.className = "proxy-item";
-            const tgHref = link.startsWith("https://t.me/proxy") ? link.replace("https://t.me/proxy", "tg://proxy") : link;
-            box.innerHTML = `
-              <div class="proxy-title">🎅 MTProto Сервер #${idx + 1}</div>
-              <span class="proxy-link">${link}</span>
-              <a class="btn mtp" href="${tgHref}">✈️ Подключить в Telegram</a>
-            `;
-            listEl.appendChild(box);
-          });
-        }
-
-        galleryEl.innerHTML = "";
-        state.screenshots.forEach((src) => {
-          const img = document.createElement("img");
-          img.src = src;
-          img.alt = "Скриншот MTProto Proxy";
-          img.onclick = () => window.open(src, "_blank");
-          galleryEl.appendChild(img);
-        });
-
-        inputEl.value = state.proxies.join("\n");
-      }
-
-      async function initData() {
-        try {
-          const resp = await fetch("./mtproto.json?ts=" + Date.now());
-          if (resp.ok) {
-            const remote = await resp.json();
-            if (remote && Array.isArray(remote.proxies)) {
-              state = {
-                proxies: remote.proxies || [],
-                screenshots: remote.screenshots || []
-              };
-            }
-          }
-        } catch (e) {}
-
-        try {
-          const localRaw = localStorage.getItem(STORAGE_KEY);
-          if (localRaw) {
-            const parsed = JSON.parse(localRaw);
-            if (parsed && Array.isArray(parsed.proxies) && parsed.proxies.length) {
-              state = parsed;
-            }
-          }
-        } catch (e) {}
-        render();
-      }
-
-      document.getElementById("toggle-edit").onclick = () => {
-        editorEl.classList.toggle("open");
-      };
-
-      document.getElementById("shot-input").onchange = (ev) => {
-        const files = Array.from(ev.target.files || []);
-        files.forEach((file) => {
-          const reader = new FileReader();
-          reader.onload = (e) => {
-            if (e.target && typeof e.target.result === "string") {
-              state.screenshots.push(e.target.result);
-              localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
-              render();
-            }
-          };
-          reader.readAsDataURL(file);
-        });
-      };
-
-      document.getElementById("save-local").onclick = () => {
-        state.proxies = inputEl.value
-          .split(/\r?\n/)
-          .map((s) => s.trim())
-          .filter((s) => s.startsWith("tg://") || s.startsWith("https://t.me/") || s.startsWith("http://"));
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
-        render();
-        alert("Сохранено! Прокси и скриншоты обновлены.");
-      };
-
-      document.getElementById("copy-json").onclick = async () => {
-        state.proxies = inputEl.value
-          .split(/\r?\n/)
-          .map((s) => s.trim())
-          .filter(Boolean);
-        const payload = JSON.stringify(state, null, 2);
-        try {
-          await navigator.clipboard.writeText(payload);
-          alert("JSON скопирован! Вставь его в файл mtproto.json в репозитории GitHub.");
-        } catch (e) {
-          prompt("Скопируй JSON вручную для mtproto.json:", payload);
-        }
-      };
-
-      document.getElementById("clear-shots").onclick = () => {
-        state.screenshots = [];
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
-        render();
-      };
-
-      initData();
-    })();
+      box.appendChild(card);
+    });
   </script>
 </body>
 </html>
