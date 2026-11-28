@@ -1,11 +1,11 @@
 {
   "profile": "🎅 Santa VPN 2.0 ❄️ JSON Auto-Config",
   "version": "v2.0-NewYear-105Countries",
-  "updated_at": "28.11.2026 06:45:20",
+  "updated_at": "28.11.2026 07:34:03",
   "stats": {
-    "total_alive": 1738,
-    "main": 1609,
-    "whitelist_bypass": 93,
+    "total_alive": 1733,
+    "main": 1610,
+    "whitelist_bypass": 92,
     "cascade": 129,
     "included_in_json": 100
   },
@@ -15,106 +15,106 @@
     "interval_sec": 300,
     "tolerance_ms": 120,
     "candidates": [
-      "🇪🇪 Эстония — обход БС #13",
-      "🇧🇷 ❄️ Бразилия",
+      "🇹🇷 ❄️ Турция",
       "🇺🇸 ❄️ США",
-      "🇳🇱 ❄️ Нидерланды",
-      "🇩🇪 ❄️ Германия",
+      "🇺🇸 ❄️ США",
+      "🇺🇸 ❄️ США",
+      "🇷🇺 ❄️ Россия",
+      "🇨🇦 ❄️ Канада",
+      "🇸🇪 ❄️ Швеция",
+      "🇰🇷 ❄️ Южная Корея",
+      "🇨🇭 ❄️ Швейцария",
       "🇵🇱 ❄️ Польша",
-      "🇨🇱 ❄️ Чили",
-      "🇩🇪 ❄️ Германия",
-      "🇺🇸 ❄️ США",
-      "🇩🇪 ❄️ Германия",
-      "🇫🇮 ❄️ Финляндия",
-      "🇺🇸 ❄️ США",
-      "🇺🇸 ❄️ США",
-      "🇳🇱 ❄️ Нидерланды",
+      "🇬🇧 ❄️ Великобритания",
+      "🇮🇪 ❄️ Ирландия",
       "🇷🇺 ❄️ Россия",
       "🇺🇸 ❄️ США",
-      "🇳🇱 ❄️ Нидерланды",
-      "🇫🇮 ❄️ Финляндия",
       "🇨🇦 ❄️ Канада",
-      "🇳🇱 ❄️ Нидерланды",
-      "🇫🇮 ❄️ Финляндия",
+      "🇸🇬 ❄️ Сингапур",
+      "🇩🇪 ❄️ Германия",
+      "🇬🇧 ❄️ Великобритания",
+      "🇯🇵 ❄️ Япония",
+      "🇪🇸 ❄️ Испания",
+      "🇫🇷 ❄️ Франция",
+      "🇷🇺 ❄️ Россия",
       "🇺🇸 ❄️ США",
-      "🇨🇭 ❄️ Швейцария",
-      "🇳🇱 ❄️ Нидерланды",
+      "🇩🇪 ❄️ Германия",
+      "🇪🇪 Эстония — обход БС #13",
+      "🇷🇺 ❄️ Россия",
+      "🇱🇻 ❄️ Латвия",
+      "🇬🇧 ❄️ Великобритания",
       "🇺🇸 ❄️ США",
-      "🇺🇦 ❄️ Украина",
-      "🇺🇸 ❄️ США",
-      "🇸🇪 ❄️ Швеция",
+      "🇩🇪 ❄️ Германия",
+      "🇩🇪 ❄️ Германия",
       "🇳🇱 ❄️ Нидерланды",
-      "🇮🇪 ❄️ Ирландия",
+      "🇩🇪 ❄️ Германия",
+      "🇨🇿 ❄️ Чехия",
+      "🇩🇪 ❄️ Германия",
+      "🇺🇸 ❄️ США",
+      "🇺🇸 ❄️ США",
       "🇬🇬 ❄️ GG",
       "🇺🇸 ❄️ США",
+      "🇫🇷 ❄️ Франция",
+      "🇺🇸 ❄️ США",
       "🇩🇪 ❄️ Германия",
+      "🇫🇮 ❄️ Финляндия",
+      "🇺🇸 ❄️ США",
       "🇳🇱 ❄️ Нидерланды",
-      "🇸🇬 ❄️ Сингапур",
-      "🎅 ❄️ Новогодний сервер",
+      "🇺🇸 ❄️ США",
+      "🇷🇺 ❄️ Россия",
+      "🇺🇸 ❄️ США",
+      "🇺🇸 ❄️ США",
+      "🇨🇦 ❄️ Канада",
+      "🇬🇧 ❄️ Великобритания",
+      "🇺🇸 ❄️ США",
+      "🇺🇸 ❄️ США",
+      "🇮🇹 ❄️ Италия",
       "🇩🇪 ❄️ Германия",
+      "🇺🇸 ❄️ США",
+      "🇮🇪 ❄️ Ирландия",
+      "🇷🇺 ❄️ Россия",
       "🇯🇵 ❄️ Япония",
       "🇺🇸 ❄️ США",
+      "🇺🇸 ❄️ США",
+      "🇳🇱 ❄️ Нидерланды",
+      "🇩🇪 ❄️ Германия",
+      "🇳🇱 ❄️ Нидерланды",
+      "🇨🇭 ❄️ Швейцария",
+      "🇫🇮 ❄️ Финляндия",
+      "🇩🇪 ❄️ Германия",
+      "🇫🇷 ❄️ Франция",
+      "🇹🇼 ❄️ Тайвань",
+      "🇹🇼 ❄️ Тайвань",
+      "🇰🇷 ❄️ Южная Корея",
+      "🇩🇪 ❄️ Германия",
+      "🇷🇺 ❄️ Россия",
+      "🇺🇸 ❄️ США",
+      "🇳🇱 ❄️ Нидерланды",
+      "🇯🇵 ❄️ Япония",
+      "🇩🇪 ❄️ Германия",
+      "🇷🇺 ❄️ Россия",
+      "🇩🇪 ❄️ Германия",
+      "🇸🇬 ❄️ Сингапур",
+      "🇺🇸 ❄️ США",
       "🇫🇮 ❄️ Финляндия",
       "🇺🇸 ❄️ США",
-      "🇨🇦 ❄️ Канада",
-      "🇩🇪 ❄️ Германия",
-      "🇬🇬 ❄️ GG",
-      "🇮🇷 ❄️ Иран",
-      "🇨🇦 ❄️ Канада",
+      "🇷🇺 ❄️ Россия",
       "🇺🇸 ❄️ США",
       "🇺🇸 ❄️ США",
-      "🇷🇺 ❄️ Россия",
-      "🇳🇱 ❄️ Нидерланды",
-      "🇷🇺 ❄️ Россия",
+      "🇦🇪 ❄️ ОАЭ",
+      "🇹🇷 ❄️ Турция",
+      "🇺🇸 ❄️ США",
+      "🇺🇸 ❄️ США",
       "🇩🇪 ❄️ Германия",
       "🇮🇪 ❄️ Ирландия",
-      "🇪🇸 ❄️ Испания",
-      "🇬🇬 ❄️ GG",
+      "🇱🇹 ❄️ Литва",
+      "🇯🇵 ❄️ Япония",
       "🇺🇸 ❄️ США",
-      "🇷🇺 ❄️ Россия",
-      "🇷🇺 ❄️ Россия",
-      "🇺🇸 ❄️ США",
-      "🇷🇺 ❄️ Россия",
-      "🇺🇸 ❄️ США",
-      "🇺🇸 ❄️ США",
-      "🇺🇸 ❄️ США",
-      "🇩🇪 ❄️ Германия",
-      "🇫🇮 ❄️ Финляндия",
-      "🇬🇧 ❄️ Великобритания",
-      "🇬🇬 ❄️ GG",
       "🇬🇬 ❄️ GG",
       "🇺🇸 ❄️ США",
       "🇺🇸 ❄️ США",
-      "🇳🇱 ❄️ Нидерланды",
-      "🇵🇱 ❄️ Польша",
-      "🇨🇦 ❄️ Канада",
       "🇷🇺 ❄️ Россия",
-      "🇳🇱 ❄️ Нидерланды",
-      "🇳🇱 ❄️ Нидерланды",
-      "🇺🇸 ❄️ США",
-      "🇩🇪 ❄️ Германия",
-      "🇺🇸 ❄️ США",
-      "🇺🇸 ❄️ США",
-      "🇺🇸 ❄️ США",
-      "🇫🇮 ❄️ Финляндия",
-      "🇺🇸 ❄️ США",
-      "🇺🇸 ❄️ США",
-      "🇷🇺 ❄️ Россия",
-      "🇨🇭 ❄️ Швейцария",
-      "🇺🇸 ❄️ США",
-      "🇪🇺 ❄️ EU",
-      "🇫🇮 ❄️ Финляндия",
-      "🇵🇱 ❄️ Польша",
-      "🇩🇪 ❄️ Германия",
-      "🇺🇸 ❄️ США",
-      "🇫🇮 ❄️ Финляндия",
-      "🇷🇺 ❄️ Россия",
-      "🇳🇱 ❄️ Нидерланды",
-      "🇷🇺 ❄️ Россия",
-      "🇬🇧 ❄️ Великобритания",
-      "🇫🇷 ❄️ Франция",
-      "🇳🇱 ❄️ Нидерланды",
-      "🇳🇴 ❄️ Норвегия"
+      "🇯🇵 ❄️ Япония"
     ]
   },
   "routing": {
@@ -147,6 +147,222 @@
   "servers": [
     {
       "rank": 1,
+      "name": "🇹🇷 ❄️ Турция",
+      "group": "MAIN",
+      "host": "185.39.204.63",
+      "port": 443,
+      "latency_ms": 1.8,
+      "uri": "vless://b1490307-d693-4392-8f32-a3f7cc139202@185.39.204.63:443?type=ws&security=tls&fp=firefox&sni=submitbeacon.nemoi-self.co.uk#%F0%9F%87%B9%F0%9F%87%B7%20%E2%9D%84%EF%B8%8F%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F"
+    },
+    {
+      "rank": 2,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "185.95.231.156",
+      "port": 443,
+      "latency_ms": 1.8,
+      "uri": "vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?flow=xtls-rprx-vision&fp=chrome&path=/&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&security=reality&sid=a3a578ab&sni=www.apple.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 3,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "66.163.122.7",
+      "port": 443,
+      "latency_ms": 1.8,
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&sni=www.searchnationwidecareerchangehelperandguidancetoday.com&fp=chrome&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 4,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "15.204.246.108",
+      "port": 8881,
+      "latency_ms": 1.9,
+      "uri": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 5,
+      "name": "🇷🇺 ❄️ Россия",
+      "group": "MAIN",
+      "host": "165.231.157.126",
+      "port": 8443,
+      "latency_ms": 1.9,
+      "uri": "vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?security=tls&encryption=none&insecure=0&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+    },
+    {
+      "rank": 6,
+      "name": "🇨🇦 ❄️ Канада",
+      "group": "MAIN",
+      "host": "184.107.106.78",
+      "port": 8388,
+      "latency_ms": 2.0,
+      "uri": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@184.107.106.78:8388#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9D%84%EF%B8%8F%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0"
+    },
+    {
+      "rank": 7,
+      "name": "🇸🇪 ❄️ Швеция",
+      "group": "MAIN",
+      "host": "147.45.73.182",
+      "port": 443,
+      "latency_ms": 2.1,
+      "uri": "vless://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=accountentry.comparecarprices.org&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F"
+    },
+    {
+      "rank": 8,
+      "name": "🇰🇷 ❄️ Южная Корея",
+      "group": "MAIN",
+      "host": "152.70.237.123",
+      "port": 2053,
+      "latency_ms": 2.1,
+      "uri": "hysteria2://maintell@152.70.237.123:2053?sni=152.70.237.123#%F0%9F%87%B0%F0%9F%87%B7%20%E2%9D%84%EF%B8%8F%20%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%9A%D0%BE%D1%80%D0%B5%D1%8F"
+    },
+    {
+      "rank": 9,
+      "name": "🇨🇭 ❄️ Швейцария",
+      "group": "MAIN",
+      "host": "140.238.213.114",
+      "port": 50160,
+      "latency_ms": 2.1,
+      "uri": "hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?sni=140.238.213.114#%F0%9F%87%A8%F0%9F%87%AD%20%E2%9D%84%EF%B8%8F%20%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F"
+    },
+    {
+      "rank": 10,
+      "name": "🇵🇱 ❄️ Польша",
+      "group": "MAIN",
+      "host": "188.225.79.44",
+      "port": 443,
+      "latency_ms": 2.1,
+      "uri": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@188.225.79.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=eh.vk.ru&type=raw#%F0%9F%87%B5%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0"
+    },
+    {
+      "rank": 11,
+      "name": "🇬🇧 ❄️ Великобритания",
+      "group": "MAIN",
+      "host": "128.254.186.57",
+      "port": 13337,
+      "latency_ms": 2.2,
+      "uri": "hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.57:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7%20%E2%9D%84%EF%B8%8F%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 12,
+      "name": "🇮🇪 ❄️ Ирландия",
+      "group": "MAIN",
+      "host": "20.234.98.208",
+      "port": 443,
+      "latency_ms": 2.2,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmdFR3E1YTN0SmlMcFVx@20.234.98.208:443#%F0%9F%87%AE%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F"
+    },
+    {
+      "rank": 13,
+      "name": "🇷🇺 ❄️ Россия",
+      "group": "MAIN",
+      "host": "37.9.4.77",
+      "port": 479,
+      "latency_ms": 2.3,
+      "uri": "vless://ff655ea0-edf3-4acf-a09b-676b752530a0@37.9.4.77:479?encryption=none&type=grpc&security=reality&sni=x5media.ru&pbk=UpN19fYHmNJZroQMKq3KOEfxKIE2W8qr8xB9bbhtuys&sid=152759922238ee1c&fp=firefox&serviceName=Gun&mode=multi#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+    },
+    {
+      "rank": 14,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "169.40.42.168",
+      "port": 443,
+      "latency_ms": 2.3,
+      "uri": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 15,
+      "name": "🇨🇦 ❄️ Канада",
+      "group": "MAIN",
+      "host": "192.99.151.230",
+      "port": 8388,
+      "latency_ms": 2.3,
+      "uri": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@192.99.151.230:8388#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9D%84%EF%B8%8F%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0"
+    },
+    {
+      "rank": 16,
+      "name": "🇸🇬 ❄️ Сингапур",
+      "group": "MAIN",
+      "host": "178.94.25.73",
+      "port": 10443,
+      "latency_ms": 2.3,
+      "uri": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80"
+    },
+    {
+      "rank": 17,
+      "name": "🇩🇪 ❄️ Германия",
+      "group": "MAIN",
+      "host": "185.176.204.18",
+      "port": 19999,
+      "latency_ms": 2.4,
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 18,
+      "name": "🇬🇧 ❄️ Великобритания",
+      "group": "MAIN",
+      "host": "2.28.120.67",
+      "port": 80,
+      "latency_ms": 2.4,
+      "uri": "vless://2d16e984-17ca-42e9-984a-94387d80a97a@2.28.120.67:80?path=%2F&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20%E2%9D%84%EF%B8%8F%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 19,
+      "name": "🇯🇵 ❄️ Япония",
+      "group": "MAIN",
+      "host": "50.7.159.242",
+      "port": 443,
+      "latency_ms": 2.4,
+      "uri": "vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?sni=jp.reddotcorp.org&fp=firefox&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20%E2%9D%84%EF%B8%8F%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 20,
+      "name": "🇪🇸 ❄️ Испания",
+      "group": "MAIN",
+      "host": "66.163.118.166",
+      "port": 443,
+      "latency_ms": 2.5,
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?type=tcp&security=tls&fp=chrome&sni=learn.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 21,
+      "name": "🇫🇷 ❄️ Франция",
+      "group": "MAIN",
+      "host": "104.156.151.61",
+      "port": 2087,
+      "latency_ms": 2.5,
+      "uri": "vless://13bda8f2-02af-475f-a9b6-2dbc7f023ab5@104.156.151.61:2087?flow=xtls-rprx-vision&security=tls&sni=795f5351f1e63be4.blog-cloud.ir&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20%E2%9D%84%EF%B8%8F%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F"
+    },
+    {
+      "rank": 22,
+      "name": "🇷🇺 ❄️ Россия",
+      "group": "MAIN",
+      "host": "188.225.45.237",
+      "port": 443,
+      "latency_ms": 2.5,
+      "uri": "vless://34899740-16ab-4f8a-bc13-051cf6f62a86@188.225.45.237:443?flow=xtls-rprx-vision&security=reality&sni=wl.tw.daugava-analytics.com&fp=ios&pbk=YZtDA-Mz6GSlPnrhnQkSpzj8TSaGDcMjukrGI_xFg1Y&sid=d9c79602#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+    },
+    {
+      "rank": 23,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "169.40.42.90",
+      "port": 443,
+      "latency_ms": 2.5,
+      "uri": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 24,
+      "name": "🇩🇪 ❄️ Германия",
+      "group": "MAIN",
+      "host": "144.31.217.18",
+      "port": 1883,
+      "latency_ms": 2.5,
+      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SXFZbS9hMW0zdzNnbW1YZDlKamkrbzRNemI1WVIySFdzWWNydVNHRUNYST06ZXZTNVVyQTJrVUJtZVZYR3JjWTRiTjFuWlNLbG4zb0UvamE5cHBDYnhOMD0@144.31.217.18:1883#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 25,
       "name": "🇪🇪 Эстония — обход БС #13",
       "group": "WHITELIST_BYPASS",
       "host": "185.178.208.167",
@@ -155,61 +371,340 @@
       "uri": "vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F"
     },
     {
-      "rank": 2,
-      "name": "🇧🇷 ❄️ Бразилия",
+      "rank": 26,
+      "name": "🇷🇺 ❄️ Россия",
       "group": "MAIN",
-      "host": "150.230.229.100",
-      "port": 20000,
+      "host": "200.169.179.233",
+      "port": 443,
       "latency_ms": 2.6,
-      "uri": "hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#%F0%9F%87%A7%F0%9F%87%B7%20%E2%9D%84%EF%B8%8F%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F"
+      "uri": "vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@200.169.179.233:443?security=tls&sni=vps3.nemnogogo.com&fp=ios&type=grpc&serviceName=mobile.api.Event&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
     },
     {
-      "rank": 3,
+      "rank": 27,
+      "name": "🇱🇻 ❄️ Латвия",
+      "group": "MAIN",
+      "host": "62.60.148.146",
+      "port": 443,
+      "latency_ms": 2.6,
+      "uri": "vless://81c91c05-179f-4b87-95ca-3306677fb310@62.60.148.146:443?security=tls&encryption=none&sni=g-it-2.r3vgawew123fg.pics&fp=firefox&type=ws&path=%2F&host=g-it-2.r3vgawew123fg.pics#%F0%9F%87%B1%F0%9F%87%BB%20%E2%9D%84%EF%B8%8F%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F"
+    },
+    {
+      "rank": 28,
+      "name": "🇬🇧 ❄️ Великобритания",
+      "group": "MAIN",
+      "host": "85.234.86.230",
+      "port": 6443,
+      "latency_ms": 2.6,
+      "uri": "vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.230:6443?type=grpc&security=reality&sni=download.amd.com&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&sid=d7d3b7ffae8086ac&fp=firefox&serviceName=%2Fapi%2Fv1%2Fupdate&mode=multi#%F0%9F%87%AC%F0%9F%87%A7%20%E2%9D%84%EF%B8%8F%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 29,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "185.215.132.9",
+      "port": 19999,
+      "latency_ms": 2.6,
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.9:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 30,
+      "name": "🇩🇪 ❄️ Германия",
+      "group": "MAIN",
+      "host": "13.141.36.15",
+      "port": 443,
+      "latency_ms": 2.6,
+      "uri": "vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@13.141.36.15:443?security=reality&encryption=none&pbk=PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc&headerType=none&type=tcp&sni=a80b5386.fi2.h1clayd.click&sid=cc678f10161992a9#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 31,
+      "name": "🇩🇪 ❄️ Германия",
+      "group": "MAIN",
+      "host": "95.213.143.124",
+      "port": 443,
+      "latency_ms": 2.7,
+      "uri": "vless://25dcbe15-3d70-4f24-a8f2-3156e68f783e@95.213.143.124:443?security=reality&encryption=none&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&headerType=&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=qu5ds08r.static-edge.site&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 32,
+      "name": "🇳🇱 ❄️ Нидерланды",
+      "group": "MAIN",
+      "host": "87.199.205.28",
+      "port": 443,
+      "latency_ms": 2.7,
+      "uri": "vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&security=reality&sni=vkvd754.okcdn.ru&fp=chrome&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&sid=ef1d3554c652a436#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
+    },
+    {
+      "rank": 33,
+      "name": "🇩🇪 ❄️ Германия",
+      "group": "MAIN",
+      "host": "193.233.74.21",
+      "port": 443,
+      "latency_ms": 2.7,
+      "uri": "hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@193.233.74.21:443?sni=circuitinsight.obshock.net&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 34,
+      "name": "🇨🇿 ❄️ Чехия",
+      "group": "MAIN",
+      "host": "86.54.82.184",
+      "port": 443,
+      "latency_ms": 2.7,
+      "uri": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@86.54.82.184:443?encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=example.org&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20%E2%9D%84%EF%B8%8F%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F"
+    },
+    {
+      "rank": 35,
+      "name": "🇩🇪 ❄️ Германия",
+      "group": "MAIN",
+      "host": "156.67.120.205",
+      "port": 51628,
+      "latency_ms": 2.7,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY@156.67.120.205:51628#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 36,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "3.145.80.142",
+      "port": 443,
+      "latency_ms": 2.7,
+      "uri": "vless://2e0697c0-5d99-4502-a001-bb90e6476d2a@3.145.80.142:443?encryption=none&type=tcp&security=reality&headerType=none&sni=dl.google.com&fp=chrome&pbk=uKTuTKW9v75dRfEvCTO-VwYKi9qB_qyhNdyOpq4ceEo&sid=cd80d90bee24205f&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 37,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "149.40.57.134",
+      "port": 19999,
+      "latency_ms": 2.8,
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.40.57.134:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 38,
+      "name": "🇬🇬 ❄️ GG",
+      "group": "MAIN",
+      "host": "82.38.31.215",
+      "port": 8080,
+      "latency_ms": 2.8,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#%F0%9F%87%AC%F0%9F%87%AC%20%E2%9D%84%EF%B8%8F%20GG"
+    },
+    {
+      "rank": 39,
       "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
       "host": "167.88.61.198",
       "port": 443,
-      "latency_ms": 2.7,
+      "latency_ms": 2.8,
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
-      "rank": 4,
-      "name": "🇳🇱 ❄️ Нидерланды",
+      "rank": 40,
+      "name": "🇫🇷 ❄️ Франция",
       "group": "MAIN",
-      "host": "147.45.61.144",
-      "port": 443,
-      "latency_ms": 3.0,
-      "uri": "vless://04812b68-47ad-48ee-b96d-ab9127679634@147.45.61.144:443?flow=xtls-rprx-vision&security=reality&sni=s2.frenchymyrsep.click&fp=firefox&pbk=tmiOsPsVgiWU7usQWetCpVdEp3ZTWl9tPY-r399JdCs&sid=b725584749527b07#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
+      "host": "45.63.115.136",
+      "port": 46122,
+      "latency_ms": 2.8,
+      "uri": "vless://29872718-970b-493e-abc9-524fa266d16b@45.63.115.136:46122?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=6115f6a9eb8467c6&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20%E2%9D%84%EF%B8%8F%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F"
     },
     {
-      "rank": 5,
+      "rank": 41,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "18.225.235.105",
+      "port": 443,
+      "latency_ms": 2.8,
+      "uri": "vless://2e0697c0-5d99-4502-a001-bb90e6476d2a@18.225.235.105:443?security=reality&encryption=none&pbk=uKTuTKW9v75dRfEvCTO-VwYKi9qB_qyhNdyOpq4ceEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=cd80d90bee24205f#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 42,
       "name": "🇩🇪 ❄️ Германия",
       "group": "MAIN",
-      "host": "185.176.204.18",
+      "host": "8.209.73.203",
+      "port": 443,
+      "latency_ms": 2.9,
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.209.73.203:443#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 43,
+      "name": "🇫🇮 ❄️ Финляндия",
+      "group": "MAIN",
+      "host": "194.34.133.73",
+      "port": 443,
+      "latency_ms": 2.9,
+      "uri": "vless://f364e387-38fb-45fc-aac7-1ed32658ede3@194.34.133.73:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=www.fit-ai.site&fp=qq&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
+    },
+    {
+      "rank": 44,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "169.40.42.74",
+      "port": 443,
+      "latency_ms": 2.9,
+      "uri": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 45,
+      "name": "🇳🇱 ❄️ Нидерланды",
+      "group": "MAIN",
+      "host": "66.163.127.9",
+      "port": 443,
+      "latency_ms": 2.9,
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.9:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=resources.indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
+    },
+    {
+      "rank": 46,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "48.102.204.67",
+      "port": 8443,
+      "latency_ms": 2.9,
+      "uri": "vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@48.102.204.67:8443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 47,
+      "name": "🇷🇺 ❄️ Россия",
+      "group": "MAIN",
+      "host": "188.225.35.83",
+      "port": 443,
+      "latency_ms": 3.0,
+      "uri": "vless://34899740-16ab-4f8a-bc13-051cf6f62a86@188.225.35.83:443?flow=xtls-rprx-vision&security=reality&sni=wl.tw.daugava-analytics.com&fp=firefox&pbk=YZtDA-Mz6GSlPnrhnQkSpzj8TSaGDcMjukrGI_xFg1Y&sid=d9c79602#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+    },
+    {
+      "rank": 48,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "67.220.73.178",
       "port": 19999,
+      "latency_ms": 3.0,
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@67.220.73.178:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 49,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "85.209.194.60",
+      "port": 443,
+      "latency_ms": 3.0,
+      "uri": "hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@85.209.194.60:443?sni=pointsharbor.videostockmarket.org#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 50,
+      "name": "🇨🇦 ❄️ Канада",
+      "group": "MAIN",
+      "host": "23.95.76.164",
+      "port": 443,
+      "latency_ms": 3.0,
+      "uri": "vless://454431fc-71e2-42b1-b375-5b55dd06666a@23.95.76.164:443?type=tcp&security=reality&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sni=ca.monkora.org#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9D%84%EF%B8%8F%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0"
+    },
+    {
+      "rank": 51,
+      "name": "🇬🇧 ❄️ Великобритания",
+      "group": "MAIN",
+      "host": "2.26.148.145",
+      "port": 443,
+      "latency_ms": 3.0,
+      "uri": "vless://4643976f-85fa-40cf-9e58-ea28b50f253b@2.26.148.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&security=reality&sni=polo.ali-bard.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20%E2%9D%84%EF%B8%8F%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 52,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "170.101.101.112",
+      "port": 443,
+      "latency_ms": 3.0,
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 53,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "3.141.105.203",
+      "port": 443,
+      "latency_ms": 3.0,
+      "uri": "vless://2e0697c0-5d99-4502-a001-bb90e6476d2a@3.141.105.203:443?security=reality&encryption=none&pbk=uKTuTKW9v75dRfEvCTO-VwYKi9qB_qyhNdyOpq4ceEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=cd80d90bee24205f#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 54,
+      "name": "🇮🇹 ❄️ Италия",
+      "group": "MAIN",
+      "host": "193.160.208.21",
+      "port": 443,
       "latency_ms": 3.1,
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+      "uri": "vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@193.160.208.21:443?flow=xtls-rprx-vision&security=reality&sni=ruitaliamicro2.gangplatform.com&fp=qq&pbk=W7AD8d4R4-7TQW3-m5wJ0aJHzBcjPVdJF22jr2rP03A&sid=8f88b244f4fa8a69#%F0%9F%87%AE%F0%9F%87%B9%20%E2%9D%84%EF%B8%8F%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F"
     },
     {
-      "rank": 6,
-      "name": "🇵🇱 ❄️ Польша",
+      "rank": 55,
+      "name": "🇩🇪 ❄️ Германия",
       "group": "MAIN",
-      "host": "188.225.79.44",
+      "host": "109.172.8.48",
+      "port": 8443,
+      "latency_ms": 3.1,
+      "uri": "vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@109.172.8.48:8443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 56,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "169.40.42.35",
+      "port": 443,
+      "latency_ms": 3.1,
+      "uri": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 57,
+      "name": "🇮🇪 ❄️ Ирландия",
+      "group": "MAIN",
+      "host": "20.223.233.64",
+      "port": 443,
+      "latency_ms": 3.1,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YjFwQW9aOVEzNTRKZFNz@20.223.233.64:443#%F0%9F%87%AE%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F"
+    },
+    {
+      "rank": 58,
+      "name": "🇷🇺 ❄️ Россия",
+      "group": "MAIN",
+      "host": "212.233.120.1",
       "port": 443,
       "latency_ms": 3.2,
-      "uri": "vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@188.225.79.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=eh.vk.ru&type=raw#%F0%9F%87%B5%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0"
+      "uri": "vless://7e30b41d-1299-4528-b455-aafd18df6c69@212.233.120.1:443?type=ws&security=tls&path=/e7ws&sni=dostavka.stroymatdv.cc&fp=edge&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
     },
     {
-      "rank": 7,
-      "name": "🇨🇱 ❄️ Чили",
+      "rank": 59,
+      "name": "🇯🇵 ❄️ Япония",
       "group": "MAIN",
-      "host": "34.176.137.90",
+      "host": "149.22.87.204",
       "port": 443,
       "latency_ms": 3.2,
-      "uri": "vless://ad5325f8-f0b3-41c4-a561-113529b60e70@34.176.137.90:443?fp=chrome&pbk=HnHVuSObMrldWGzq1-Eb93fwgu6QQRp6H0_8LX3ikDc&security=reality&sid=2c2d919f5183d0b7&sni=www.cloudflare.com#%F0%9F%87%A8%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%A7%D0%B8%D0%BB%D0%B8"
+      "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5%20%E2%9D%84%EF%B8%8F%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F"
     },
     {
-      "rank": 8,
+      "rank": 60,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "149.40.57.135",
+      "port": 19999,
+      "latency_ms": 3.2,
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.40.57.135:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 61,
+      "name": "🇺🇸 ❄️ США",
+      "group": "MAIN",
+      "host": "173.244.56.6",
+      "port": 443,
+      "latency_ms": 3.2,
+      "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "rank": 62,
+      "name": "🇳🇱 ❄️ Нидерланды",
+      "group": "MAIN",
+      "host": "82.38.31.192",
+      "port": 8080,
+      "latency_ms": 3.2,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
+    },
+    {
+      "rank": 63,
       "name": "🇩🇪 ❄️ Германия",
       "group": "MAIN",
       "host": "193.108.116.98",
@@ -218,832 +713,337 @@
       "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.116.98:19999#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
     },
     {
-      "rank": 9,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "38.107.232.36",
-      "port": 80,
-      "latency_ms": 3.2,
-      "uri": "vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 10,
-      "name": "🇩🇪 ❄️ Германия",
-      "group": "MAIN",
-      "host": "47.253.226.114",
-      "port": 443,
-      "latency_ms": 3.3,
-      "uri": "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "rank": 11,
-      "name": "🇫🇮 ❄️ Финляндия",
-      "group": "MAIN",
-      "host": "48.102.138.175",
-      "port": 8443,
-      "latency_ms": 3.3,
-      "uri": "vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.138.175:8443?flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=firefox&pbk=25QzRZqG6_xhYTy3Be7EXiE8UgaVyRl_GFx8mfXBLWc&sid=6aee1e2cdc4d33dd#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
-    },
-    {
-      "rank": 12,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "216.73.157.142",
-      "port": 443,
-      "latency_ms": 3.3,
-      "uri": "hysteria2://74bec046f0004aa5bc280ecc4ab50465@216.73.157.142:443?security=tls&obfs=salamander&obfs-password=qrl-03E8Q6JaUlAkOPHXQBwN&insecure=0&sni=216.73.157.142#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 13,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "185.215.132.18",
-      "port": 19999,
-      "latency_ms": 3.4,
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 14,
-      "name": "🇳🇱 ❄️ Нидерланды",
-      "group": "MAIN",
-      "host": "188.225.35.83",
-      "port": 443,
-      "latency_ms": 3.5,
-      "uri": "vless://f7331345-aac5-4e81-b8ac-8b8aa3ee2068@188.225.35.83:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pinemetrics.net&fp=firefox&pbk=YZtDA-Mz6GSlPnrhnQkSpzj8TSaGDcMjukrGI_xFg1Y&sid=d9c79602&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
-    },
-    {
-      "rank": 15,
-      "name": "🇷🇺 ❄️ Россия",
-      "group": "MAIN",
-      "host": "200.169.179.233",
-      "port": 443,
-      "latency_ms": 3.5,
-      "uri": "vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@200.169.179.233:443?type=grpc&security=tls&fp=firefox&sni=vps3.nemnogogo.com&serviceName=mobile.api.Event#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
-    },
-    {
-      "rank": 16,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "169.197.140.245",
-      "port": 443,
-      "latency_ms": 3.5,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 17,
-      "name": "🇳🇱 ❄️ Нидерланды",
-      "group": "MAIN",
-      "host": "171.22.183.167",
-      "port": 443,
-      "latency_ms": 3.5,
-      "uri": "vless://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.167:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
-    },
-    {
-      "rank": 18,
-      "name": "🇫🇮 ❄️ Финляндия",
-      "group": "MAIN",
-      "host": "194.34.132.140",
-      "port": 443,
-      "latency_ms": 3.6,
-      "uri": "vless://f364e387-38fb-45fc-aac7-1ed32658ede3@194.34.132.140:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=www.fit-ai.site&fp=firefox&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
-    },
-    {
-      "rank": 19,
-      "name": "🇨🇦 ❄️ Канада",
-      "group": "MAIN",
-      "host": "216.152.147.48",
-      "port": 443,
-      "latency_ms": 3.6,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9D%84%EF%B8%8F%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0"
-    },
-    {
-      "rank": 20,
-      "name": "🇳🇱 ❄️ Нидерланды",
-      "group": "MAIN",
-      "host": "45.137.86.120",
-      "port": 8080,
-      "latency_ms": 3.7,
-      "uri": "vless://5679ac86-caaa-40b9-be3e-927ccf4a0891@45.137.86.120:8080?security=reality&encryption=none&sni=cdn.shopify.com&fp=firefox&pbk=g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k&sid=e4&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
-    },
-    {
-      "rank": 21,
-      "name": "🇫🇮 ❄️ Финляндия",
-      "group": "MAIN",
-      "host": "194.34.132.145",
-      "port": 443,
-      "latency_ms": 3.8,
-      "uri": "vless://f364e387-38fb-45fc-aac7-1ed32658ede3@194.34.132.145:443?type=tcp&security=tls&sni=ngxbot.nginx.org&fp=safari&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
-    },
-    {
-      "rank": 22,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "37.19.198.236",
-      "port": 443,
-      "latency_ms": 3.8,
-      "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 23,
-      "name": "🇨🇭 ❄️ Швейцария",
-      "group": "MAIN",
-      "host": "23.166.88.127",
-      "port": 19999,
-      "latency_ms": 3.8,
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%AD%20%E2%9D%84%EF%B8%8F%20%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F"
-    },
-    {
-      "rank": 24,
-      "name": "🇳🇱 ❄️ Нидерланды",
-      "group": "MAIN",
-      "host": "144.31.150.6",
-      "port": 52006,
-      "latency_ms": 3.9,
-      "uri": "vless://cde5d3ef-7d14-4fed-a74d-ac98e39bf9ec@144.31.150.6:52006?flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&sni=fl.buyclicks.click&alpn=h2%2Chttp%2F1.1&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
-    },
-    {
-      "rank": 25,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "38.91.100.39",
-      "port": 19999,
-      "latency_ms": 3.9,
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.91.100.39:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 26,
-      "name": "🇺🇦 ❄️ Украина",
-      "group": "MAIN",
-      "host": "185.164.175.81",
-      "port": 19999,
-      "latency_ms": 3.9,
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#%F0%9F%87%BA%F0%9F%87%A6%20%E2%9D%84%EF%B8%8F%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0"
-    },
-    {
-      "rank": 27,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "170.101.101.53",
-      "port": 443,
-      "latency_ms": 3.9,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com&fp=chrome&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 28,
-      "name": "🇸🇪 ❄️ Швеция",
-      "group": "MAIN",
-      "host": "50.7.38.243",
-      "port": 443,
-      "latency_ms": 4.0,
-      "uri": "hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net#%F0%9F%87%B8%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F"
-    },
-    {
-      "rank": 29,
-      "name": "🇳🇱 ❄️ Нидерланды",
-      "group": "MAIN",
-      "host": "158.173.20.208",
-      "port": 443,
-      "latency_ms": 4.0,
-      "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
-    },
-    {
-      "rank": 30,
-      "name": "🇮🇪 ❄️ Ирландия",
-      "group": "MAIN",
-      "host": "20.234.98.208",
-      "port": 443,
-      "latency_ms": 4.0,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmdFR3E1YTN0SmlMcFVx@20.234.98.208:443#%F0%9F%87%AE%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F"
-    },
-    {
-      "rank": 31,
-      "name": "🇬🇬 ❄️ GG",
-      "group": "MAIN",
-      "host": "82.38.31.182",
-      "port": 8080,
-      "latency_ms": 4.0,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#%F0%9F%87%AC%F0%9F%87%AC%20%E2%9D%84%EF%B8%8F%20GG"
-    },
-    {
-      "rank": 32,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "167.88.61.52",
-      "port": 443,
-      "latency_ms": 4.0,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.browseseniorrolesandenhanceyourcareertoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 33,
-      "name": "🇩🇪 ❄️ Германия",
-      "group": "MAIN",
-      "host": "138.199.158.105",
-      "port": 443,
-      "latency_ms": 4.1,
-      "uri": "vless://0c9ffc50-27ca-4346-8c7f-2cf5df458d9b@138.199.158.105:443?flow=xtls-rprx-vision&security=tls&sni=static.105.158.199.138.clients.your-server.de&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "rank": 34,
-      "name": "🇳🇱 ❄️ Нидерланды",
-      "group": "MAIN",
-      "host": "45.137.86.70",
-      "port": 8080,
-      "latency_ms": 4.1,
-      "uri": "vless://5679ac86-caaa-40b9-be3e-927ccf4a0891@45.137.86.70:8080?security=reality&encryption=none&sni=cdn.shopify.com&fp=firefox&pbk=g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k&sid=e4&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
-    },
-    {
-      "rank": 35,
-      "name": "🇸🇬 ❄️ Сингапур",
-      "group": "MAIN",
-      "host": "47.84.226.221",
-      "port": 443,
-      "latency_ms": 4.1,
-      "uri": "vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443?flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42#%F0%9F%87%B8%F0%9F%87%AC%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80"
-    },
-    {
-      "rank": 36,
-      "name": "🎅 ❄️ Новогодний сервер",
-      "group": "MAIN",
-      "host": "125.230.79.123",
-      "port": 30103,
-      "latency_ms": 4.1,
-      "uri": "vless://9665ba9d-5d17-47ff-a730-267e0112dc22@125.230.79.123:30103?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=8M0-R5F627Hnwb-hiS0VMSm-q3NPmriztJSU9FfvTB4&sid=435e2af5&sni=itunes.apple.com#%F0%9F%8E%85%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80"
-    },
-    {
-      "rank": 37,
-      "name": "🇩🇪 ❄️ Германия",
-      "group": "MAIN",
-      "host": "8.211.57.86",
-      "port": 443,
-      "latency_ms": 4.1,
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.211.57.86:443#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "rank": 38,
-      "name": "🇯🇵 ❄️ Япония",
-      "group": "MAIN",
-      "host": "8.209.249.205",
-      "port": 5555,
-      "latency_ms": 4.1,
-      "uri": "ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.249.205:5555#%F0%9F%87%AF%F0%9F%87%B5%20%E2%9D%84%EF%B8%8F%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "rank": 39,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "48.102.217.33",
-      "port": 443,
-      "latency_ms": 4.1,
-      "uri": "vless://12c39efa-b6d8-4467-bfd5-22dca077225e@48.102.217.33:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=NVwzzeQbvYYkT2-MGGBCgsHNnGfsSWupuMtTvd6gEzY&host=www.samsung.com&fp=firefox&type=xhttp&sni=www.samsung.com&sid=733857f978b623eb#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 40,
-      "name": "🇫🇮 ❄️ Финляндия",
-      "group": "MAIN",
-      "host": "194.34.133.70",
-      "port": 443,
-      "latency_ms": 4.2,
-      "uri": "vless://f364e387-38fb-45fc-aac7-1ed32658ede3@194.34.133.70:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=ngxbot.nginx.org&fp=qq&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
-    },
-    {
-      "rank": 41,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "5.78.51.123",
-      "port": 1080,
-      "latency_ms": 4.2,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 42,
-      "name": "🇨🇦 ❄️ Канада",
-      "group": "MAIN",
-      "host": "192.99.151.230",
-      "port": 8388,
-      "latency_ms": 4.2,
-      "uri": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@192.99.151.230:8388#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9D%84%EF%B8%8F%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0"
-    },
-    {
-      "rank": 43,
-      "name": "🇩🇪 ❄️ Германия",
-      "group": "MAIN",
-      "host": "57.129.113.16",
-      "port": 8388,
-      "latency_ms": 4.2,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "rank": 44,
-      "name": "🇬🇬 ❄️ GG",
-      "group": "MAIN",
-      "host": "82.38.31.208",
-      "port": 8080,
-      "latency_ms": 4.2,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%AC%F0%9F%87%AC%20%E2%9D%84%EF%B8%8F%20GG"
-    },
-    {
-      "rank": 45,
-      "name": "🇮🇷 ❄️ Иран",
-      "group": "MAIN",
-      "host": "62.60.193.9",
-      "port": 2090,
-      "latency_ms": 4.2,
-      "uri": "ss://YWVzLTI1Ni1nY206OXI2cjNoY2RkcnRxYjJvMQ@62.60.193.9:2090#%F0%9F%87%AE%F0%9F%87%B7%20%E2%9D%84%EF%B8%8F%20%D0%98%D1%80%D0%B0%D0%BD"
-    },
-    {
-      "rank": 46,
-      "name": "🇨🇦 ❄️ Канада",
-      "group": "MAIN",
-      "host": "51.222.155.113",
-      "port": 5601,
-      "latency_ms": 4.2,
-      "uri": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9D%84%EF%B8%8F%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0"
-    },
-    {
-      "rank": 47,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "45.86.51.18",
-      "port": 19999,
-      "latency_ms": 4.2,
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 48,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "216.152.155.23",
-      "port": 443,
-      "latency_ms": 4.2,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 49,
-      "name": "🇷🇺 ❄️ Россия",
-      "group": "MAIN",
-      "host": "89.208.229.197",
-      "port": 443,
-      "latency_ms": 4.2,
-      "uri": "vless://19d39930-a0e1-07d0-8726-5f7b2846b336@89.208.229.197:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
-    },
-    {
-      "rank": 50,
-      "name": "🇳🇱 ❄️ Нидерланды",
-      "group": "MAIN",
-      "host": "212.34.137.105",
-      "port": 443,
-      "latency_ms": 4.3,
-      "uri": "hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?sni=shorts.blog-forme.ru#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
-    },
-    {
-      "rank": 51,
-      "name": "🇷🇺 ❄️ Россия",
-      "group": "MAIN",
-      "host": "185.141.227.180",
-      "port": 2053,
-      "latency_ms": 4.3,
-      "uri": "vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%220%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionIDPlacement%22%3A%22%22%2C%22sessionIDKey%22%3A%22%22%2C%22sessionIDTable%22%3A%22%22%2C%22sessionIDLength%22%3A%220%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A%220%22%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22serverMaxHeaderBytes%22%3A0%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hMaxReusableSecs%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&host=dismissaltree.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=dismissaltree.net&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
-    },
-    {
-      "rank": 52,
-      "name": "🇩🇪 ❄️ Германия",
-      "group": "MAIN",
-      "host": "47.254.143.251",
-      "port": 443,
-      "latency_ms": 4.3,
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.254.143.251:443#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "rank": 53,
-      "name": "🇮🇪 ❄️ Ирландия",
-      "group": "MAIN",
-      "host": "20.223.233.64",
-      "port": 443,
-      "latency_ms": 4.3,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YjFwQW9aOVEzNTRKZFNz@20.223.233.64:443#%F0%9F%87%AE%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F"
-    },
-    {
-      "rank": 54,
-      "name": "🇪🇸 ❄️ Испания",
-      "group": "MAIN",
-      "host": "108.181.121.170",
-      "port": 443,
-      "latency_ms": 4.3,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@108.181.121.170:443#%F0%9F%87%AA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "rank": 55,
-      "name": "🇬🇬 ❄️ GG",
-      "group": "MAIN",
-      "host": "94.156.250.148",
-      "port": 7001,
-      "latency_ms": 4.3,
-      "uri": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%AC%20%E2%9D%84%EF%B8%8F%20GG"
-    },
-    {
-      "rank": 56,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "66.163.122.25",
-      "port": 443,
-      "latency_ms": 4.3,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&fp=chrome&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 57,
-      "name": "🇷🇺 ❄️ Россия",
-      "group": "MAIN",
-      "host": "165.231.157.126",
-      "port": 8443,
-      "latency_ms": 4.3,
-      "uri": "vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6b04608f.adhil.uk&fp=safari&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
-    },
-    {
-      "rank": 58,
-      "name": "🇷🇺 ❄️ Россия",
-      "group": "MAIN",
-      "host": "136.148.83.69",
-      "port": 443,
-      "latency_ms": 4.4,
-      "uri": "hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
-    },
-    {
-      "rank": 59,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "169.40.42.163",
-      "port": 443,
-      "latency_ms": 4.4,
-      "uri": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=yahoo.com&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 60,
-      "name": "🇷🇺 ❄️ Россия",
-      "group": "MAIN",
-      "host": "130.49.189.158",
-      "port": 43558,
-      "latency_ms": 4.4,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
-    },
-    {
-      "rank": 61,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "38.128.66.32",
-      "port": 19999,
-      "latency_ms": 4.4,
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.128.66.32:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 62,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "167.88.61.175",
-      "port": 443,
-      "latency_ms": 4.4,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=blog.browseseniorrolesandenhanceyourcareertoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 63,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "167.88.61.20",
-      "port": 443,
-      "latency_ms": 4.4,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?security=tls&sni=api.browseseniorrolesandenhanceyourcareertoday.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
       "rank": 64,
-      "name": "🇩🇪 ❄️ Германия",
-      "group": "MAIN",
-      "host": "95.213.143.124",
-      "port": 443,
-      "latency_ms": 4.5,
-      "uri": "vless://25dcbe15-3d70-4f24-a8f2-3156e68f783e@95.213.143.124:443?security=reality&encryption=none&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&headerType=&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=qu5ds08r.static-edge.site&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "rank": 65,
-      "name": "🇫🇮 ❄️ Финляндия",
-      "group": "MAIN",
-      "host": "65.109.210.250",
-      "port": 443,
-      "latency_ms": 4.5,
-      "uri": "vless://9fc65c1f-f7e2-44dd-be6f-a9270732b97a@65.109.210.250:443?encryption=none&fp=firefox&security=tls&sni=pakar.sorixset.ir&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
-    },
-    {
-      "rank": 66,
-      "name": "🇬🇧 ❄️ Великобритания",
-      "group": "MAIN",
-      "host": "85.234.86.230",
-      "port": 6443,
-      "latency_ms": 4.5,
-      "uri": "vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.230:6443?type=grpc&security=reality&sni=download.amd.com&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&sid=d7d3b7ffae8086ac&fp=firefox&serviceName=%2Fapi%2Fv1%2Fupdate&mode=multi#%F0%9F%87%AC%F0%9F%87%A7%20%E2%9D%84%EF%B8%8F%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "rank": 67,
-      "name": "🇬🇬 ❄️ GG",
-      "group": "MAIN",
-      "host": "82.38.31.179",
-      "port": 8080,
-      "latency_ms": 4.5,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%AC%20%E2%9D%84%EF%B8%8F%20GG"
-    },
-    {
-      "rank": 68,
-      "name": "🇬🇬 ❄️ GG",
-      "group": "MAIN",
-      "host": "82.38.31.180",
-      "port": 8080,
-      "latency_ms": 4.5,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#%F0%9F%87%AC%F0%9F%87%AC%20%E2%9D%84%EF%B8%8F%20GG"
-    },
-    {
-      "rank": 69,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "170.101.101.112",
-      "port": 443,
-      "latency_ms": 4.5,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 70,
-      "name": "🇺🇸 ❄️ США",
-      "group": "MAIN",
-      "host": "216.152.155.59",
-      "port": 443,
-      "latency_ms": 4.5,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&sni=api.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "rank": 71,
       "name": "🇳🇱 ❄️ Нидерланды",
       "group": "MAIN",
       "host": "176.65.151.85",
       "port": 8443,
-      "latency_ms": 4.5,
+      "latency_ms": 3.2,
       "uri": "trojan://aQRciry3QFc6pQpyb2NhH7l5Mc9SPJRT@176.65.151.85:8443?security=reality&sni=www.yahoo.com&fp=chrome&pbk=0wk-oMUSX2Qk044K1dpEac4X3MX-TrGzUaZi66zkDXI&sid=37829ba2#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
     },
     {
-      "rank": 72,
-      "name": "🇵🇱 ❄️ Польша",
+      "rank": 65,
+      "name": "🇨🇭 ❄️ Швейцария",
       "group": "MAIN",
-      "host": "153.52.140.148",
-      "port": 8443,
-      "latency_ms": 4.5,
-      "uri": "vless://0259e5aa-c188-4334-b204-32cd5ea859f6@153.52.140.148:8443?security=reality&encryption=none&pbk=-r5xcA3iTzAf63kkb0VIILrLHH1VUq550pFZ-M74Jlc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=go-obsh-auto-drun.keno.su&sid=de#%F0%9F%87%B5%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0"
+      "host": "45.90.59.15",
+      "port": 443,
+      "latency_ms": 3.3,
+      "uri": "vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=random&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271#%F0%9F%87%A8%F0%9F%87%AD%20%E2%9D%84%EF%B8%8F%20%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F"
+    },
+    {
+      "rank": 66,
+      "name": "🇫🇮 ❄️ Финляндия",
+      "group": "MAIN",
+      "host": "213.21.252.56",
+      "port": 443,
+      "latency_ms": 3.3,
+      "uri": "vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?type=tcp&security=reality&sni=stock2.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&spx=%2F&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
+    },
+    {
+      "rank": 67,
+      "name": "🇩🇪 ❄️ Германия",
+      "group": "MAIN",
+      "host": "138.199.158.105",
+      "port": 443,
+      "latency_ms": 3.3,
+      "uri": "vless://0c9ffc50-27ca-4346-8c7f-2cf5df458d9b@138.199.158.105:443?flow=xtls-rprx-vision&security=tls&sni=static.105.158.199.138.clients.your-server.de&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "rank": 68,
+      "name": "🇫🇷 ❄️ Франция",
+      "group": "MAIN",
+      "host": "189.74.117.17",
+      "port": 443,
+      "latency_ms": 3.3,
+      "uri": "vless://dc155964-d93b-4d7c-bcd0-b13ab0f0f24b@189.74.117.17:443?security=reality&encryption=none&flow=xtls-rprx-vision&sni=api.videodolina.cc&fp=edge&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%AB%F0%9F%87%B7%20%E2%9D%84%EF%B8%8F%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F"
+    },
+    {
+      "rank": 69,
+      "name": "🇹🇼 ❄️ Тайвань",
+      "group": "MAIN",
+      "host": "160.187.100.109",
+      "port": 443,
+      "latency_ms": 3.3,
+      "uri": "hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=off#%F0%9F%87%B9%F0%9F%87%BC%20%E2%9D%84%EF%B8%8F%20%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C"
+    },
+    {
+      "rank": 70,
+      "name": "🇹🇼 ❄️ Тайвань",
+      "group": "MAIN",
+      "host": "103.115.109.49",
+      "port": 443,
+      "latency_ms": 3.3,
+      "uri": "hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443#%F0%9F%87%B9%F0%9F%87%BC%20%E2%9D%84%EF%B8%8F%20%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C"
+    },
+    {
+      "rank": 71,
+      "name": "🇰🇷 ❄️ Южная Корея",
+      "group": "MAIN",
+      "host": "150.230.252.217",
+      "port": 50160,
+      "latency_ms": 3.3,
+      "uri": "hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150.230.252.217:50160?sni=150-230-252-217.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%20%E2%9D%84%EF%B8%8F%20%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%9A%D0%BE%D1%80%D0%B5%D1%8F"
+    },
+    {
+      "rank": 72,
+      "name": "🇩🇪 ❄️ Германия",
+      "group": "MAIN",
+      "host": "89.23.108.46",
+      "port": 443,
+      "latency_ms": 3.3,
+      "uri": "hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@89.23.108.46:443?sni=chatrestore.luxe-self.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
     },
     {
       "rank": 73,
-      "name": "🇨🇦 ❄️ Канада",
+      "name": "🇷🇺 ❄️ Россия",
       "group": "MAIN",
-      "host": "66.163.113.9",
+      "host": "217.19.122.200",
       "port": 443,
-      "latency_ms": 4.5,
-      "uri": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9D%84%EF%B8%8F%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0"
+      "latency_ms": 3.3,
+      "uri": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?encryption=none&fp=chrome&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
     },
     {
       "rank": 74,
-      "name": "🇷🇺 ❄️ Россия",
+      "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
-      "host": "89.208.228.139",
+      "host": "167.88.61.175",
       "port": 443,
-      "latency_ms": 4.5,
-      "uri": "vless://19d39930-a0e1-07d0-8726-5f7b2846b336@89.208.228.139:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+      "latency_ms": 3.3,
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=blog.browseseniorrolesandenhanceyourcareertoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
       "rank": 75,
       "name": "🇳🇱 ❄️ Нидерланды",
-      "group": "MAIN",
-      "host": "171.22.183.158",
-      "port": 42848,
-      "latency_ms": 4.6,
-      "uri": "hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.158:42848#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
+      "group": "WHITELIST_BYPASS",
+      "host": "212.34.137.105",
+      "port": 443,
+      "latency_ms": 3.3,
+      "uri": "hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?sni=shorts.blog-forme.ru#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
     },
     {
       "rank": 76,
-      "name": "🇳🇱 ❄️ Нидерланды",
+      "name": "🇯🇵 ❄️ Япония",
       "group": "MAIN",
-      "host": "91.211.27.231",
-      "port": 42848,
-      "latency_ms": 4.6,
-      "uri": "hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848?sni=171.22.183.158#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
+      "host": "8.209.247.109",
+      "port": 443,
+      "latency_ms": 3.4,
+      "uri": "hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%E2%9D%84%EF%B8%8F%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F"
     },
     {
       "rank": 77,
-      "name": "🇺🇸 ❄️ США",
+      "name": "🇩🇪 ❄️ Германия",
       "group": "MAIN",
-      "host": "67.220.73.204",
-      "port": 16016,
-      "latency_ms": 4.6,
-      "uri": "vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:16016?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+      "host": "169.40.42.89",
+      "port": 443,
+      "latency_ms": 3.4,
+      "uri": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
     },
     {
       "rank": 78,
-      "name": "🇩🇪 ❄️ Германия",
+      "name": "🇷🇺 ❄️ Россия",
       "group": "MAIN",
-      "host": "3.120.145.15",
-      "port": 41018,
-      "latency_ms": 4.6,
-      "uri": "hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?sni=quotes.ali-khamenei.world&obfs=salamander&obfs-password=v0qq015d7c8zgzu7#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+      "host": "91.206.92.158",
+      "port": 18443,
+      "latency_ms": 3.4,
+      "uri": "ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@91.206.92.158:18443#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
     },
     {
       "rank": 79,
-      "name": "🇺🇸 ❄️ США",
+      "name": "🇩🇪 ❄️ Германия",
       "group": "MAIN",
-      "host": "216.152.156.49",
+      "host": "161.35.192.122",
       "port": 443,
-      "latency_ms": 4.6,
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+      "latency_ms": 3.4,
+      "uri": "vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@161.35.192.122:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
     },
     {
       "rank": 80,
-      "name": "🇺🇸 ❄️ США",
+      "name": "🇸🇬 ❄️ Сингапур",
       "group": "MAIN",
-      "host": "216.106.186.33",
-      "port": 443,
-      "latency_ms": 4.6,
-      "uri": "trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+      "host": "149.88.106.74",
+      "port": 19999,
+      "latency_ms": 3.4,
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#%F0%9F%87%B8%F0%9F%87%AC%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80"
     },
     {
       "rank": 81,
       "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
-      "host": "47.251.25.74",
+      "host": "37.19.198.236",
       "port": 443,
-      "latency_ms": 4.6,
-      "uri": "vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+      "latency_ms": 3.4,
+      "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
       "rank": 82,
       "name": "🇫🇮 ❄️ Финляндия",
       "group": "MAIN",
-      "host": "194.34.133.85",
+      "host": "194.34.132.145",
       "port": 443,
-      "latency_ms": 4.7,
-      "uri": "vless://f364e387-38fb-45fc-aac7-1ed32658ede3@194.34.133.85:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=wood-team.tmwox.com&fp=qq&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
+      "latency_ms": 3.5,
+      "uri": "vless://f364e387-38fb-45fc-aac7-1ed32658ede3@194.34.132.145:443?type=tcp&security=tls&sni=ngxbot.nginx.org&fp=safari&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
     },
     {
       "rank": 83,
       "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
-      "host": "169.40.42.89",
+      "host": "48.102.229.114",
       "port": 443,
-      "latency_ms": 4.7,
-      "uri": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?flow=xtls-rprx-vision&fp=ios&host=yahoo.com&path=%2F&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+      "latency_ms": 3.5,
+      "uri": "hysteria2://7ltdv0p-ThUzWHLNKwejOnmWRVfgq7gswzL34GP_7n8@48.102.229.114:443?sni=der.substituteme.space#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
       "rank": 84,
-      "name": "🇺🇸 ❄️ США",
+      "name": "🇷🇺 ❄️ Россия",
       "group": "MAIN",
-      "host": "45.144.112.55",
-      "port": 443,
-      "latency_ms": 4.7,
-      "uri": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?encryption=none&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+      "host": "95.129.234.108",
+      "port": 8443,
+      "latency_ms": 3.5,
+      "uri": "vless://41e8129a-1ed0-4902-ab2f-0c3f81419456@95.129.234.108:8443?encryption=none&type=xhttp&security=tls&sni=linden-crest.cdn.cachefleet.com&fp=firefox&path=%2Fccxf5snr06b8xxb6&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
     },
     {
       "rank": 85,
-      "name": "🇷🇺 ❄️ Россия",
+      "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
-      "host": "46.243.232.125",
-      "port": 443,
-      "latency_ms": 4.7,
-      "uri": "vless://bc5ec86c-3e65-4272-994c-59a924c72a68@46.243.232.125:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+      "host": "38.76.150.108",
+      "port": 36712,
+      "latency_ms": 3.5,
+      "uri": "hysteria2://AIcYjw5Oc9Rrrr9SGDUBbBIC@38.76.150.108:36712?sni=38.76.150.108#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
       "rank": 86,
-      "name": "🇨🇭 ❄️ Швейцария",
+      "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
-      "host": "23.166.88.189",
-      "port": 19999,
-      "latency_ms": 4.7,
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#%F0%9F%87%A8%F0%9F%87%AD%20%E2%9D%84%EF%B8%8F%20%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F"
+      "host": "198.247.124.187",
+      "port": 23456,
+      "latency_ms": 3.5,
+      "uri": "hysteria2://dongtaiwang.com@198.247.124.187:23456?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
       "rank": 87,
-      "name": "🇺🇸 ❄️ США",
+      "name": "🇦🇪 ❄️ ОАЭ",
       "group": "MAIN",
-      "host": "172.233.197.105",
-      "port": 62867,
-      "latency_ms": 4.7,
-      "uri": "vless://1ad82982-f3e1-4b6b-99bf-a9cfdf186b96@172.233.197.105:62867?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+      "host": "144.31.128.158",
+      "port": 443,
+      "latency_ms": 3.5,
+      "uri": "hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.128.158:443?sni=scorecatalog.newbuzideas.org#%F0%9F%87%A6%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%9E%D0%90%D0%AD"
     },
     {
       "rank": 88,
-      "name": "🇪🇺 ❄️ EU",
+      "name": "🇹🇷 ❄️ Турция",
       "group": "MAIN",
-      "host": "2.26.191.231",
-      "port": 443,
-      "latency_ms": 4.8,
-      "uri": "vless://746aa9f8-638d-4e4f-9f58-20a43a54fc1a@2.26.191.231:443?type=ws&security=tls&encryption=none&sni=titanparcel.lucheeebezlimitnoekino.stream&fp=firefox&path=/media/ws/#%F0%9F%87%AA%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20EU"
+      "host": "185.86.155.4",
+      "port": 14443,
+      "latency_ms": 3.5,
+      "uri": "vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@185.86.155.4:14443?type=grpc&security=reality&fp=firefox&pbk=TBvwkxwgTGYba7Jl3f2WcNBFvcKJ8uYHjYYdiyZTYCg&sid=d9662905&sni=cosmo-convert.ru&serviceName=nexusGrpc#%F0%9F%87%B9%F0%9F%87%B7%20%E2%9D%84%EF%B8%8F%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F"
     },
     {
       "rank": 89,
-      "name": "🇫🇮 ❄️ Финляндия",
+      "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
-      "host": "213.21.252.56",
-      "port": 443,
-      "latency_ms": 4.8,
-      "uri": "vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?type=tcp&security=reality&sni=stock2.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&spx=%2F&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
+      "host": "40.160.86.43",
+      "port": 8388,
+      "latency_ms": 3.5,
+      "uri": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ%3D%3D@40.160.86.43:8388#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
       "rank": 90,
-      "name": "🇵🇱 ❄️ Польша",
+      "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
-      "host": "45.132.179.90",
+      "host": "37.19.198.160",
       "port": 443,
-      "latency_ms": 4.8,
-      "uri": "vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@45.132.179.90:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Ldrfdkq0bJrZWCS0p1u6Z2tPPal0LzRm4cgEYF_2KH8&fp=firefox&type=tcp&sni=sbmicro683.gangplatform.com&sid=cda7e8556ea56616#%F0%9F%87%B5%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0"
+      "latency_ms": 3.5,
+      "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
       "rank": 91,
       "name": "🇩🇪 ❄️ Германия",
       "group": "MAIN",
-      "host": "47.245.167.223",
-      "port": 443,
-      "latency_ms": 4.8,
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.245.167.223:443#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+      "host": "57.129.113.16",
+      "port": 8388,
+      "latency_ms": 3.5,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
     },
     {
       "rank": 92,
-      "name": "🇺🇸 ❄️ США",
+      "name": "🇮🇪 ❄️ Ирландия",
       "group": "MAIN",
-      "host": "48.102.204.67",
-      "port": 8443,
-      "latency_ms": 4.8,
-      "uri": "vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@48.102.204.67:8443?security=reality&sni=tradingview.com&fp=edge&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
+      "host": "20.166.121.63",
+      "port": 443,
+      "latency_ms": 3.5,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443#%F0%9F%87%AE%F0%9F%87%AA%20%E2%9D%84%EF%B8%8F%20%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F"
     },
     {
       "rank": 93,
-      "name": "🇫🇮 ❄️ Финляндия",
+      "name": "🇱🇹 ❄️ Литва",
       "group": "MAIN",
-      "host": "194.34.132.142",
-      "port": 443,
-      "latency_ms": 4.9,
-      "uri": "vless://f364e387-38fb-45fc-aac7-1ed32658ede3@194.34.132.142:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=www.fit-ai.site&fp=qq&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%9D%84%EF%B8%8F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
+      "host": "195.238.126.20",
+      "port": 9001,
+      "latency_ms": 3.5,
+      "uri": "ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@195.238.126.20:9001#%F0%9F%87%B1%F0%9F%87%B9%20%E2%9D%84%EF%B8%8F%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0"
     },
     {
       "rank": 94,
-      "name": "🇷🇺 ❄️ Россия",
+      "name": "🇯🇵 ❄️ Япония",
       "group": "MAIN",
-      "host": "37.9.4.77",
-      "port": 485,
-      "latency_ms": 4.9,
-      "uri": "vless://ff655ea0-edf3-4acf-a09b-676b752530a0@37.9.4.77:485?encryption=none&type=grpc&security=reality&sni=x5media.ru&pbk=q0RTp7_uPlYSYreBXPmXcS8BOmbRAA2J1-3qGFn4e1g&sid=33ecfbdea7be54ba&fp=firefox&serviceName=Gun&mode=multi#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+      "host": "8.209.249.205",
+      "port": 5555,
+      "latency_ms": 3.5,
+      "uri": "ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.249.205:5555#%F0%9F%87%AF%F0%9F%87%B5%20%E2%9D%84%EF%B8%8F%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F"
     },
     {
       "rank": 95,
-      "name": "🇳🇱 ❄️ Нидерланды",
+      "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
-      "host": "86.54.28.75",
-      "port": 443,
-      "latency_ms": 4.9,
-      "uri": "vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&sid=1d86d17709852910#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
+      "host": "185.215.132.18",
+      "port": 19999,
+      "latency_ms": 3.5,
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
       "rank": 96,
-      "name": "🇷🇺 ❄️ Россия",
+      "name": "🇬🇬 ❄️ GG",
       "group": "MAIN",
-      "host": "91.206.92.158",
-      "port": 18443,
-      "latency_ms": 4.9,
-      "uri": "ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@91.206.92.158:18443?#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+      "host": "130.185.144.4",
+      "port": 995,
+      "latency_ms": 3.5,
+      "uri": "ss://YWVzLTI1Ni1nY206Wm1FME56QTVNakF5TkRVell6WTJaVFpoWm1NeU1tRXpNekUwTm1ReQ@130.185.144.4:995#%F0%9F%87%AC%F0%9F%87%AC%20%E2%9D%84%EF%B8%8F%20GG"
     },
     {
       "rank": 97,
-      "name": "🇬🇧 ❄️ Великобритания",
+      "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
-      "host": "2.28.120.67",
-      "port": 80,
-      "latency_ms": 4.9,
-      "uri": "vless://2d16e984-17ca-42e9-984a-94387d80a97a@2.28.120.67:80?path=%2F&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20%E2%9D%84%EF%B8%8F%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"
+      "host": "216.152.155.23",
+      "port": 443,
+      "latency_ms": 3.5,
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
       "rank": 98,
-      "name": "🇫🇷 ❄️ Франция",
+      "name": "🇺🇸 ❄️ США",
       "group": "MAIN",
-      "host": "57.131.48.45",
-      "port": 8388,
-      "latency_ms": 4.9,
-      "uri": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%87%AB%F0%9F%87%B7%20%E2%9D%84%EF%B8%8F%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F"
+      "host": "216.152.156.159",
+      "port": 443,
+      "latency_ms": 3.5,
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.159:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=resources.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9D%84%EF%B8%8F%20%D0%A1%D0%A8%D0%90"
     },
     {
       "rank": 99,
-      "name": "🇳🇱 ❄️ Нидерланды",
+      "name": "🇷🇺 ❄️ Россия",
       "group": "MAIN",
-      "host": "82.38.31.157",
-      "port": 8080,
-      "latency_ms": 4.9,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
+      "host": "186.246.8.13",
+      "port": 443,
+      "latency_ms": 3.6,
+      "uri": "vless://00799b08-1090-4ed3-bec0-0fa26816a703@186.246.8.13:443?encryption=none&fp=firefox&path=/api/v2/stream&security=tls&sni=wnl.bootless.ru&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20%E2%9D%84%EF%B8%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
     },
     {
       "rank": 100,
-      "name": "🇳🇴 ❄️ Норвегия",
+      "name": "🇯🇵 ❄️ Япония",
       "group": "MAIN",
-      "host": "185.213.23.63",
-      "port": 990,
-      "latency_ms": 4.9,
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4%20%E2%9D%84%EF%B8%8F%20%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F"
+      "host": "158.101.151.157",
+      "port": 443,
+      "latency_ms": 3.6,
+      "uri": "vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.microsoft.com&fp=firefox&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0#%F0%9F%87%AF%F0%9F%87%B5%20%E2%9D%84%EF%B8%8F%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F"
     }
   ]
 }
