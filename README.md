@@ -1,28 +1,21 @@
-# 🎅 Хо-хо-хо! Юбилейная версия 🎅 Santa VPN 2.0 ❄️ уже здесь! 🎄❄️
+# 🎅 Хо-хо-хо! Обновление 🎅 Santa VPN 2.2 ❄️ уже здесь! 🎄❄️
 
-Здорово, кто смотрит это описание! Дед Мороз обновил наш движок до юбилейной версии **2.0** — быстрее, чище и праздничнее 🌨️☃️
+Здорово, кто смотрит это описание! Добавили фирменный автосервер в JSON (`autoserver.json`) с балансировщиком `leastPing` и актуальными серверами 🌨️☃️
 
-> 🎄 *🎄 С наступающим Новым 2027 годом от Santa VPN 2.0! 🎅❄️ Пусть пинг будет минимальным, скорость — как сани Деда Мороза, а соединение — без единого разрыва! Обход белых списков (БС) ждёт в конце списка, а для максимального комфорта переходи на формат Mihomo!*
+> 🎄 *🎄 С наступающим Новым 2027 годом от Santa VPN 2.2! 🎅❄️ Фирменный автосервер в JSON (autoserver.json), быстрый автовыбор, каскады и обход белых списков (БС)!*
 
-👉 **Обязательно прокликай все стрелочки ниже**, чтобы забрать ссылки (`mihomo.yaml`, облегчённый `sub2.txt`, `sub_bs.txt`, `sub.txt`, `road_dania`, `config.json`), QR-коды и инструкцию!
-
----
-
-### Что нового в юбилейном релизе 2.0
-* **Чистые новогодние имена в TXT (`sub.txt`, `sub2.txt`, `sub_bs.txt`):** после флага страны добавлена снежинка (`🇩🇪 ❄️ Германия`, `🇦🇺 ❄️ Австралия`, `🇦🇹 ❄️ Австрия`), убран весь лишний мусор, а в шапке прописана JSON-маршрутизация `road_dania/road_do_not_enter.json`.
-* **Подробные имена в Mihomo (`mihomo.yaml`):** в YAML сохранены роль узла и `IP:порт`, чтобы ядро и ты никогда не путались в серверах.
-* **Ускоренный многопоточный сканер:** параллельная загрузка источников и быстрый замер отклика.
+👉 **Обязательно прокликай все стрелочки ниже**, чтобы забрать ссылки (`autoserver.json`, `mihomo.yaml`, `sub2.txt`, `sub_bs.txt`, `sub.txt`, `road_dania`, `config.json`), QR-коды и инструкцию!
 
 ---
 
-## 📊 Актуальная сводка (v2.0-NewYear-105Countries)
+## 📊 Актуальная сводка (v2.2-NewYear-105Countries)
 
 | Показатель | Значение |
 | :--- | :--- |
-| **Всего живых серверов** | **1656** (MAIN: **1585** · БС: **89** · Каскад: **50**) |
+| **Всего живых серверов** | **1713** (MAIN: **1639** · БС: **101** · Каскад: **55**) |
 | **Облегчённый `sub2.txt`** | **Топ-100** самых стабильных узлов |
-| **Проверено источников (ссылок)** | **40** |
-| **Последнее обновление подписки** | **28.11.2026 12:25:24** |
+| **Узлов в `autoserver.json`** | **До 60** с `leastPing` |
+| **Последнее обновление подписки** | **28.11.2026 12:37:04** |
 | **Репозиторий** | https://github.com/danlil230/codevpn-config |
 
 ---
@@ -36,7 +29,8 @@
 
 | Формат подписки | Интерактивная ссылка | QR-код | Подсказка по добавлению |
 | :--- | :--- | :--- | :--- |
-| **⚙️ Mihomo (`mihomo.yaml`)** *(советуем!)* | [Открыть конфиг Mihomo](https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml) | ![QR Mihomo](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fraw.githubusercontent.com%2Fdanlil230%2Fcodevpn-config%2Fmain%2Fmihomo.yaml) | Внутри: `Автовыбор` (все узлы), `Режим БС` (`Автоматический` / `Ручной БС` / `DIRECT`) и `Каскад`, плюс IP-адреса узлов. |
+| **⚡ Фирменный Автосервер (`autoserver.json`)** | [Открыть autoserver.json](https://raw.githubusercontent.com/danlil230/codevpn-config/main/autoserver.json) | — | JSON-конфиг Xray с `burstObservatory` (`leastPing`), DNS и живыми серверами. |
+| **⚙️ Mihomo (`mihomo.yaml`)** *(советуем!)* | [Открыть конфиг Mihomo](https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml) | ![QR Mihomo](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fraw.githubusercontent.com%2Fdanlil230%2Fcodevpn-config%2Fmain%2Fmihomo.yaml) | Внутри: `Автовыбор`, `Режим БС` и `Каскад`, плюс IP-адреса узлов. |
 | **⚡ Облегчённый TXT (`sub2.txt` — Топ-100)** | [Открыть sub2.txt](https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub2.txt) | ![QR TXT2](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fraw.githubusercontent.com%2Fdanlil230%2Fcodevpn-config%2Fmain%2Fsub2.txt) | До 100 лучших серверов с чистыми новогодними названиями со снежинками ❄️. |
 | **🛡️ Только БС (`sub_bs.txt`)** | [Открыть sub_bs.txt](https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub_bs.txt) | — | Только узлы обхода белых списков (БС). |
 | **📄 Полный TXT (`sub.txt`)** | [Открыть полный sub.txt](https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt) | — | Полный пул серверов с чистыми названиями стран со снежинками ❄️. |
