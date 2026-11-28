@@ -1,8 +1,8 @@
 {
   "profile": "road_dania_do_not_enter",
-  "brand": "🎅 Santa VPN 3.2 🎄🎁",
-  "version": "v3.2-NewYear-FabricEdition",
-  "updated_at": "28.11.2026 20:27:43",
+  "brand": "🎅 Santa VPN 3.5 🎄🎁",
+  "version": "v3.5-NewYear-JubileeEdition",
+  "updated_at": "28.11.2026 20:43:53",
   "default_outbound": "PROXY",
   "rules": [
     {
