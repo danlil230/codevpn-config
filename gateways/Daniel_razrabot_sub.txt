@@ -1,12 +1,12 @@
-#profile-title: 🎅 Santa VPN 3.5 🎄🎁 LITE (Топ-50 · осталось 3 дн.)
+#profile-title: 🎅 Santa VPN 3.5 🎄🎁 LITE (Топ-50 · осталось 4 дн.)
 #profile-update-interval: 2
 #auto-server: url-test
 #profile-web-page-url: https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.json
 #support-url: https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.json
 #routing-json: https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.json
-#subscription-userinfo: upload=0; download=0; total=0; expire=1796146126; days_left=3d (осталось 3 дн.)
-#announce: 🎅 Хо-хо, Новый год уже скоро примчит! Совсем скоро уже декабрь, а значит новогодние конфиги ждут тебя! 🎄🎁 Общественные ссылки действуют до 5090 года (∞), а индивидуальные — по дням! · Срок: осталось 3 дн.
-# 🎄 Топ-50 лучших · осталось 3 дн. · 28.11.2026 20:43:53
+#subscription-userinfo: upload=0; download=0; total=0; expire=1796232526; days_left=4d (осталось 4 дн.)
+#announce: 🎅 Хо-хо, Новый год уже скоро примчит! Совсем скоро уже декабрь, а значит новогодние конфиги ждут тебя! 🎄🎁 Общественные ссылки действуют до 5090 года (∞), а индивидуальные — по дням! · Срок: осталось 4 дн.
+# 🎄 Топ-50 лучших · осталось 4 дн. · 28.11.2026 20:43:53
 wg://tel.de.tribukvy.ltd:2408?private_key=sSG9iYEf36ldWT6U7z5NRkeQDvOHpyIUrvkR%2BnyY44E%3D&public_key=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2%2F32-2606%3A4700%3A110%3A84f5%3Af220%3A687b%3Ad5cd%3A152f%2F128&mtu=1280#%F0%9F%8E%85%20%E2%9D%84%EF%B8%8F%20%D0%90%D0%92%D0%A2%D0%9E%D0%92%D0%AB%D0%91%D0%9E%D0%A0
 wg://tel.de.tribukvy.ltd:4198?private_key=p4yE8ptNGClgiiXPH2CMs5yZw%2BfOjNc9U%2FgrrXKNsYc%3D&public_key=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2%2F32-2606%3A4700%3A110%3A889d%3A322e%3A2b6e%3A19d3%3Aa6bd%2F128&mtu=1280#%F0%9F%8E%85%20%E2%9D%84%EF%B8%8F%20%D0%97%D0%90%D0%9F%D0%90%D0%A1%D0%9D%D0%9E%D0%99%20%D0%90%D0%92%D0%A2%D0%9E%D0%92%D0%AB%D0%91%D0%9E%D0%A0
 # === ❄️ MAIN ===
