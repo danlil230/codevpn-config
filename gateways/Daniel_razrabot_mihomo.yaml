@@ -1,4 +1,4 @@
-# 🎅 Santa VPN 3.1 🎄 (v3.1-NewYear-FamilyMachine) · Обновлено: 28.11.2026 17:21:11 · Серверов в YAML: 21
+# 🎅 Santa VPN 3.1 🎄 (v3.1-NewYear-FamilyMachine) · Обновлено: 28.11.2026 17:21:11 · Серверов в YAML: 23
 mixed-port: 7890
 allow-lan: false
 mode: rule
@@ -7,27 +7,29 @@ geodata-mode: false
 external-controller: 127.0.0.1:9090
 
 proxies:
-  - {"name": "🇩🇪 🎁 Германия · main (176.98.176.60:443)", "type": "vless", "server": "176.98.176.60", "port": 443, "uuid": "7ad63b26-bf70-4872-8fab-ebaf73a1e19d", "udp": true, "tls": true, "network": "tcp#🇩🇪 ❄️ германия · main (176.98.176.60:443)", "client-fingerprint": "firefox", "servername": "mosaic.topp-con.xyz", "flow": "xtls-rprx-vision-udp443"}
-  - {"name": "🇷🇺 🎁 Россия · main (200.96.109.197:14443)", "type": "vless", "server": "200.96.109.197", "port": 14443, "uuid": "7af8c5d0-ede6-40ab-9b9e-d7924f79d109", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "kiwi-logistic.ru", "reality-opts": {"public-key": "DFBCTsJbKYbaZGWGi_bKgIjrkoUmDaAha7iEe9fKWgo", "short-id": "d9662905"}}
-  - {"name": "🇩🇪 ✨ Германия · main (162.252.199.207:404)", "type": "vless", "server": "162.252.199.207", "port": 404, "uuid": "d7ec8987-0976-4903-9dff-5f7d7fbad343", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "yandex.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "3FUniksGGqjyy-0stdDMxdhqAJY-3V3f78kgmS4zEls", "short-id": "91567b119fa3c64c#🇩🇪 ❄️ Германия · main (162.252.199.207:404)"}}
-  - {"name": "🇳🇱 🔔 Нидерланды · main (171.22.183.167:443)", "type": "vless", "server": "171.22.183.167", "port": 443, "uuid": "04920673-035c-410d-94e4-5b1469d3fb6f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "171.22.183.167", "flow": "xtls-rprx-vision#🇳🇱 ❄️ Нидерланды · main #59"}
-  - {"name": "🇨🇿 🎁 Чехия · main (67.159.18.8:8443)", "type": "vless", "server": "67.159.18.8", "port": 8443, "uuid": "b58564f3-bcc4-4af9-8a47-7ad8039cba93", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "www.novinky.cz", "reality-opts": {"public-key": "T1ox3NAq2XpBQWzzHfro5L1ltDC6bv7ouFOYceuPmWQ", "short-id": "27f8050c"}}
-  - {"name": "🇷🇺 🦌 Россия · main (81.176.229.246:443)", "type": "vless", "server": "81.176.229.246", "port": 443, "uuid": "aa4645a0-35c4-4d5e-af13-b9e7cffc95d1", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "fr.cachevault.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "XTX6Yvtj5B4HENQbNCS0MH3jDqq5vj5gWlg2nilTviE", "short-id": "8ba02790a1480848#🇷🇺 ❄️ Россия · main (81.176.229.246:443)"}}
-  - {"name": "🇷🇺 🦌 Россия · main (46.243.232.149:443)", "type": "vless", "server": "46.243.232.149", "port": 443, "uuid": "b432a23a-acff-425c-bf69-70480cd6ed09", "udp": true, "tls": true, "network": "ws#🇷🇺 ❄️ россия · main (46.243.232.149:443)", "client-fingerprint": "firefox", "servername": "devcdn.icu"}
-  - {"name": "🇷🇺 🦌 Россия · main (94.228.167.210:8443)", "type": "vless", "server": "94.228.167.210", "port": 8443, "uuid": "ab53f3b6-7962-4bc1-90f6-8420767b22a8", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "cdn-nl.cahmes.space", "reality-opts": {"public-key": "R3xeImGP5Bsx42LkRruIs3vIKHnPVR9aodbouAiemzM", "short-id": "d73a212e98084d3b"}}
+  - {"name": "🇩🇪 ☃️ Германия · main (176.98.176.60:443)", "type": "vless", "server": "176.98.176.60", "port": 443, "uuid": "7ad63b26-bf70-4872-8fab-ebaf73a1e19d", "udp": true, "tls": true, "network": "tcp#🇩🇪 ❄️ германия · main (176.98.176.60:443)", "client-fingerprint": "firefox", "servername": "mosaic.topp-con.xyz", "flow": "xtls-rprx-vision-udp443"}
+  - {"name": "🇷🇺 🕯️ Россия · main (46.243.232.149:443)", "type": "vless", "server": "46.243.232.149", "port": 443, "uuid": "b432a23a-acff-425c-bf69-70480cd6ed09", "udp": true, "tls": true, "network": "ws#🇷🇺 ❄️ россия · main (46.243.232.149:443)", "client-fingerprint": "firefox", "servername": "devcdn.icu"}
+  - {"name": "🇬🇧 ✨ Великобритания · main (188.68.218.37:8443)", "type": "vless", "server": "188.68.218.37", "port": 8443, "uuid": "d13baced-948a-40d7-be31-7b44fa768552", "udp": true, "tls": true, "network": "xhttp#🇬🇧 ❄️ великобритания · main #7", "client-fingerprint": "edge", "servername": "rumulti.federal-usa.com", "reality-opts": {"public-key": "J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs", "short-id": "6b2f4e6ac9b1d2f0"}}
+  - {"name": "🇩🇪 🕯️ Германия · main (168.113.187.116:443)", "type": "vless", "server": "168.113.187.116", "port": 443, "uuid": "ecf65acd-ea72-0002-be5f-cd23afb2722f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "files.vpvi.store", "flow": "xtls-rprx-vision"}
+  - {"name": "🇩🇪 🎁 Германия · main (94.130.191.176:2087)", "type": "vless", "server": "94.130.191.176", "port": 2087, "uuid": "13bda8f2-02af-475f-a9b6-2dbc7f023ab5", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox#🇩🇪 ❄️ Германия · main (94.130.191.176:2087)", "servername": "static.176.191.130.94.clients.your-server.de", "flow": "xtls-rprx-vision"}
+  - {"name": "🇷🇺 ☃️ Россия · main (95.129.234.28:8443)", "type": "vless", "server": "95.129.234.28", "port": 8443, "uuid": "41e8129a-1ed0-4902-ab2f-0c3f81419456", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "linden-crest.cdn.cachefleet.com"}
+  - {"name": "🇷🇺 🦌 Россия · main (200.96.109.197:14443)", "type": "vless", "server": "200.96.109.197", "port": 14443, "uuid": "7af8c5d0-ede6-40ab-9b9e-d7924f79d109", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "kiwi-logistic.ru", "reality-opts": {"public-key": "DFBCTsJbKYbaZGWGi_bKgIjrkoUmDaAha7iEe9fKWgo", "short-id": "d9662905"}}
+  - {"name": "🇷🇺 🎄 Россия · main (94.228.167.210:8443)", "type": "vless", "server": "94.228.167.210", "port": 8443, "uuid": "ab53f3b6-7962-4bc1-90f6-8420767b22a8", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "cdn-nl.cahmes.space", "reality-opts": {"public-key": "R3xeImGP5Bsx42LkRruIs3vIKHnPVR9aodbouAiemzM", "short-id": "d73a212e98084d3b"}}
+  - {"name": "🇵🇱 ☃️ Польша · main (90.156.218.163:443)", "type": "vless", "server": "90.156.218.163", "port": 443, "uuid": "adc11f30-e4cb-4985-bf5e-f9ded69c019f", "udp": true, "tls": true, "network": "raw#🇵🇱 ❄️ польша · main (90.156.218.163:443)", "client-fingerprint": "qq", "servername": "eh.vk.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI", "short-id": "db04ce8bdb8900f1"}}
+  - {"name": "🇺🇸 🎄 США — обход БС (185.178.208.140:443)", "type": "vless", "server": "185.178.208.140", "port": 443, "uuid": "f4b08bf1-d9bd-4755-aa88-ba922282c608", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "qq#🇺🇸 ❄️ США — обход БС #14", "servername": "help.cs-on.ru", "ws-opts": {"path": "/useraction/collect/33de51ecdc75/", "headers": {"Host": "help.cs-on.ru"}}}
+  - {"name": "🇷🇺 🕯️ Россия · main (81.176.229.246:443)", "type": "vless", "server": "81.176.229.246", "port": 443, "uuid": "aa4645a0-35c4-4d5e-af13-b9e7cffc95d1", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "fr.cachevault.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "XTX6Yvtj5B4HENQbNCS0MH3jDqq5vj5gWlg2nilTviE", "short-id": "8ba02790a1480848#🇷🇺 ❄️ Россия · main (81.176.229.246:443)"}}
+  - {"name": "🇸🇪 🎁 Швеция · main (89.223.17.67:443)", "type": "vless", "server": "89.223.17.67", "port": 443, "uuid": "5db72264-1d45-0068-8f7e-d1574b43008e", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "nohope-67-s4.mcdeliver.ru", "flow": "xtls-rprx-vision#🇸🇪 ❄️ Швеция · main (89.223.17.67:443)", "reality-opts": {"public-key": "Aj6Lfc0JKKROX46eHAQHlzrNpOTY9CKp7BcVj9cw8Ag", "short-id": "75f8575e5396a2fe"}}
+  - {"name": "🇳🇱 🔔 Нидерланды · main (37.16.74.36:2053)", "type": "vless", "server": "37.16.74.36", "port": 2053, "uuid": "b58564f3-bcc4-4af9-8a47-7ad8039cba93", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "www.funda.nl", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "u8QY55NuwaED8-IEG2dw5G-VhmB6D5VSxfWhM38_XkA", "short-id": "8807cf28#🇳🇱 ❄️ Нидерланды · main #66"}}
+  - {"name": "🇷🇺 🕯️ Россия · main (193.233.91.94:443)", "type": "vless", "server": "193.233.91.94", "port": 443, "uuid": "c9c219dc-50da-4135-8e5b-67020291f0ec", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "a93t3jdl.cachecore.space#🇷🇺 ❄️ Россия · main (193.233.91.94:443)", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA", "short-id": ""}}
+  - {"name": "🇷🇺 🎄 Россия · main (157.22.207.67:443)", "type": "vless", "server": "157.22.207.67", "port": 443, "uuid": "f4b08bf1-d9bd-4755-aa88-ba922282c608", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "ruturkeymicro5.gangtype.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "bghjRaZFOKOS1TwpvBXyQJetutvQigF3_5jgSC4fUjE", "short-id": "a671b94142229346#🇷🇺 ❄️ Россия · main #68"}}
+  - {"name": "🇮🇹 🎁 Италия · main (178.172.227.124:10444)", "type": "vless", "server": "178.172.227.124", "port": 10444, "uuid": "1af36694-b548-4b18-89a0-bc076eab4ed7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "ads.x5.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo", "short-id": "8debcf36f1cc69ff"}}
+  - {"name": "🇫🇮 ❄️ Финляндия · main (194.34.133.74:443)", "type": "vless", "server": "194.34.133.74", "port": 443, "uuid": "f364e387-38fb-45fc-aac7-1ed32658ede3", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "qq", "servername": "fit-ai.site", "flow": "xtls-rprx-vision"}
+  - {"name": "🇷🇺 🦌 Россия · main (46.173.26.242:2083)", "type": "vless", "server": "46.173.26.242", "port": 2083, "uuid": "fb721937-6284-001a-9cbd-c3ba2cb66b4a", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "edge", "servername": "cdn.mornismp.ru"}
+  - {"name": "🇩🇪 ⭐ Германия · main (162.252.199.207:404)", "type": "vless", "server": "162.252.199.207", "port": 404, "uuid": "d7ec8987-0976-4903-9dff-5f7d7fbad343", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "yandex.net", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "3FUniksGGqjyy-0stdDMxdhqAJY-3V3f78kgmS4zEls", "short-id": "91567b119fa3c64c#🇩🇪 ❄️ Германия · main (162.252.199.207:404)"}}
+  - {"name": "🇳🇱 🎄 Нидерланды · main (171.22.183.167:443)", "type": "vless", "server": "171.22.183.167", "port": 443, "uuid": "04920673-035c-410d-94e4-5b1469d3fb6f", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "171.22.183.167", "flow": "xtls-rprx-vision#🇳🇱 ❄️ Нидерланды · main #59"}
   - {"name": "🇪🇺 ☃️ EU · main (5.42.126.33:443)", "type": "vless", "server": "5.42.126.33", "port": 443, "uuid": "1547ed3d-3bb7-4153-afdc-8eb3e9373c84", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "us2.nztvpn.com", "flow": "xtls-rprx-vision#🇪🇺 ❄️ EU · main (5.42.126.33:443)", "reality-opts": {"public-key": "Yn9rswmNTIdVx8jKgZkvQcqw61BRu_h_ZOl2blShDT4", "short-id": "0da7e14db353e7d0"}}
-  - {"name": "🇩🇪 🔔 Германия · main (94.130.191.176:2087)", "type": "vless", "server": "94.130.191.176", "port": 2087, "uuid": "13bda8f2-02af-475f-a9b6-2dbc7f023ab5", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox#🇩🇪 ❄️ Германия · main (94.130.191.176:2087)", "servername": "static.176.191.130.94.clients.your-server.de", "flow": "xtls-rprx-vision"}
-  - {"name": "🇷🇺 🎁 Россия · main (94.183.195.206:443)", "type": "vless", "server": "94.183.195.206", "port": 443, "uuid": "6972bdba-42a2-1b61-8250-ef75f01a933d", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "eu124.cdn77.icu#🇷🇺 ❄️ Россия · main (94.183.195.206:443)", "reality-opts": {"public-key": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8", "short-id": "1ed136481e0ede74"}}
-  - {"name": "🇳🇱 🛷 Нидерланды · main (37.16.74.36:2053)", "type": "vless", "server": "37.16.74.36", "port": 2053, "uuid": "b58564f3-bcc4-4af9-8a47-7ad8039cba93", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "chrome", "servername": "www.funda.nl", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "u8QY55NuwaED8-IEG2dw5G-VhmB6D5VSxfWhM38_XkA", "short-id": "8807cf28#🇳🇱 ❄️ Нидерланды · main #66"}}
-  - {"name": "🇺🇸 ✨ США — обход БС (185.178.208.140:443)", "type": "vless", "server": "185.178.208.140", "port": 443, "uuid": "f4b08bf1-d9bd-4755-aa88-ba922282c608", "udp": true, "tls": true, "network": "ws", "client-fingerprint": "qq#🇺🇸 ❄️ США — обход БС #14", "servername": "help.cs-on.ru", "ws-opts": {"path": "/useraction/collect/33de51ecdc75/", "headers": {"Host": "help.cs-on.ru"}}}
-  - {"name": "🇷🇺 🎄 Россия · main (95.129.234.28:8443)", "type": "vless", "server": "95.129.234.28", "port": 8443, "uuid": "41e8129a-1ed0-4902-ab2f-0c3f81419456", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "linden-crest.cdn.cachefleet.com"}
-  - {"name": "🇸🇪 🛷 Швеция · main (89.223.17.67:443)", "type": "vless", "server": "89.223.17.67", "port": 443, "uuid": "5db72264-1d45-0068-8f7e-d1574b43008e", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "nohope-67-s4.mcdeliver.ru", "flow": "xtls-rprx-vision#🇸🇪 ❄️ Швеция · main (89.223.17.67:443)", "reality-opts": {"public-key": "Aj6Lfc0JKKROX46eHAQHlzrNpOTY9CKp7BcVj9cw8Ag", "short-id": "75f8575e5396a2fe"}}
-  - {"name": "🇮🇹 🛷 Италия · main (178.172.227.124:10444)", "type": "vless", "server": "178.172.227.124", "port": 10444, "uuid": "1af36694-b548-4b18-89a0-bc076eab4ed7", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "edge", "servername": "ads.x5.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo", "short-id": "8debcf36f1cc69ff"}}
-  - {"name": "🇵🇱 ⭐ Польша · main (90.156.218.163:443)", "type": "vless", "server": "90.156.218.163", "port": 443, "uuid": "adc11f30-e4cb-4985-bf5e-f9ded69c019f", "udp": true, "tls": true, "network": "raw#🇵🇱 ❄️ польша · main (90.156.218.163:443)", "client-fingerprint": "qq", "servername": "eh.vk.ru", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI", "short-id": "db04ce8bdb8900f1"}}
-  - {"name": "🇩🇪 ⭐ Германия · main (81.200.158.26:443)", "type": "vless", "server": "81.200.158.26", "port": 443, "uuid": "0b6a7fe0-206b-4071-9f96-cd397d1ec01a", "udp": true, "tls": true, "network": "grpc", "client-fingerprint": "firefox", "servername": "fernglade.gerqix.online"}
-  - {"name": "🇷🇺 ⭐ Россия · main (157.22.207.67:443)", "type": "vless", "server": "157.22.207.67", "port": 443, "uuid": "f4b08bf1-d9bd-4755-aa88-ba922282c608", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "ruturkeymicro5.gangtype.com", "flow": "xtls-rprx-vision", "reality-opts": {"public-key": "bghjRaZFOKOS1TwpvBXyQJetutvQigF3_5jgSC4fUjE", "short-id": "a671b94142229346#🇷🇺 ❄️ Россия · main #68"}}
-  - {"name": "🇬🇧 ☃️ Великобритания · main (188.68.218.37:8443)", "type": "vless", "server": "188.68.218.37", "port": 8443, "uuid": "d13baced-948a-40d7-be31-7b44fa768552", "udp": true, "tls": true, "network": "xhttp#🇬🇧 ❄️ великобритания · main #7", "client-fingerprint": "edge", "servername": "rumulti.federal-usa.com", "reality-opts": {"public-key": "J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs", "short-id": "6b2f4e6ac9b1d2f0"}}
-  - {"name": "🇸🇪 🕯️ Швеция · main (82.202.138.238:443)", "type": "vless", "server": "82.202.138.238", "port": 443, "uuid": "5a26246a-0fcd-0001-827c-83fc8d0a4f17", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "qubawzlmppvnuzsfoo.fcloudservices.site#🇸🇪 ❄️ Швеция · main (82.202.138.238:443)"}
+  - {"name": "🇨🇿 🛷 Чехия · main (67.159.18.8:8443)", "type": "vless", "server": "67.159.18.8", "port": 8443, "uuid": "b58564f3-bcc4-4af9-8a47-7ad8039cba93", "udp": true, "tls": true, "network": "xhttp", "client-fingerprint": "firefox", "servername": "www.novinky.cz", "reality-opts": {"public-key": "T1ox3NAq2XpBQWzzHfro5L1ltDC6bv7ouFOYceuPmWQ", "short-id": "27f8050c"}}
+  - {"name": "🇫🇮 ⭐ Финляндия · main (2.31.173.62:8443)", "type": "vless", "server": "2.31.173.62", "port": 8443, "uuid": "940bc02a-cb4d-4320-82eb-fe79b8ba111a", "udp": true, "tls": true, "network": "tcp", "client-fingerprint": "firefox", "servername": "static.107.217.233.167.clients.your-server.de#🇫🇮 ❄️ Финляндия · main (2.31.173.62:8443)", "flow": "xtls-rprx-vision"}
 
 proxy-groups:
   - name: "Режим"
@@ -40,27 +42,29 @@ proxy-groups:
     tolerance: 60
     lazy: false
     proxies:
-      - "🇩🇪 🎁 Германия · main (176.98.176.60:443)"
-      - "🇷🇺 🎁 Россия · main (200.96.109.197:14443)"
-      - "🇩🇪 ✨ Германия · main (162.252.199.207:404)"
-      - "🇳🇱 🔔 Нидерланды · main (171.22.183.167:443)"
-      - "🇨🇿 🎁 Чехия · main (67.159.18.8:8443)"
-      - "🇷🇺 🦌 Россия · main (81.176.229.246:443)"
-      - "🇷🇺 🦌 Россия · main (46.243.232.149:443)"
-      - "🇷🇺 🦌 Россия · main (94.228.167.210:8443)"
+      - "🇩🇪 ☃️ Германия · main (176.98.176.60:443)"
+      - "🇷🇺 🕯️ Россия · main (46.243.232.149:443)"
+      - "🇬🇧 ✨ Великобритания · main (188.68.218.37:8443)"
+      - "🇩🇪 🕯️ Германия · main (168.113.187.116:443)"
+      - "🇩🇪 🎁 Германия · main (94.130.191.176:2087)"
+      - "🇷🇺 ☃️ Россия · main (95.129.234.28:8443)"
+      - "🇷🇺 🦌 Россия · main (200.96.109.197:14443)"
+      - "🇷🇺 🎄 Россия · main (94.228.167.210:8443)"
+      - "🇵🇱 ☃️ Польша · main (90.156.218.163:443)"
+      - "🇺🇸 🎄 США — обход БС (185.178.208.140:443)"
+      - "🇷🇺 🕯️ Россия · main (81.176.229.246:443)"
+      - "🇸🇪 🎁 Швеция · main (89.223.17.67:443)"
+      - "🇳🇱 🔔 Нидерланды · main (37.16.74.36:2053)"
+      - "🇷🇺 🕯️ Россия · main (193.233.91.94:443)"
+      - "🇷🇺 🎄 Россия · main (157.22.207.67:443)"
+      - "🇮🇹 🎁 Италия · main (178.172.227.124:10444)"
+      - "🇫🇮 ❄️ Финляндия · main (194.34.133.74:443)"
+      - "🇷🇺 🦌 Россия · main (46.173.26.242:2083)"
+      - "🇩🇪 ⭐ Германия · main (162.252.199.207:404)"
+      - "🇳🇱 🎄 Нидерланды · main (171.22.183.167:443)"
       - "🇪🇺 ☃️ EU · main (5.42.126.33:443)"
-      - "🇩🇪 🔔 Германия · main (94.130.191.176:2087)"
-      - "🇷🇺 🎁 Россия · main (94.183.195.206:443)"
-      - "🇳🇱 🛷 Нидерланды · main (37.16.74.36:2053)"
-      - "🇺🇸 ✨ США — обход БС (185.178.208.140:443)"
-      - "🇷🇺 🎄 Россия · main (95.129.234.28:8443)"
-      - "🇸🇪 🛷 Швеция · main (89.223.17.67:443)"
-      - "🇮🇹 🛷 Италия · main (178.172.227.124:10444)"
-      - "🇵🇱 ⭐ Польша · main (90.156.218.163:443)"
-      - "🇩🇪 ⭐ Германия · main (81.200.158.26:443)"
-      - "🇷🇺 ⭐ Россия · main (157.22.207.67:443)"
-      - "🇬🇧 ☃️ Великобритания · main (188.68.218.37:8443)"
-      - "🇸🇪 🕯️ Швеция · main (82.202.138.238:443)"
+      - "🇨🇿 🛷 Чехия · main (67.159.18.8:8443)"
+      - "🇫🇮 ⭐ Финляндия · main (2.31.173.62:8443)"
   - name: "Режим БС"
     type: select
     proxies: ["Автоматический", "Ручной БС", "DIRECT"]
@@ -71,11 +75,11 @@ proxy-groups:
     tolerance: 60
     lazy: false
     proxies:
-      - "🇺🇸 ✨ США — обход БС (185.178.208.140:443)"
+      - "🇺🇸 🎄 США — обход БС (185.178.208.140:443)"
   - name: "Ручной БС"
     type: select
     proxies:
-      - "🇺🇸 ✨ США — обход БС (185.178.208.140:443)"
+      - "🇺🇸 🎄 США — обход БС (185.178.208.140:443)"
       - "DIRECT"
   - name: "Каскад"
     type: url-test
@@ -89,26 +93,28 @@ proxy-groups:
   - name: "Ручной"
     type: select
     proxies:
-      - "🇩🇪 🎁 Германия · main (176.98.176.60:443)"
-      - "🇷🇺 🎁 Россия · main (200.96.109.197:14443)"
-      - "🇩🇪 ✨ Германия · main (162.252.199.207:404)"
-      - "🇳🇱 🔔 Нидерланды · main (171.22.183.167:443)"
-      - "🇨🇿 🎁 Чехия · main (67.159.18.8:8443)"
-      - "🇷🇺 🦌 Россия · main (81.176.229.246:443)"
-      - "🇷🇺 🦌 Россия · main (46.243.232.149:443)"
-      - "🇷🇺 🦌 Россия · main (94.228.167.210:8443)"
+      - "🇩🇪 ☃️ Германия · main (176.98.176.60:443)"
+      - "🇷🇺 🕯️ Россия · main (46.243.232.149:443)"
+      - "🇬🇧 ✨ Великобритания · main (188.68.218.37:8443)"
+      - "🇩🇪 🕯️ Германия · main (168.113.187.116:443)"
+      - "🇩🇪 🎁 Германия · main (94.130.191.176:2087)"
+      - "🇷🇺 ☃️ Россия · main (95.129.234.28:8443)"
+      - "🇷🇺 🦌 Россия · main (200.96.109.197:14443)"
+      - "🇷🇺 🎄 Россия · main (94.228.167.210:8443)"
+      - "🇵🇱 ☃️ Польша · main (90.156.218.163:443)"
+      - "🇷🇺 🕯️ Россия · main (81.176.229.246:443)"
+      - "🇸🇪 🎁 Швеция · main (89.223.17.67:443)"
+      - "🇳🇱 🔔 Нидерланды · main (37.16.74.36:2053)"
+      - "🇷🇺 🕯️ Россия · main (193.233.91.94:443)"
+      - "🇷🇺 🎄 Россия · main (157.22.207.67:443)"
+      - "🇮🇹 🎁 Италия · main (178.172.227.124:10444)"
+      - "🇫🇮 ❄️ Финляндия · main (194.34.133.74:443)"
+      - "🇷🇺 🦌 Россия · main (46.173.26.242:2083)"
+      - "🇩🇪 ⭐ Германия · main (162.252.199.207:404)"
+      - "🇳🇱 🎄 Нидерланды · main (171.22.183.167:443)"
       - "🇪🇺 ☃️ EU · main (5.42.126.33:443)"
-      - "🇩🇪 🔔 Германия · main (94.130.191.176:2087)"
-      - "🇷🇺 🎁 Россия · main (94.183.195.206:443)"
-      - "🇳🇱 🛷 Нидерланды · main (37.16.74.36:2053)"
-      - "🇷🇺 🎄 Россия · main (95.129.234.28:8443)"
-      - "🇸🇪 🛷 Швеция · main (89.223.17.67:443)"
-      - "🇮🇹 🛷 Италия · main (178.172.227.124:10444)"
-      - "🇵🇱 ⭐ Польша · main (90.156.218.163:443)"
-      - "🇩🇪 ⭐ Германия · main (81.200.158.26:443)"
-      - "🇷🇺 ⭐ Россия · main (157.22.207.67:443)"
-      - "🇬🇧 ☃️ Великобритания · main (188.68.218.37:8443)"
-      - "🇸🇪 🕯️ Швеция · main (82.202.138.238:443)"
+      - "🇨🇿 🛷 Чехия · main (67.159.18.8:8443)"
+      - "🇫🇮 ⭐ Финляндия · main (2.31.173.62:8443)"
       - "DIRECT"
 
 rules:
