@@ -1,46 +1,53 @@
-# 🎅 Хо-хо-хо! Обновление 🎅 Santa VPN 2.3 ❄️ уже здесь! 🎄❄️
+# 🎅 🎅 Santa VPN 3.2 🎄🎁 — Новогодняя прокси-хаб-машина 🎄🎁❄️
 
-Здорово, кто смотрит это описание! Автовыбор встроен прямо в подписку с шифрованием REALITY/TLS, а лишние отдельные ссылки убраны 🌨️☃️
+<details open>
+<summary>🎅 <b>Новогоднее приветствие от Деда Мороза</b> (нажми, чтобы свернуть/развернуть) 🎄🎁</summary>
 
-> 🎄 *🎄 С наступающим Новым 2027 годом от Santa VPN 2.3! 🎅❄️ Автовыбор встроен прямо в подписку с шифрованием REALITY/TLS, каскады и обход белых списков (БС) в конце списка!*
+<br>
 
-👉 **Обязательно прокликай все стрелочки ниже**, чтобы забрать ссылки (`mihomo.yaml`, `sub2.txt`, `sub_bs.txt`, `sub.txt`, `road_dania`, `config.json`), QR-коды и инструкцию!
+### 🎄 Хо-хо, Новый год уже скоро примчит! Совсем скоро уже декабрь, а значит новогодние конфиги ждут тебя! ❄️☃️🔔
+
+> ✨ **Здесь тебе встроят новогодний интерфейс!** 🎁🎅  
+> Сайт оформлен в тканевой текстуре в цвет Деда Мороза со стикерами, подписка действует 1 день с возможностью продления в боте и аренды за 30 тапов (+1 день за каждые 30 тапов)!
+
+</details>
 
 ---
 
-## 📊 Актуальная сводка (v2.3-NewYear-105Countries)
+## 📊 Актуальная сводка (v3.2-NewYear-FabricEdition) 🎄
 
 | Показатель | Значение |
 | :--- | :--- |
-| **Всего живых серверов** | **1546** (MAIN: **1508** · БС: **122** · Каскад: **49**) |
-| **Облегчённый `sub2.txt`** | **Топ-100** самых стабильных узлов |
-| **Последнее обновление подписки** | **28.11.2026 17:21:11** |
+| **Всего живых серверов** | **1573** (MAIN: **1498** · БС: **144** · Каскад: **44**) |
+| **Срок подписки** | **1 день (24 часа)** — продление в боте |
+| **Облегчённый `sub2.txt`** | **Топ-100** самых живучих узлов |
+| **Последнее обновление конфигов** | **28.11.2026 20:27:43** |
 | **Репозиторий** | https://github.com/danlil230/codevpn-config |
 
 ---
 
 <details>
-<summary>🔗 <b>LinkStation — разверни таблицу, чтобы узнать все ссылки, QR-коды и MTProto Proxy</b> (нажми, чтобы развернуть)</summary>
+<summary>🔗 <b>Общественные ссылки и сайт</b> (нажми, чтобы развернуть) 🎁</summary>
 
 <br>
 
-### 🌐 [🚀 Кликни по этой кнопке, чтобы перейти на новогоднюю LinkStation и MTProto Proxy](https://danlil230.github.io/codevpn-config/index.html)
+### 🌐 [🚀 Открыть новогодний сайт общественных ссылок](https://danlil230.github.io/codevpn-config/index.html)
 
-| Формат подписки | Интерактивная ссылка | QR-код | Подсказка по добавлению |
-| :--- | :--- | :--- | :--- |
-| **⚙️ Mihomo (`mihomo.yaml`)** *(советуем!)* | [Открыть конфиг Mihomo](https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml) | ![QR Mihomo](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fraw.githubusercontent.com%2Fdanlil230%2Fcodevpn-config%2Fmain%2Fmihomo.yaml) | Внутри: `Автовыбор`, `Режим БС` и `Каскад` с шифрованием REALITY/TLS. |
-| **⚡ Облегчённый TXT (`sub2.txt` — Топ-100)** | [Открыть sub2.txt](https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub2.txt) | ![QR TXT2](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fraw.githubusercontent.com%2Fdanlil230%2Fcodevpn-config%2Fmain%2Fsub2.txt) | До 100 лучших серверов с чистыми новогодними названиями со снежинками ❄️. |
-| **🛡️ Только БС (`sub_bs.txt`)** | [Открыть sub_bs.txt](https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub_bs.txt) | — | Только узлы обхода белых списков (БС). |
-| **📄 Полный TXT (`sub.txt`)** | [Открыть полный sub.txt](https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt) | — | Полный пул серверов с чистыми названиями стран со снежинками ❄️. |
-| **🛣️ JSON маршрутизации (`road_dania`)** | [Открыть road_do_not_enter.json](https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.json) | — | JSON-правила маршрутизации для TXT-подписок. |
-| **🧩 JSON с правилами (`config.json`)** | [Открыть config.json](https://raw.githubusercontent.com/danlil230/codevpn-config/main/config.json) | — | Готовый JSON со встроенными правилами маршрутизации и автовыбором. |
+| Формат | Прямая ссылка |
+| :--- | :--- |
+| **⚙️ Mihomo (`mihomo.yaml`)** | `https://raw.githubusercontent.com/danlil230/codevpn-config/main/mihomo.yaml` |
+| **⚡ Облегчённый TXT (`sub2.txt`)** | `https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub2.txt` |
+| **📄 Полный TXT (`sub.txt`)** | `https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub.txt` |
+| **🛡️ Только БС (`sub_bs.txt`)** | `https://raw.githubusercontent.com/danlil230/codevpn-config/main/sub_bs.txt` |
+| **👨‍👩‍👧‍👦 Семейный YAML (`family_mihomo.yaml`)** | `https://raw.githubusercontent.com/danlil230/codevpn-config/main/relatives/family_mihomo.yaml` |
+| **🛣️ Маршрутизация (`road_dania`)** | `https://raw.githubusercontent.com/danlil230/codevpn-config/main/road_dania/road_do_not_enter.json` |
 
 </details>
 
 ---
 
 <details>
-<summary>⚠️ <b>Дисклеймер</b> (нажми, чтобы раскрыть)</summary>
+<summary>⚠️ <b>Дисклеймер</b> (нажми, чтобы раскрыть) 🎅</summary>
 
 <br>
 
